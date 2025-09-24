@@ -1,0 +1,20 @@
+{
+    "name": null,
+    "education": [
+        {
+            "degree": "Bachelor of Fine Arts Visual Communication",
+            "university": "American University in Dubai",
+            "year": "2009"
+        },
+        {
+            "degree": null,
+            "university": "Al-Ma'arifa Private School",
+            "year": "2005"
+        },
+        {
+            "degree": null,
+            "university": "Rosary School",
+            "year": "2004"
+        }
+    ]
+}

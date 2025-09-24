@@ -1,0 +1,25 @@
+{
+    "name": null,
+    "education": [
+        {
+            "degree": "Associate of Arts: Culinary Arts",
+            "university": "Washburne TradeSchool",
+            "year": "1985"
+        },
+        {
+            "degree": null,
+            "university": "Culinary Institute of America Hyde Park",
+            "year": null
+        },
+        {
+            "degree": "Associate of Arts",
+            "university": "Illinois Benedictine University",
+            "year": null
+        },
+        {
+            "degree": null,
+            "university": "Culinary Institute of America Greystone",
+            "year": null
+        }
+    ]
+}
