@@ -1,0 +1,95 @@
+THERMAL ENGINEERING INTERN
+Summary
+
+© Graduating Ph.D. candidate with a research focus on developing large-scale computational models using statistics and machine earning
+approach. Interested in a career as a computational scientist or quantitative software developer.
+
+Accomplishments
+
+© FEM Analysis of I-D Aluminum Bar with Sinusoidal Body Force Conducted meshing and force analysis on MATLAB,
+
+© Correlated the results with ABAQUS.
+
+FEM Heat Transfer Analysis of 2-D Plate with Hole with Thermal Load and Boundary Conditions Conducted meshing and force analysis
+on MATLAB.
+
+Correlated the results with ABAQUS Finite Element Analysis of 2D beam with Central Hole Conducted meshing and force analysis on
+MATLAB.
+
+Correlated the results with ABAQUS On the Anthropomorphic Control of Redundant Robot Anns Focused on the design and control of
+robotic devices that will help and collaborate with humans in every-day life.
+
+© Defined anthropomorphism in robot motion and controlling a robot in an anthropomorphic way.
+
+Design and Development ofa Two-Wheeled Autonomous Parallel Parking Robot Designed a two-wheeled robot that is coded to run
+autonomously with the ability to parallel park using Solidworks.
+
+The IR sensor and MCU were used to simulate the “eyes" and the "brain" of the driver.
+
+Tested ina simple built course to simulate a scenario in which there is an open space for the robot to park inside.
+
+Reusable Delta II Launch Vehicle Conducted design feasibility and alternatives analysis ofa compktely reusable Delta-II rocket.
+
+Analyzed a variety of different re-entry technologies and engines to accomplish this task.
+
+The business sense of the final designs was analyzed along with the near-term feasibility.
+
+Senior Design Project: High Speed Human Powered Vehick Designed a high performance human powered vehicle using Solidworks.
+Provided the framework technology to help increase the effectiveness of the common bicycle to the point of being more competitive with
+(linem Ouicke eucelinemtctice eect om
+
+Metahvorking Practice Leamed the operation of various types of manufacturing machines, including computer numerical control CNC)
+lathe, milling machine, drilling machine, grinding machine.
+
+Programmed the CNC machine using G code to machine and fabricate some mechanical parts.
+
+Experienced welding, casting, forging, heat treatment, and automotive engine disassembly Electrical Engineering Practice Leamed soldering
+electronic components on circuit boards.
+
+Made a radio and a speaker PUBLICATIONS 1.
+
+Wang, Y., Artemiadis, P., "Closed-Form Inverse Kinematic Solution for Anthropomorphic Motion in Redundant Robot Ans," 2013
+Advances in Robotics & Automation.
+
+a
+Wang, Y.,Mignokt, M., “Reduced Order Modeling for the Dynamic Response Prediction and Design ofa Part ofa Complex Structure,"
+WO. 0.04 EG uniccrecr aD roelenremiibeticl | Byun ocd
+
+schivor anes
+OFA ER RG rca GQon cian clk OS MEH
+
+* Research and development of linear and nonlinear models for hypersonic vehicles that takes into account full
+© acro/structuraVthermml couplings, and predicts fatigue life/damage & health monitoring for specific mission.
+Co cellos
+
+Thermal Engineering Intem 07/2011 to 08/2011 Company Name City
+
+© Hands-on training at large-scale industrial plants.
+
+Leamed about designing and manufacturing of large power generating equipment, including axial compressor, energy recovery turbo-
+
+expander, centrifugal compressor, centrifugal blower, large fan, steam turbine, etc.
+
+© Studied management mode of enterprise, production and marketing process.
+
+AFRL- University Collaborative Center in Structure Sciences Cooperated with the Air Force Center focusing on the development of
+
+affordable and reusable hypersonic vehicles.
+
+© Varied research tasks throughout including: developing methodologies to efficiently predict dy- namic response ofa representative" panel
+with nonlinear geometric deformations; modifying structural and thermal models to reflect: () the muttidisciplinary interactions (ii) the
+evolution of mterial properties (iil) the occurrence and evolution of material nonlinearity.
+
+Researcher 01/2011 to 01/2013 City, State
+
+© Worked alongside ASU faculty in the research and design ofassistive robotic devices which needed efficient.
+Pree ei osc
+
+¢ Varied research tasks throughout including: fabricating an infrared position sensor suit,.
+
+© machining mounting plates for a position sensor camera, and MATLAB utilization for data and signal
+
+a cL
+
+Teacher's Assistant Company Name City , State
+

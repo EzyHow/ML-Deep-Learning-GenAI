@@ -1,0 +1,79 @@
+ENGINEERING MANAGER
+[Osheue Oona ang
+
+A practiced, professional Test Manager with over 20 years of success maming test and validation of next-generation software / hardware
+technologies across multiple concurrent projects and releases. Delivered effectively to time and budget ona variety of compkx, large-scale, multi-
+pktform projects including: complex network framework, IoT (Internet of Things), teecommunication and hosted services, business process tools,
+automation frameworks. Managed, trained and mentored mutti-disciplinary, geographically dispersed teams including, software development, test
+and validation, planning, QA, configuration management, agile scrum master and product owner.
+
+Qualifications
+
+Product, system and software testing across multiple OS
+phtforms (Windows, Windows Store, Android, iOS,
+Fie RAG hak ow peteas ikea. cmne belie © 4€¢Scrum muster for multiple concurrent scrum teams. Facilitate and
+
+Agik, V-model and Waterfall development methods organize all scrum ceremonies including the daily stand-up, retrospectives,
+Managing multiple on-going projects with geographically dems, release planning and backlog grooming meetings. Support the
+dispersed teams, establishing and using sub-contract scrum team member to mitigate impediments, resolve contlict.
+
+resources with on and off-shore models * Tool administration and usage including, Jira, Rally, Clear Quest, Quality
+Developing clear test strategies, proven ability to translate Center, ProtexIP, Sub-version, GIT, RTC, Bugzilla, Quality Center,
+fictional, non-fimetional and use case requirements into Jenkins, Gerrit and others
+
+test plan, scripts and autormtion with full traceability to « Experience in testing software as a service (SaaS) applications
+requirements Design performance and stress testing of peer-to-peer / device-to-device
+Leading continuous improvement of development, testing network application and cloud XMPP server
+
+and organization processes
+
+Ue a ca NEO I com UCOECILCLeMm Doleceetne kes
+
+Aug oanan at acs
+Company Name Septerrber 2011 to Current Engineering Manager
+lena El CG
+
+Managing and overseeing highly technical, multidisciplinary team of 15+ testers and developers, which were responsibk for developing
+device to device and IoT automntion framework, developing 10 different SDKs test tools across 5 different OS phtforms (Windows,
+Windows store, Android, iOS and Linux) and simultaneously testing and validating multiple independent software products for Intel WPRD
+Wireless Software Services (WSS).
+
+Cultivate partnerships with globally cross companies and teams in managing or-time, successfil product (including open source) releases.
+Establish and manage filly fimctional outsourced validation operation in Bangalore, India, leading to significant cost reduction and enabled
+follow-the-sun testing to reduce the product development cycle and freeing fill time employees for higher-value work.
+
+Collaborate with executive management, product owner, sales and marking to provide validation and test estimated for feature or product
+release Formulate and implement software testing strategies for multiple concurrent projects Designed and supervised the developrent of
+cross OS platfonvs peer-to-peer/device-to- device test autormtion framework Designed and supervised the development of 10 different
+SDK test tools using C/C++, C#, Java, and Objective C Defined OIC/oTivity compliance and certification test cases for open source
+community Chair bug weekly bug scrub review and prioritization Instrumental in reducing traditional project integration phases froma two
+weeks to one day by implementing continues integration (CI) autormted build and test systems that enabled 100% build acceptance test
+automation.
+
+Instrumental in setting up Gerrit web based code review, as results the code quality has significantly improved and reduced regression test
+cyck by 50% Tool administration Rally, Clear quest, Jira and others Volunteered to be the scrum muster for multiple scrum tears in
+additional to fulfilling my job responsibilities Managed and put process in place to ensure the off shore development center become seamless
+extension of our development team.
+
+Delivered incremental automated feature level testing on muttiple projects across different OS platforms for wired and wirekss technologies.
+
+Company Name July 2009 to September 2011 Director of Quality Assurance
+lena El CG
+
+Responsible for testing Qwarq transport agnostic wireless connectivity framework, the goal was to create new user experience leveraging
+multiple wireless technologies to make device-to-device connection easy.
+
+Developing clear test strategies, proven ability to translate fictional, non-fictional and use case requirements into test plan, scripts and
+automntion with full traceability to requirements Establish the quality assurance department for the company Managed, hired and trained test
+engineers Planning all resources and schedule test activities within and cross companies Worked closely with development, and support to
+implement and promote quality policies and processes throughout the company Worked closely with multiple PC OEMs simultancously to
+understand their quality criteria and ensure the product quality meet or exceed their quality requirements.
+
+Procure Hardware and software for test and developrrent Instrumental in conducted usability tests.
+
+Company Name November 2006 to July 2009 Director of Quality Assurance
+lena El CG
+
+ESHOMMInRe Line meeececti eee Om beneere sslavd
+Planed all resources and schedule test activities while working closely with clients
+

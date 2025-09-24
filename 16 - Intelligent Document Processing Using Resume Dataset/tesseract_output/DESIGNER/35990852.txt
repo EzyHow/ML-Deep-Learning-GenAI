@@ -1,0 +1,87 @@
+WEBSITE DESIGNER
+Ss
+Software developer well-versed in the entire workflow for developing and implementing websites, including: consulting with the customer,
+designing mock-ups, programming the site, and incorporating customer feedback.
+als
+CMA Stsl buch tag
+PN eral
+MVC 4.0
+Bots BSats aN (as
+03
+Microsoft SQL Server, SQL, Stored Procedures
+ONTO Lorb gence neces)
+IS UW Bo OK]
+Javascript, JQuery
+Puan
+LIN
+
+ese e)e
+Adobe Design Suite
+Agik Software Development Methodology
+
+Accomplishments
+© JCH Digital Designs Portfolio, which lists a number of client sites: httpyAvww.cocs.comyjchdesigns/portfolio.htm
+
+schivor anes
+Website Designer , 12/2016 to Current Company Name i City , State
+
+© Currently working as a freelancer to redesign websites for my own clients and customers.
+The process involved working with the client during all stages of development:
+
+Discussed requirements, documentation, and business needs regarding the design of the site.
+Oh elet Pines chocdeuegerenelHoeciieceeninlled tetese lees
+
+Worked with the client throughout the testing stages to make sure they were happy.
+Delivered the final website within the client’s budget and the quoted timefiame.
+
+Used: C#, ASP.Net, HTMLS, CSS3, Javascript, JQuery, mySQL, Adobe Design Suite.
+
+Senior Software Developer , 07/2016 to 11/2016 Company Name iA City , State
+
+© Contracted to Fiserv and assigned to the Velocity Loan Software Migration project which involved upgrading credit union clients from
+Mo ot AOR
+
+© This involved taking a client's XSLT and XML files and transforming them with custom mapping software into LUXML files, which were
+
+then processed by the Velocity software.
+
+OT aeciibbochis eames rele moe ane ucir ka ala kPa MOTO Leto Eom OUR belted
+
+calculations as the version 2 mapping files.
+
+Helped develop unit testing software to ensure the LUXML files were fully tested before delivering them to the client.
+© Supervised and reviewed the work of 3 offhore developers in India.
+
+© Used: XML, XSLT, Visual Basic, SQL Server, TFS, JIRA.
+
+Support Engineer Tier III , 02/2016 to 04/2016 Company Name 1 City , State
+
+* Contracted to Abi, a company which provides accounting and membership-managerment software to non-profit associations.
+© Investigated and resolved tickets escalated from the Tier II engineers.
+
+Worked with the lead developer to create testing and review processes to ensure the version 3 mapping files contained the same data and
+
+© Helped resolve the maintenance tickets in queue which resulted in improved metrics for our department and faster issue-resolution time for
+
+Omura
+© Used C#, Visual Studio 2014, SQL Server 2012, TFS, Agile development, and .NET Framework 4.5.
+
+Lead Software Developer , 12/2014 to 02/2016 Company Name 1% City , State
+
+« Acompany which creates digital models for clients for use in artwork, animation, and other projects, as well as designs and develops
+Belem
+
+Supervised and led a team of developers on a number of projects.
+
+This included guiding and mentoring the junior developers and helping them improve their skils.
+
+Worked as a project manager ona project which involved creating a model ofa soccer player for a client.
+
+This included going back and forth between the client and the modelmaker to refine the model as needed.
+
+Created, redesigned, and cleaned up websites for a number of clients, using C#, ASP.Net, AngularJS, and PHP.
+
+Created digital models ofa hospital interior for a medical equipment company.
+
+This involved having phone meetings with the client to create a list of requirements which were passed to the mode-imker.
+

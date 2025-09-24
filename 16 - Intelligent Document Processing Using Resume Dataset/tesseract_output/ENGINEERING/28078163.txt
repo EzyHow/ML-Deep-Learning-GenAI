@@ -1,0 +1,119 @@
+SOFTWARE ENGINEERING MANAGER
+
+RStreratag
+
+Experienced software engineer, and hands-on engineering manager with 20+ years of product development experience in broadcast media, and
+10+ years of experience in leading development teams (20+ engineers), hiring (10+ offers, 40+ interviews), HR personnel procedures,
+performance reviews, and project transitions.
+
+Professional Experience
+
+September 2009
+
+to
+
+Current
+
+Company Name City , State Software Engineering Manager
+
+Visual C+, Windows, STL, OOP, MFC, threads, file maps, ATL, IPC, FTP, TCP, HTTP, XML, JSON, services, web services, REST
+
+API, SOA, media formats and standards, codec SDK and integration, MPEG-DASH, API design and documentation.
+
+BCD spinoff as Inmagine in 2013) Nexio video servers and applications facilitate collaborative workflow in Nexio LAN with video servers,
+
+Ros eestn ey yobs Lenn rain ce eR Teena
+
+¢ Media cones from proprietary SAN or generic storage off NAS.
+
+Development and team management, Nexio servers’ applications, Playout business unit: Relocated from IL to CA, took on larger rok, and
+
+video server applications as well.
+
+Led teamof6 from Burbank, team of 8 from Naperville, and team of 8 (indirect report) from Beijing,
+
+Introduced peer reviews, repurposed components, and all3 tears collaborated as one large team.
+
+Adopted Scrum since 2014 (ScrumMaster), team of3 to 6 from Burbank; Napervilk office closed in 2013.
+
+Team migrated source revision control to Mercurial / Jenkins, 30+ products.
+
+Recipient of "Reuse Innovation Award" for IP reuse, major factor to Server business unit tumaround.
+
+Rekased deliverabks for Nexio Software Suite 6.0, 7.0, 8.0, Global Proxy Suite 2.5, 3.0, 3.5 Initiated, architected and executed SOA
+
+fromconcept to completion to facilitate decoupled UI clients, 2 web services and 10 services, and selected hands-on projects include:
+
+Hercules web service for web player solution based off MPEG-DASH Created C++ engine to process URI, handie sessions, and deliver
+
+segmented MP4 atoms (H.264, AAC) Provides dynamic HTMLS player page; JavaScript source based off dash JS.
+
+Supports multiple raster sizes and bit rates; "ready to go" and "just in time" sessions.
+
+Team helped with providing C# web service framework, CLI bridge layer, and device testing.
+
+Published fictional, REST API, and URI specification document.
+
+JSON services on TCP stack using C-++- as part of SOA Created API framework classes; multi-threaded server side socket classes.
+
+Created header only JSON parser on top of open source "rapid json" for SAX style reader.
+
+Developed new services: Content Manager, Helper, Picon, and Requestor.
+
+Evolved as services: Encoder, GPRX, Helios, MB, Scavenger, and Transcoder.
+
+Guided GPRX, Helper, and Requestor to compktion.
+
+Published 10 JSON protocol API documents for 3rd party and in-house use.
+
+Content Manager service for primary-backup workflows Multi-threaded rules based engine to manage media contents between two
+
+domains.
+
+7 Uoiioueemn keane ech rate OWI DL rkeckce nivel (Lora BomranAneecloumrentcHn ences al Tia
+
+Scavenger, Transcoder for low-res proxy management Needed solution to improve kegacy products, required regular hand holding,
+
+remnined escalated.
+
+¢ Proposed new approach, teamed up, and successfilly wrote two new 24/7 products.
+
+© MediaBase DLL, desktop explorer for assets (C++, MFC) Guided to optimize original implementation for 200K IDs to meet storage
+Rela line nance
+
+¢ Achieved constant UI performance under few milliseconds regardkess of user operation.
+
+Proposed to introduce "dta-handker" architecture in fip-server Approach helped to consolidate all media formats as one product build, and
+
+Resta
+
+Team added one converter DLL per media container format for import and export.
+
+November 2005
+
+to
+
+PATS AUN)
+
+Company Name City , State Software Engineering Manager
+
+¢ Development and team management, Nexio editing applications: Led team of 8 ftom Napervilk, and team of 8 (indirect report) from
+bSraThinem
+
+¢ Hired, mentored and built core editing team to size of 8, and collaborated with expanded team in Beijing,
+
+¢ Established development process document for consistent procedures and peer code review guidelines,
+
+© Teamestablished crash dump analysis procedures to help troubleshoot hard to repeat issues.
+
+¢ Released deliverabks for Video Editing Suite 2.5 Proposed architecture and teamed up to develop server integration modukes for video
+broadcast workflows.
+
+August 1997
+
+ie)
+
+October 2005
+
+Company Narme City , State Principal Software Engineer
+

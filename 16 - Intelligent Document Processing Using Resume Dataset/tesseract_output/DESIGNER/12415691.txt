@@ -1,0 +1,84 @@
+INFORMATION DESIGNER
+
+Sumnnry of Qualifications
+
+Strong leadership, project managernent, System Administration and technical skills to meet the efficiency and optimization needs. Has 3+ years of
+professional experience in managing, developing and maintaining software systems, web applications, and database systems. Experience in
+Unix/Linux System Administration, Oracle Database Administration (112), MySQL database administration, Ellucian Banner ERP, and Oracle
+Application Express(APEX).Educated with solid math background and equipped with strong problem solving skills
+
+Technical Skills
+
+Languages : C, C++, C#.NET, Java, Python, PHP, Mathematica, Orack, PL/SQL, MySQL, XHTMUCSSA
+
+Environment: Windows, UNIX, Linux(Red Hat), Windows Server, WAMP, LAMP A
+
+Softwares IDE: TOAD for Oracle, SQL Developer, Visual Studio, Eclipse, NetBeans, Dev-C-++, Notepad+-,Microsoft OfficeA
+
+schivor anes
+
+Information Designer , 09/2012 i4 Current Company Name 1% City , State
+
+© Luminis system administration - The Luminis Platform is a Web portal system({https/aggicaccess.cameron.edu) that creates a common
+gateway to the information that students, faculty, and staffuse every day.
+
+© This systemis running on T5220 server Chief technical staff for maintaining university's website(www.cameron.edu ) Degree Works
+administrator - Implemented Degree Works application on Linux server with backend Oracle database with highly customized XML
+Cleat nan ceceiencaTen
+
+© DegreeWorks is a comprehensive, web-based academic advising and degree audit tool that helps students and their advisors successfilly
+navigate curriculum requirements Plans and implements backup and recovery of the Oracle database using RMAN and MySQL Database
+with mysqldump utility Provided system administration for 12+ servers of Red Hat Linux, Centos Linux and Unix(Solaris 10) including
+routine maintenance, patching, and system backups and restore, and software and hardware upgrades Experienced in Performance Tuning,
+Query Optimization, and Database Consistency Checks Experienced in developing stored procedures, Triggers, Cursors, Joins, Views,
+Cursors and SQL on databases: MySQL, Oracle 1 1g Experienced in designing, modeling, developing, deploying and supporting database -
+driven applications using Oracle Application Express (APEX) Experienced in Monitoring servers by using tools like Nagios, OSSEC (Host
+-based Intrusion Detection System), and LogWatch.
+
+¢ Maintain Web Servers: Apache, DNS, Tomcat, CAS, WebGUI CMS systems Managing users, group and their permissions Managing
+server security using iptables Install and maintain SSL Certificates for more than 15 Web Hosts including Oracle Walkt Certificates,
+Apache, and Tomcat Integrate, maintain and configuring Single Sign-On(SSO) to web application with Luminis Platform Installed,
+Upgraded and applied patches on Oracle RDBMS and on different modules of Banner System Well-versed in developing reporting
+applications using Cognos Business Intelligence components like Report Studio, Framework Manager, and Query Studio Created custom
+reports using PL/SQL to fimctional users Experienced on Automatic Scripting using shell scripts bash and perl Responsible for issuing
+Banner Security access for faculty, staff, and students Solve security access and profile related probkevs Handling and generating tickets via
+BMC Track-It tool.
+
+Work History
+
+Research Assistant 05/2012 1% 07/2012 Company Name i City , State
+Office Assistant 05/2012 it4 07/2012 Company Nane iA City , State
+Mathemntics Tutor 10/2010 i 05/2012 Company Name i City , State
+SWseeay
+
+Job Search Engine
+
+© Coordinated a group of five team members and improved the workflow and productivity of the team to deliver the product on time
+
+* Developed the backend code in PHP that will connect employers and job seekers in Lawton, OK area through web application
+
+* Designed smart skill matching algorithm that recommends employers with prospective employee and vice-versa, matching the requirement
+
+* Developed SQL Queries for connecting to Database Tables and use the data to access user information in addition to adding information to
+Ile ex}
+
+a eC e ny
+
+« A This project was fimded by CU Faculty Research Grant, joint work with Dr. Wayne EbyA A AA
+Assist professor in preparing and analyzing data; perform comparative analyses from former experimental data a€«
+© Mathermtica was used to get the dataA A A A
+
+Banking system project
+
+A Designed and impkrented the project using C with the concept of OOP
+
+© Used the é€oemp.ha€ library, came up with the client program and server program which run on two different systems and communicate
+with one another via TCP socket
+
+* Developed the interface on both sides and also showcasing the activities going on whik the system is active
+
+* Accountable for testing and debugging in Linux environment Accomplished the project within time constraint
+
+brairestbeny
+2012 Cameron University i City , State Bachelor of Science Computer Science and Mathematics GPA :3.7
+

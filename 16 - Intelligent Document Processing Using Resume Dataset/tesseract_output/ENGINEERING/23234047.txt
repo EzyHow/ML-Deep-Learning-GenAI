@@ -1,0 +1,92 @@
+ENGINEERING SUPERVISOR
+als
+PLC: IEC 61131 (Ladder Logic, Functional Block Diagram, Structured Text, Instruction List. ), Java, C, Visual Basic, VHDL, PSpice,
+Assembly (Intel, Motorola, TI), Labview. Software Packages: AutoCAD, Inventor, Matlab, Microsoft Office, PSIM, Easy Power, Xilinx ISE,
+Printed Circuit Board CAD (Protel), Siemens Step 7, Wago CoDeSys, Allen Bradley RSLogix, ERP (Alliance, Global Shop, XA, SAP).
+Professional Experience
+Engineering Supervisor
+Deven scwAN CO ORGrica Qe ena Nt coe ON mmCEl (a
+© Leading and supervising engineering staff members as they perform their tasks and participating in budgeting, scheduling, and staff
+Prvateyea bea
+* Establishing design standards, specifications, criteria, scheduling and resource-management for products and projects.
+© Working closely with product line management to serve clients’ aftermarket needs.
+© Recommending and implementing improvements to engineering processes, methods and controls; conferring with management, production
+and other departments regarding manuficturing capabilities, production schedules, and other considerations to maximize efficiencies.
+
+Electrical Design Engineer
+May 2011 to December 2014 Company Name - City, State
+
+Identifying products within line of variable frequency drives, switchboards, generator contro! cabinets and PLC based contro! consoles
+having potential for improvement.
+
+Dato e ier aM UCMCR cet Gi be ama rice cee bead item
+
+Composing documents outlining the projects design, verification and validation process in accordance with API standards.
+
+Modeling the new/improved products using computer simulation tools in order to confirm specified performance.
+
+New/irproved products comprehensive hardware design and complete software integration.
+
+Creating bill of mterials, one-line drawings, schematics, layouts and instruction to manufacture prototypes.
+
+Developing test procedures to verify prototypes performance.
+
+Specific Projects: Custom pre-charge circuit for VFD systems with multiple inverters and commnn rectifier.
+
+24VDC overvoltage rely for protection of 24VDC control devices against overvoltage.
+
+Standalone VFD house for raising derrick mast, test Topdrives and other applications IECEx/ATEX certification of low voltage motors
+(600V, 1800HP).
+
+Design of new motor testing facility using common DC link VFDs to replace Active Front End Drives.
+
+* Commissioning of Siemens VFD Imeup.
+
+Project Engineer
+October 2008 to May 2011 Company Name - City , State
+
+© Designing generator control systems, variable frequency drives, dynamic braking cabinets, switchboards, panel boards, jacking switchgears,
+PLC based contro! consoles and remote IO boxes for land and offshore rigs.
+
+Developing bill of materials, block diagrams, electrical one-lines, detailed schematics and interconnection cabling diagrams.* Supervising
+PSEA LOIS NL cecCRO Ric UE RtES ACTS
+
+Composing factory acceptance test procedures for manufactured products and supervising the procedures.
+
+Performing detailed troubleshooting of drilling equipment using computer simulations and by testing equipment on site and in the field.
+Traveling to customer site to meet with client, test, troubleshoot and commission the product.
+
+As the project manager, leading the team of onsite manufacturing staff, vendors and subcontractors.
+
+Performing technical studies including center of gravity calculation, motor model, short circuit, breaker coordination, harmonic cakulation
+(IEEE 519), arc flash, fault analysis, voltage drop and power flow study to obtain certifications for designed equipment.
+
+Compiling technical and non-technical reports to describe products.
+
+Specific Projects: Kencana KM-1 tender drilling unit, Kencana Shipyard, Malaysia: VFDs, MCCs, generator controls, panel boards (480V
+and above) and control consoks.
+
+Friede and Goldman: VFD based jacking switchgears and control consok.
+
+Remedial OffShore: VFD Ineup, control and IO consoks.
+
+Xtreme Drilling and Coil: standalone VFD lineup, control and 10 consoles.
+
+Shengli: Jacking switchgear.
+
+Facility Engineer
+August 2006 to October 2008 Company Name - City , State
+
+Power distribution General Responsibilities: Composing proposals, estimates and construction drawings for lighting, low and medium voltage
+power distribution, grounding and alternative power generation systems.
+
+Responsible for the campus renovations, environmental safety, autormation, controls and HVAC needs.
+
+Specific Projects: New testing facilities for several engineering departrents.
+
+Renovation of buikdings HVAC system
+
+Conversion of 2.4kV power distribution to 12.5kV.
+
+Golf cart charging station with solar panel roof.
+

@@ -1,0 +1,91 @@
+ENGINEERING INTERN
+als
+© CH, Python, MATLAB, Git, Bash, R, SQL (basic). Experienced in Linw/Unix and using high performance computing clusters.
+Machine Leaming Tools and Libraries: Scikit-leam, Pandas, Seabomn, matplotlib, TensorFlow (basic). (1 built a XGBoost
+model that has 77.5% accuracy in the Kaggle Titanic challenge.)
+Computational Fluid Dynamics and Discrete Element Method Codes
+CFD-DEM, OpenFOAM, CFD-ACE+A®, FluentA®, COMSOLA®, LAMMPS, and LIGGGHTS.
+Reservoir and Fracture Modeling Tools
+CMGA® for reservoir simultion; FracProA® for fracture simulation and analysis; Saphir for pressure transient analysis.
+Experimental and Statistical Methods
+SEM, AFM, Confocal Microscopy, Regression analysis, Statistical process control, Design of experiments.
+
+schivor anes
+ENGINEERING INTERN 08/2016 1% 12/2016 Company Name State
+
+© Project: Develop a cavings transport model for optimizing hok-cleaning operations.
+
+© Developed a solids transport model for predicting cuttings/cavings bed height during a hole-cleaning operation.
+
+© Incontrast to conventional CFD models that typically take several hours to run, this novel numrrical model can obtain results within a few
+minutes, enabling timely optimization of the well circulation scheduk.
+
+Investigated the competitive landscape and designed the commercialization plan for the numerical model.
+
+© Leveraged the experiences from internal drilling experts and aligned with all stakeholders throughout the development process.
+
+ENGINEERING INTERN 05/2016 i 08/2016 City , State
+
+© Project: Optimize diverter pumping schedule for better production performance affer well re-stimulation.
+
+* Built a simulator to model proppant, diverter, and slurry distribution in a plug-and-perf hydraulic fracturing operation.
+
+¢ Derived a simple proxy model to substitute time-consuming CFD-DEM simuhtions for predicting diverter transport through perforation
+festa
+
+* Simuhtion time drops fiom 48+ hours to less than 1 sec.
+
+¢ Provided recommendations for pumping schedule design ina fracturing treatment.
+
+PROCESS ENGINEER 04/2012 1% 05/2013 Company Name City
+
+© Improve disphy yield through statistical modeling, process control, and tool modifications.
+
+AN ROL arte Rue NCO A
+
+2012 by completing two specific yield improverrent tasks in merely two months, first time for QMT-TW to award its engineers after
+Canina
+
+© Optimized sealing process of interferometric modulator (iMoD) display that led to 52% pre-fimctional yield increase.
+
+© Increased the up time of panel encapsulation station from 73% to 92% by keading two too modification projects involving a group of 5
+equipment engineers and 2 external support engineers from Japan.
+
+PROPPANT/DIVERTER TRANSPORT in HORIZONTAL WELLS, UT Austin Aug.
+
+© 2014-present.
+
+© Evahnte the efficiency of proppant/diverter transport in perforated horizontal wells under different slurry flow conditions using a combined
+CFD-DEM approach.
+
+Developed a multivariate statistical model to substitute traditional CFD model for predicting proppant transport through perforations at
+various flow conditions.
+
+Miveeoln HuisiLenakuemelre seat oeme errant ace
+
+Accurately predicted DAS-measured proppant distribution in a field case with kss than 10% error.
+
+Chu-Hsiang Wu Page 2 DESIGN and SELECTION of GRAVEL PACK and SAND CONTROL SCREENS, UT Austin Jun.
+
+PA RS econ
+
+Develop analytical, DEM, and Monte Carlo models for predicting sand production through gravel packs and sand control screens.
+Accurately predicted 6 sand production lab-test results obtained from operators with less than 15% error using the developed model.
+Invented a DEM-based approach for extracting pore throat size distribution of compkx packings.
+
+Results show that the pore throat sizes within gravel packs are usually between 1/5 to 1/9 of the effective gravel size.
+
+The findings correspond remarkably well with previous field observations and enable firther optimization of gravel pack designs.
+
+COO UTS ina nnine
+
+© Designed highly mixing-efficient serpentine channels for biomedical detection.
+© Devised mixing index to quantify mixing efficiency of two heterogeneous fluids flowing in microfluidic channeb.
+
+pinay
+
+SPE transhtor, Nepal medical assistance group, cofounder of Taiwan Bio-Nano Youth Initiative. SELECTED PUBLICATIONS A- Wu, C.-H.,
+Sharm, M. M. 2017. A DEM-based approach for evaluating the pore throat size distribution ofa filter medium, Powder Technology, ISSN
+0032-5910, hitps//doi.org/10.1016/.powtec.2017.09.018. A- Wu, C.-H., Shanma, M. M., Chanpura, R. et al. 2017. Factors Goveming the
+Predicted Performance of Multilayered Metal-Mesh Screens. SPE Drilling & Completion. SPE-178955-PA. https//doi.org/10.2118/178955-PA.
+

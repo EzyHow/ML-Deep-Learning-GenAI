@@ -1,0 +1,109 @@
+SOFTWARE ENGINEERING TEAM LEAD
+Profile
+
+Thave over 10 years of experience in the field of IT infrastructure consulting and operations. I have worked on various Microsoft technologies such
+as System Center Suite (SCOM, SCCM, SCVMM), virtualization (Hyper V), Windows 2003/2008 Active directory, DNS, DHCP, Windows
+Clusters, scripting (PowerShell, VBScript), etc. I am currently working for Accenture Technologies. I am currently onsite working for our client in
+USA since March 2012. I am looking for another opportunity within USA in infrastructure consulting/ Systems Administration that gives me the
+opportunity to excel in my current skills and paves way for leaming new technologies. System Center System Center Operations Manager 2012 -
+SCOM Currently working on SCOM for over 3 years as technical lead/ SME. Experience in designing, implementing and operating SCOM
+
+Dui Pe Mem Suman anemia Oe ece insincere me RIT ANY NMR IO DM irene neki el ol
+
+Professional Experience
+
+RIN AUIS
+
+to
+
+January 2015
+
+Company Name Software Engineering Team Lead
+
+Anne Bcp elec a vere N cs aCcem (Oeste II
+
+SAS SARIN U CA aoc ha coleietuoan tine snceiatoMy aces ret bags rete
+
+Project 1: Stanford Hospital and Clinics Tenure: March 2012 Till date I am currently the onshore technical lead and subject matter expert
+for our monitoring solution called Microsoft System Center Operations Manager (SCOM 2012).
+
+OS gee cumer me ceranincd ROO Renee (melee rena
+
+T amako leading the operations.
+
+Sonx of the key activities that I have been leading here are: Designing, configuring and operating SCOM.
+
+SrerteeR enioneca Obrelatic cc ke ule Richy) Tier cate
+
+WW ileiecnrana meatier keen urel em
+
+Building new management packs using VSAE, VMPD, Authoring Tools Migratior/ upgrade of SCOM 2012 RTM to Rekase 2.
+Managing daily operational tasks.
+
+Working on SLA and other reports and dashboards.
+
+Application monitoring/ Synthetic transactions Prior to joining the monitoring team, I was working for their core infrastructure.
+
+My rok in the team was to identify flaws and remediate core IO services such as AD, DNS, DHCP, WINS, File/ Print, etc.
+
+Talso provided escalation support for critical incidents.
+
+We worked on decommissioning Windows 2003 domain controlkrs out of the environment.
+
+T also implemented DNS scavenging,
+
+Project 2: This project dealt with phnning and deployment of SCCM site systems across geographies.
+
+We were also responsible for software distribution and OSD.
+
+Ako we built customer facing artifacts around designing and building SCCM architecture.
+
+Project 3: Performing P2V and V2V migrations to optimiae/mininize datacenter footprint This project was the largest implementation of
+Ny ROM Aca Deamon ROE br coeetcns sam Lael
+
+SRS CES eds ence keorce renee kenlecon ome Ger (Cruz a
+
+As part of the project we were performing V2V and P2V migrations of the servers in ange murbers.
+
+My rok in the project was that of SME responsible for handling technical escalations and getting the migrations done within the specified
+Coralie wun
+
+Supporting and maintaining the client infrastructure I was working for a US-based client who is a major producer of mckear power there.
+The job minly related to the remote administration and providing support 24x5.
+
+The client had implemented all the latest Microsoft technologies in their infrastructure.
+
+I have been a part of the project since the transition phase.
+
+I was managing a team of 6 people operating in shifts.
+
+Achievenrnis: I had been promoted twice within the first 2 years of my tenure in the company and had been given "Contribution
+Significantly above Peer Group" rating in the yearly evaluation cyck.
+
+April 2007
+
+to
+
+RIAN)
+
+COT NaN bee ewes ie
+
+RETA lc)
+
+to
+
+Wot AU
+
+eee tA NTR AL Coomera Cry
+
+¢ Iwas working as part of the messaging and collaboration team.
+
+¢ Job was to administer the intemal Windows infrastructure of the company.
+
+© Day to day tasks included working on tickets escalated from the Ist line support/Helpdesk, monitoring systems, attending to SCOM alerts,
+Caom
+
+¢ Monthly tasks included Software Updates Management.
+
+Prosodic cual ccmingalnaor nce tipce karti
+

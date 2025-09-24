@@ -1,0 +1,112 @@
+TEST ENGINEERING
+
+Profile
+
+Tam seeking the challenging position with a technology company that will allow me to apply and enhance my skills of being Test Engincer to their
+fullest potential. Possessing over 10 years of experience in the electronics manufacturing and test engineering environment can bring high level of
+responsibility and technical role in your company. In addition, I am eager to contribute my creativity and hard work towards the success of your
+company and to the growth of the fast developing field.
+
+Areas of Expertise
+
+Digital/Analog and RF Circuits Design Techniques and Troubleshooting, used Agilent E5061B-3L5 LF-RF Network Analyzer for
+Thiele ecpereluniey
+
+Proficient with circuit board and microscope soldering skills and rework
+Interpret in reading schematic diagram for AC/DC circuits
+
+View Expert CAD Design software operating experience
+
+TEXMAC Flying probe 9000 series program experience
+
+Agiknt 83480A Digital Communication Analyzer operating experience
+Employment Hands on Computer Skills
+
+Python Scripting for test automation
+
+Sohris 10 OS, Linux Mandrake and Red Hat OS Configuration
+
+SQL Server Configuration
+
+UNIX Script & Shell Programming
+
+Networking Essentials
+
+Networking Cabling Cat5e, Cat6 and Fiber Optic
+
+TCP/IP and OSI Layers Knowledge
+
+Windows XP Pro-Win7 Mac OS X Leopard
+
+PC Hardware Installation PC Troubleshooting
+
+PC Software Installation Routers and Switches
+
+(Or) Boone omeeaensd
+
+Network Subnetting, routing and addressing
+
+Professional Experience
+Test Engineering Feb 2006 to Current
+Company Name i City , State
+
+Perform component debugging on the complex android mobile technology products with Android Debug commands.
+
+Bring up ongoing reliability lab for the android device compliance testing that includes turbke test, drop test, button cycling test, thermal
+testing and humidity environment testing.
+
+Troubleshoot and perform final root cause failure analysis on the component level for Riverbed Steelhead, Sturgeons, and Interceptors
+AZ Tole tie caleba lncliers ele rstL ce
+
+Responsible to perform fimetional test and system level validation, Report directly to the customer's quality engineering department with final
+failure analysis data results on RMA/FA systems.
+
+Manage RMA returns and process orders.
+
+Perform incoming quality check on the RMA systems.
+
+DO earteoB icon mce Nn eae Cnty
+
+Use test equipment tools Digital/Analog meters, Signal Generators, Oscilloscope Tektronix TDS 3052, Fluke 26III True RMS MM meter
+to find root cause on the electrical circuits.
+
+Bled ae UB Oasis brad
+
+Directly work with customer's engineers to resolve all test related issues and act as primary technical customer interface.
+
+Prepare and develop test process procedures and disseminate test-enginecring standards for developed test systems.
+
+Measure and control test debug WIP.
+
+Stay abreast of technology trends.
+
+Design, develop, maintain test procedures, and tester software for electronic circuit board production.
+
+NTE ee Lema Le cnoR NEAL OM com CeruunUm ed bateite melee an eclnicce
+
+Review test equipment designs, data and RMA issues with customers regularly.
+
+Support backend production floor with BOM breakdown for Intel X-86 server platform, Created Visual Aids.
+
+work instructions for asserrblies from frontend to backend.
+
+Properly impkment ECO, ECN, Deviations, SPIs and ETN rework on the production floor.
+
+Design barcode labels with loftware design software for asserrblies and subassemblies.
+
+Create MES routes for the assemblies and controlled process verification in the MES system.
+
+Bronze Six Sig certified.
+
+Ut enlom up Berber ce tue ee aly
+
+The 5S's, Kaizen Blitz or Events, QRQC, Workflow Analysis, Layouts & workcell design, Kanban, Simulated continuous flow, De-
+bottlenecking, Takt Time and other process related improverrents, FPY reports for test matrix, Test Debug WIP reports.
+
+Applied Lean Six Sigm methodologies to improve production process.
+
+© Work with Test and Manufacturing engineering departients for DFT and developed test programs.
+
+Extensive experience in NPI environment and NPI process improvements, customer's NPI projects portfolio includes McAfee, Riverbed,
+HP, Silverspring networks, NEC, Cisco, Pocketfinder, Sunpower & Sable networks.
+
