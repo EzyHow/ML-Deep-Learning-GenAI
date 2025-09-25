@@ -1,0 +1,80 @@
+SOFTWARE ENGINEER
+Summary
+
+Accomplished development professional with over ten years of experience in integrating IT Operations processes with sustainable customized
+applications to promote team performance and efficiency gains. An apt student in programming and markup languages matching multiple
+technologies together to best enhance and complement IT Service Management and Project Management best practices and deliver consistent,
+quality solutions in the fast-paced, evolving environment of technology.
+
+Highlights
+© Languages: HTML, JavaScript, CSS, Perl, XML,
+XSLT, JSON, PHP, mySQL, VBScript
+¢ Frameworks: AngularJS, Bootstrap
+CR Ga iret MUP uni nice mcr eos NCO
+Application Developer
+
+Cr gyieltec ieee cca anne ecm Oulton com ivemm alii
+Gonz, SiteScope, Keynote, Onmiture, Urchin, Request Tracker
+
+Accomplishments
+
+© Launched Incident Management, Problem Managerrent and Change Managerrent tied to a centralized Configuration Managerment
+Database, leveraging Service-Now and Web Services integrations to synchronize and orchestrate information across multiple tools (e.g.
+(AU NiPcreetr ew ce ecHiNAUec OM MNPON Mle cecUelt}
+
+Leveraged Web Services to implement a dashboard framework for data mashups that compares ITSM metrics with business key
+performance indicators (KPIs) from several tools, such as Service-Now, Onmiture, Gormz, and an internal data warehouse, to inform
+Fleet en aieelgest ie
+
+Successfillly integrated IT Procurement workflows in the Service-Now Service Catalog module including integration points with Excel
+reports, data exports for Oracle Ebiz, and complex approval emuil notifications and workflows
+
+Coded and implemented a custom interim Web-based CRM tool to share and track customer information and troubk tickets while
+researching and reviewing full-featured third-party CRM rival
+
+schivor anes
+Software Engineer
+September 2012 to Current Company Name 1% City , State
+
+Digital Media Solutions (VDMS) is a branch of Verizon concentrating on new products primarily focused on the Intemet video lifecycle from
+content perparation to display on all current and emerging pltfomrs. It acquired Edgecast Networks, a content delivery network, in 2014.
+
+© Customize the Service-Now platform using server-side and client-side JavaScript to complement the release of Incident, Problem, and
+Change managerent processes and policies
+
+© Utilize Jelly scripting, and the AngularJS and Bootstrap framework to produce automated managerent reports with custom UI and
+navigational features.
+
+© Architect the Configuration Management Database (CMDB) to complement Service Operations processes, identifying known errors and
+driving down Incident resolution times.
+
+© Integrate Confluence, JIRA, Service-Now, Active Directory, Bitbucket, and Git to synchronize data between both development and
+operations, utilizing both native configurations and extended capabilities via web services.
+
+Technical Project Manager
+January 2010 to September 2012 Company Name i City , State
+
+Ednunds.comis a premier online resource for automotive information for consumers, leveraging cutting-edge technology and tools to deliver just-
+in-tine, relevant content for car shoppers and enthusiasts.
+
+© Lead a team buikding out Continuous Integration and Continuous Delivery efforts utilizing Maven, Jenkins, Chef, Cloudstack, an Selenium to
+ni icp) evan acca ebrntecerie Gt B iki celty
+
+© Apply best practices in Agile SCRUM software development, lean manufacturing concepts, and kan startup principles to the IT Operations
+group to ensure support and maintenance projects are completed ina consistent and predictable manner.
+
+* Foster a DevOps community within the organization by creating and promoting a framework that encourages early and frequent
+communication between development and operations in launching services, fom resource provisioning through service architecture and
+Service Level Agreement (SLA) definitions
+
+Automntion and Integration Engineer
+RES AUR Ran mA eRe lian clea LON mEST l(c
+
+* Extend the capabilities of the Service-Now application, including the development and implementation of the Service Catalog module in
+Service-Now, adding a corporate training calendar and tracking module, and improving Service Support workflows through business ruks.
+
+© Develop and maintain a data visualization (LAMP) application to inform management decisions and technical decisions through event
+correlation from muttiple tools, such as Service-Now, Gorez, and Onmiture.
+
+Reports Engineer
+

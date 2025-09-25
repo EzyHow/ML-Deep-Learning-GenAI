@@ -1,0 +1,58 @@
+SOFTWARE ENGINEER
+Profik
+
+Experienced Software Engineer generalist with a strong interest in Game Play, and AI programming,
+
+Use fecceal Ponca anes)
+Sp ouLecm PROS nce aor sina N sl Ois MeSH
+
+¢ Star Wars: Galaxy of Heroes (IOS/Android, fall2015) Worked with product managers to implement in game telemetry Implemented
+various features and fixed bugs required for soft launch Unannounced Mobile Strategy Title (IOS/Android, unreleased) Established first
+playable prototype in Unity 3D, with player-controlled units that utilized a navigation mesh while obeying rotational and movement
+constraints Created custom code to drive vehicle-tread animation based on vehicle velocity Unannounced Mobile Role Playing Title
+(IOS/Android, Unreleased) Worked with artists to develop player animation and movement code using Unity 3Ds kegacy animation and
+navigation mesh agent Lead the evaluation and eventual adoption of Unity’s Mecanim Animation System to drive character animation Wrote
+Posen Nam Noah T AOL eLticunicue Oe edevucat tcl b ehei bono cuncuiga cece Omri snes eet
+Prototyped player exploration game mode with multiple control schemes and UI Dawngate (PC, Open beta release) Extended the
+developer cheat system to allow in-game cheats to be used on production servers by entitled user accounts to facilitate QA testing and
+Clergy ahaa URAL RUE Clerc era Beoct ences nena gON re OPEN Reg mE ich CCE e eee
+first time user experience Developed AI behaviors, and a system that used dynamic navigation mesh obstacles allowing bots to avoid
+incoming enemy fire and move away from fire at current location Profiled and optimized server-side (Lua/C++) code to improve
+performance added new Al editor and in-game fimctionality to support game design requirements Command & Conquer (PC, Limited live
+alpha rekase) Enhanced and debugged (C#) server-side skinmish AI unit production and base defense, and developed code to allow the
+skirmish Al Generals to use taunts against opponents Established localization pipeline and workflow using EA shared technology database
+and tools Integrated an EA shared technology UI system (C++) into the Frostbite game client codebase Implemented HUD features such as
+Cedi Meio me Recoil eniiaors Cenk se ta medusa ETnebn yaar ack Guero carn (@.) Ruserent(eoaerarat hy \tcg
+command system, and commands including moving, attacking, changing stance, and selecting units Developed code to handke assigning units
+and structures to control groups Refactored hotkey system to allow hotkeys to trigger different actions based on context Star Wars: The
+Old Republic (PC, Shipped December 201 1) Refactored server logging system initialization to improve log coverage at startup.
+
+Trion Worlds, Software Engineer 09/2008 to 08/2010 City , State
+
+¢ Rift (PC, Shipped March 2011) Developed autormted load test scenarios that included report generation for historical analysis
+Impknented UI features for the Game Remote Administration Tool for customer service agents Platform Engineering Team Performed
+feature development and maintenance of platform products, including the crash service, real-time metrics visualization system, and the data
+collection and transformation service Designed and developed Distributed Testing Service, a client-server based system designed to run
+fictional, load, and scalability tests, and store results ina database Rechimed and updated code ftom game team code base, and rekased
+it as part of the Trion Platform Foundation code base.
+
+Midway, Software Engineer 08/2006 to 08/2008 City , State
+
+© Unannounced Third Person Action Title (PS3/Xbox 360, Unreleased) Worked in an interrupt-driven environment to implement features, fix
+bugs and create tools designed to improve the workflow for content creators during daily development, utilizng C++ Unreal Script,
+Loses SC mew Cray om
+
+* Core Technology Group TNA iMPACT! (PS3/XBox 360, Shipped Sep 2008), Wheelman (PS3/XBox 360, Shipped Mar 2009),
+yo SP ERIE UEP AS RUM NRCP L@cnn ch Ale ccereL reehecmoiream on Cmts Cicc
+across all of Midway's next generation PC, Xbox 360, and PS3 titles by fixing bugs, performing integrations, and reclaiming code fiom
+pestiemsCave Os epUn a (cate
+
+Education and Trainng
+
+Bachelors of Science : Computer Science May 2006 Georgia State University City , State Computer Science
+
+RY cas
+
+3D, alpha, animation, Al, C++, client-server, codebase, content, client, customer service, data collection, database, debugging, editor, features,
+finctional, game design, logging, C#, navigation, next, developer, physics, QA, real-time, servers, Script, Strategy, tekemetry, workflow
+

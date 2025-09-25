@@ -1,0 +1,71 @@
+BUSINESS SYSTEMS ANALYST I
+
+Qualifications
+
+TECHNICAL SKILLS: Business Applications: SAP Web Intelligence, Informatica Data Explorer, MS Visio, MS Project, Rational Rose,
+Business Objects Languages: SQL, UML,C, C++ , Core Java , Perl Web Development: HTML, XML, PHP Operating Systems: Windows
+XP/Vista/7, Linux Databases: Neteza, MS SQL Server 2005/2008, Oracle 9V/10g
+
+Accomplishments
+
+© Organized workshops for SQL Server 2005 during the technical fest at Mumbai University Active member of Student Council of Asian
+Students at University of Maryland. Interface with the client and multi-disciplinary teams within Merkle (Business Intelligence, Information
+Technology, Database and Data Warehouse Developers) to support the solution delivery process
+
+© Work closely with clients to understand their marketing goals, design their marketing databases, facilitate optimum segmentation and provide
+platforms and reports to measure their marketing ROI.
+
+© Involved in designing and rolling out global marketing databases (North America, Europe and Middle East, Latin America) and thus well
+versed with Customer Data Integration and international data hygiene and standardization concepts. Enable the client to generate reports for
+Measuring ROI, effective channels , successfull campaigns and optimum segments , trend analysis etc using tools like Business Objects
+Sound understanding ofa projects life cycle, from demand generation to understanding the customer requirement and converting it into
+technical specifications and finally implementing the project. Jusitn: - Served as subject matter expert on marketing data and database design
+for European and Asia Pacific regions Involved the support of client requests such as adhoc reporting and campaign execution. Also
+responsible for identifying gaps in deployed fimctionality and building necessary new finctionality alongwith correcting issues with current
+solution -data integration,data hygiene, cleansing CDI -created marketing programs based on client's requirements -supported existing
+solution on daily basis for any data or fimctionality issues -supervised change requests from development to implementation and performed
+QA on deliverables before handoff to client Automated Warranty Renewal Campaign Solution Project involved warranty based CRM
+marketing solution enabling warranty specific campaign execution and reporting Responsibilities: -Support of the deployed CRM database
+solution for Latin America region of Fortune 500 company focusing on Public and Large enterprises -Executed marketing programs ona
+weekly basis
+
+Aug oanan at acs
+Company Name Business Systems Analyst I 09/2014 to Current
+
+Acted as lead BSA on client team to drive consistency and support projects spanning multiple regional databases and support tears
+Primary contact for client, client partners and other stakeholders, managing daily responsibilities associated with delivering multi-channel
+database marketing programs.
+* Responsibilities include working with client and other stake holders to understand marketing program objectives and business rules that help
+Gti eR ve eete ee om yceurtieniyeacnnety ed
+© Partner with the client, client partners and other stakeholders to define campaign audience requirements, program specifications and
+business requirements Project: SMB CRM Marketing Database Solution
+© Maintaining global marketing data for advanced targeting and segmentation to drive optimal business results - Gathered and analyzed
+business requirements provided by client to draft detailed project specifications and lead developers through development and QA process
+- Managed primary ownership for creating artifacts like Business Requirement Document and Functional Requirement Documents -
+Performed gap analysis and Root Cause analysis for data issues and fimctionality and ensured client satisfaction Project: Consumer Global
+Marketing Database Solution
+* CRM solution for Latin America region of Fortune 500 High Tech company supporting data integration, marketing program execution,
+reporting and analytics - Led change requests within the cross-fimctional teams using the defined change management process ensuring
+timely deployment - Analyzed complex client data using Merkle's in-house methodologies and provided recommendations to improve
+marketing programs performance - Created autommted processes minimizing the run-time and increased efficiency of database update and
+campaign deliveries Manage overall coordination, status reporting and stability of complex and cross-fimetional project oriented work
+efforts whik continuing to evolve the solution delivery lifecycle to encompass multiple methodologies
+© Interacted with development and QA tears to ensure timely delivery of project deliverables while managing project timeline and
+communicating adjustments and issues to program mamgement.
+© Responsibilities included creating documentation to detail fimctional requirements, technical solution design, code review, implementation
+and QA deliverabks before handoff to client Project: Dell Fmancial Services Project is a service provided through Dell that provides credit
+line accounts to Dell customers that qualify. integrated database solution that allows us to use their customer data in Consumer marketing
+campaigns - Led project change requests throughout a fill solution lifecycle performing requirements gathering, process documentation, data
+analysis and quality control - Lead solution discovery sessions with client stakeholders as a means to illicit solution requirements -Set up
+data load and automated processing of data extracts on a weekly basis -Responsible for process documentation consisting of Business
+requirements and fimetional requirements - Source to Target mapping and data dictionary -Designed and implemented email marketing
+campaigns for Canada region as per client's specifications -Created email marketing campaign targeting customers based on credit line
+account information - Reported on campaign attribution, performance, key metrics Interface with the client, marketing vendors, and cross-
+fimctional tears within Merkle on solution delivery and new project development Perform requirements gathering for change requests and
+maintain all documentation Synthesize complex and sometimes contradictory information into concise, readable, unambiguous written
+requirements at multiple levels of detail Support campaign management process to develop business goals, campaign requirements and
+campaign metrics. Build and maintain client reports relating to data quality and campaign measurement Work with Solution and Account
+Lead to define project scope, level of effort and timeline Work closely with the delivery team (including system software engineers, QA,
+regression test teams, and the product manager) ensure that your clients’ solution is created with exceptional quality. - Accountable for
+determining and requesting campaign data elements from creative agencies to build accurate segmentations for targeted educational & public
+

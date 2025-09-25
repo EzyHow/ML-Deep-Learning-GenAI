@@ -1,0 +1,93 @@
+IT CONSULTANT
+
+Career Overview
+
+Director of Informmtion Technology More than two decades of sound IT leadership in areas including IT strategy and security; systems analysis,
+Pie iod team nels he muriben ery CRicctN nome lee serene eb niaLe ranean ae ccuMmereinilciclten een iaiscarnene
+technical support and help desk management and telecommunications management. Proven business keadership skilss in strategic planning,
+consulting, change management, policy development, team kadership and motivation, training and developnent, project management, process
+improverrent and procedure development. Operationally astute with demonstrated abilities in new business development, needs assessments,
+wees ue el ean MeOn nas LaLa mio Rieke Csaba Lcre asia eso MAC GE Og
+skills in budget planning and forecasting, business forecasting, financial reporting and traditional accounting fimetions including A/R, A/P, General
+Ledger and Payroll Management. Recent recipient of B.S. in Information Technology with a Concentration in Cyber Security Technology and
+compkted case studies in Current Homeland Security Issues, Perimeter Defense Techniques, Systems Analysis and Development, System
+
+WW eteldinea tnconm eM elcumyalaLon ae
+
+Qualifications
+¢ Workforce Planning & Scheduling
+CREO iceComVElLaan’
+© Team Leadership & Motivation © Website Creation & Management
+¢ Training & Development Business © Router & Firewall Configuration & Optimization
+etinaniled SME Or oo EBS ln lenis ut)
+© Consulting COTO ena Sr cm yar tie iut)
+¢ Vendor Partnering & Management * Development Environment Software: C, Microsoft Visual Basic, Visual Studio
+© Budgeting ¢ Enterprise Resource Planning (ERP) Software: Orack E-Business Suite, Microsoft
+J
+
+Payroll Management Business Startup & Dynanics GP, Sage Pro, MAS90
+
+Less) * Object or Component Oriented Development Software: Borland Paradox, C-++;
+© Technology Implementations & © Practical extraction and reporting language:A Perl, Python, PHPWeb
+BO eyusrste lens ¢ Pkatform Development Software: Hypertext markup language HTML, JavaScript, CSS
+© Network Architect & Administration
+Network Security
+Work Experience
+
+TT Consultant 01/2013 to Current Company Name
+
+¢ Provide IT consulting and support to clients including Intuit, Washington Home Mortgage, The Library of Virginia and NeighborWorks
+America Washington Home Mortgage: Recommend efficient use of resources.
+
+Support planning for Office 365 migration; facilitate Cisco UCS reinstall and conversion from T-1 to Verizon Digital Voice.
+
+Library of Virginia: Reviewed domuin server installations and processes to improve performance.
+
+Peat rpunce Esa Catt
+
+Installed and configured Citrix Provisioning Services.
+
+OO ater e nurs ileLese DN Be) atnecs
+
+Setup Hyper-V server for image maintenance.
+
+Neighbor Works America: Created network documentation.
+
+Identified areas of inefiiciency in help desk processes.
+
+Firewall changes A access and NAT ruks ard firmware upgrades.
+
+DC infiastructure (backbone, UCS/ blade servers, storage, switches, routers, Center, VOIP, etc.) optimization and maintenance.
+Active Directory maintenance (domin controlkrs, multiple forests) A including resolving issues with replication of DNS and AD info;
+troubleshooting domain controler issues, DNS management, CISCO A ASA, UCS, VOIP phone system/ Unified Communications, Data
+Deiat Sy Oeste lLod
+
+Perak ol cRvca cc Mnericcbonenicreltors em soar cnasinm cant abncctyaralla ara
+
+© Created VMWare Server images and adjusted for performance and stability.
+
+Technical Director/Consultant 01/2010 to 01/2013 Company Name
+
+A firm providing comprehensive technology consulting, IT support and computer networking solutions.
+
+Served as a technical and professional expert across tears, clients, and the information technology spectrum.
+
+Led or served in engagements involving management of VMware ESXi; provision of cloud service support; server and workstation
+ech) bene R UNG LCN BSH) Lemire isicrneoe OO mC M aN Ere Ae) MEST yee MRNT nec aromecnicbe red
+upgrades; TCP/IP network design and installation and network security provisioning and management.
+
+Led or participated in System Projects that included: System PCI Compliance check and configuration.
+
+Exchange 2000-2010 upgrades and new installations.
+
+Campus wireless network design and installation.
+
+Cisco VoIP systems design and implementation.
+
+Server installation and consolidation using VMware ESXi and Hyper-V servers.
+
+Windows Terminal Server 2008 and Wyse terminal installations.
+
+Piece a oust c ec ace P EMEC orm ur cS ura Rca ecsonuicam EEE CLt IAN Ul)
+¢ A firm providing comprehensive technology consulting, IT support and computer networking solutions,
+

@@ -1,0 +1,64 @@
+INTERNSHIP
+Professional Overview
+
+experiences collecting and analyzing data with statistical methods, familiar with R and SAS programing, great knowledge of experiment design,
+sampling techniques and documents management. strong skills in communication, group-working and work-plaming,
+
+Core Qualifications
+* Strong knowkdge of SAS, Rand SSPS programming ¢ Teamleadership
+© Excelient research skills © Organizational planning
+© Microsoft Word, Excel, PowerPoint © Leadership/communication skills
+* Excellent quantitative skills © Customer-oriented
+
+brairestbeny
+University of Missouri 2015 Master of Science : Statistics City , State , The United States
+
+President of Chinese students’ and scholars’ association
+3.7GPA
+
+Coursework in practical statistical models, data analysis 1, 2, 3, statistical software and data analysis, introduction of probability theory, statistical
+inference, time series analysis, survival analysis, experimental design, current development in statistics.
+
+SAS advanced license
+
+Thesis/Dissertation
+
+Wseeain
+
+a
+
+Shes OM C RCtinaC PAN C aaa
+
+Titk: the relationship between the mathemntical grade of the seventh grade and grades from primary school.
+
+Brief process: use linear model to fit transformed variables from the data after getting rid of useless cohums, choose the most significant variables
+to form the final model based on persuasive diagnostic values.
+
+Achieverrents from the project:the mathemntical grade of the seventh grade is significantly influenced by the reading, counting and logistic ability at
+the first and second grade in the primary school
+
+13
+Shires oMC eUCVAC MAN C eAulsts
+Titk:bike rental prediction
+
+Brief process: construct the regression model use different statistical method, find the most powerfiil model decided by finding the least error rate,
+and decide which variables significantly enough to build the model.
+
+Achieverrents from the project: use Lasso to make the regression, it gives the least error rate and use the almost original data set, it saves a lot of
+time to deal with the original data set.
+
+on
+MiireneneC Rca nom Okeeeieg
+Titk: Classify Song Release Period
+
+Brief process: construct the classification model to chasify a specific song into the year before or after the year 1986 based on 90 attributes ofa
+single song and 6480 songs.
+
+Achieverrents from the project: use the Multivariate adaptive regression splines to build the model and based on the final classification model, we
+can conclude that ifthe song is from before or after on 1986 depends mostly on the artists who create them, secondly on properties they tagged by
+AIS Ree TBE Men oe tteRe alc miniea
+
+1p
+Tie: fiom 2014 Noverrber to 2014 December
+Me bo etlea remanence UL MeccetoiileB meee esis lne ORiFL ce
+

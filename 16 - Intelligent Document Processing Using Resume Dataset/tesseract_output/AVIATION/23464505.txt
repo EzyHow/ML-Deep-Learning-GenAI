@@ -1,0 +1,77 @@
+JAVA INTERN
+[Osheue Oona ang
+
+Developer well-versed in structuring, developing and implementing interactive websites. with experience in back-end programming, relational
+databases and performance testing SAN.
+
+brairestbeny
+May 2015 Wichita State University i City , State Master of Science Computer Science GPA: GPA: 3.93/4
+
+CFR
+
+May 2013 BMSCE 14 City , State Bachelor of Engineering Computer Science GPA: GPA: 8.81/10
+(17M ESTO KY
+
+Qualifications
+© Programming and design skills
+© Strong analytical skills © Capable of working simuttancously on diverse projects individually and as
+© Optimizing and performance tuning Be eait
+© Experience with writing and executing test plans © Experience in project presentations and enthusiasm in understanding new
+© Experience working in Agile Software development concepts
+methodology
+
+Bodneelisl aio
+
+© Server-side technologies : serviets, JSP, J2EE technologies, Hibermte3.x, JPA, Spring 3.0, Struts 2.0, EJB, JMS, Design patterns, SQL,
+PYSQL
+
+Client-side scripting : HTMLS, CSS, Java Script, AngularJS, Jquery and bootstrap
+
+Consuming and producing SOAP and Restful web services (XML and JSON)
+
+C, CH,Unix system programming, CUDA, Perl
+
+Data Structures, Operating system concepts, multicore and multi-threaded programming, SAN, UNIX
+
+Tools : Eclipse, IOmeter , Code Warrior, vi editor, Visual Studio, Arduino, Oracle 11g, Code Blocks, iSCSI initiator, NetApp internal
+tools, Navicat, JConsole, JMeter, tomcat, JBOSS, Git
+
+Technical projects
+
+* Unix system programming : Built a binary search tree using system calls in C (on Linux platform) to sort a file of records Implementation
+aS eeoe ese a ComUer Tera ike
+
+© Parallel Apriori algorithm proposal on Nvidia GPU Performance of Apriori algorithm with multiple threads on a single-core machine was
+compared against multithreading on GPU. The newly proposed algorithm reduces the processing overhead on GPU.
+
+© Leave management systent: Designed and implemented a module to help the organization to log the attendance of employees with its
+bionetric system This project had html, jquery, AngularJS for front-end and Spring MVC, Hibernate running on tomcat server in the back
+end and Oracle 11g server as database
+
+Aug oanan at acs
+REBUM OU RB Orica Genta ciTn LOINC
+
+Designing and implementing Leave Managerrent System for internal use(Spring MVC)
+I ete et cL Ree cen E RET amd CCR cu nee) eee]
+
+(Xi ctmeeGeete Nace cooe eesti esse) (elel
+
+Creating Single Page Application in AngularJS
+
+Test contractor (Performance and Benchnurking team) , 05/2014 14 05/2015 Company Nane 14 City , State
+
+© Executed test cases and analyze performance numbers against benchmarks
+
+© Conducted root-cause analysis for performance degradation in controller finmware builds by running continuous performance verification
+(PCV) tests daily.
+
+CM een ct sneer etree
+
+© Autormted using Action Word Script (AWS), batch script, Java ( Member of automation team)
+
+Graduate Research Assistant , 12/2013 14 052014 Company Name i City , State
+
+* Managed and maintained NIAR composites database
+¢ Created charts and updated the database
+© Wrote macros for doing data analysis
+

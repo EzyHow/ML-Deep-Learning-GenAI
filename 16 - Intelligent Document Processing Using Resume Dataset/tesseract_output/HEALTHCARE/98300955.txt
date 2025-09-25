@@ -1,0 +1,84 @@
+PLATFORM ARCHITECT, HEALTHCARE INCUBATION LAB (HIL)
+
+Summary
+
+A driven technology professional with software architecture and development background and a passion for Agik methodologies. I enjoy
+designing and developing platforms consisting of web applications and services that help businesses immovate and stay competitive.
+Accomplishments
+
+© Over 8 years of experience architecting and developing data-intensive web-based applications and services with expert level proficiency in
+middle tier and Service Oriented Architecture (SOA) and fimctional proficiency in data and presentation tiers
+
+© Experienced with designing and developing horizontally scalable, secure and reliable multitenant web applications delivered ina SaaS
+model
+
+© Proven success in working with dynamic startups as well as medium to large organizations
+
+« Adept at navigating technical and non-technical challenges through use of excellent communication skilk, creativity and practical knowledge
+
+© Experience collaborating on cross-fimetional agile tears that include Product Development, Product Owners, Quality Assurance and
+DevOps
+
+© Provenrecord of collaborating with internal and external (e.g. customers, vendors, partners and regulatory entities) team members
+
+schivor anes
+AU RE @tacans
+Platform Architect, Healthcare Incubation Lab (HIL) Company Name iM City , State
+
+Premera Blue Cross is a not-for-profit healthcare insurance provider in the state of Washington, USA. A
+
+The Healthcare Incubation Lab is an internal startup backed and fimded by Premera Blue Cross. As a Center of Excellence (CoE), HIL is tasked
+So ue Ray nce ae LOE Le ecu es lib eee a Cane Se RLS Ain ECL Sie Bot
+and agik practices to focus on the businesses major pain points. A
+
+My rok on the teams that ofa hands-on Platform/ Solution / Application Architect where I regularly explore and evaluate new technologies,
+design solutions and develop proof of concepts (POCs). A
+
+* Led and collaborated with enterprise solution delivery teams in all phases 4€“ from ideation to iterative delivery
+
+¢ Collborated in design and development ofan API platform enabling delivery teams to rapidly exchange data with extemal EMRs
+(Ekctronic Medical Records) as well as internal line of business applications
+
+* Provided guidance on current technology landscape and advised managerrent on purchasing third party products and engaging external
+vendors
+
+© Architected, integrated and managed Okta IDaaS (Identity and Access Management as a Service) enabling all web applications and web
+services to follow consistent pattems for integrating with extemal and internal identity providers, allowing tearrs to rapidly build and deploy
+Ine of business apps
+
+© Performed security code reviews and web application security testing such as penetration testing to identify and remedy possible exploits
+and vulnerabilities thus strengthening the organization's security posture A
+
+© Integrated open source and commercial security penetration tools such as Burp Suite and OWASP's ZAP (Zed Attack Proxy) in the
+continuous integration and delivery pipeline to automatically and systermatically test all successfill deployments for common web exploits
+
+04/2014 to 01/2015
+Solution Architect, Enterprise Architecture & IT Strategy Company Name i City , State
+
+Bou ecu UNC omc UC Seer wciul dL SciL Ee Monnet See Sect anes Re cSEe kOe cy
+subsidiaries. My rok on the team was ofa Project Architect, which is essentially a hands-on solution architect. A
+
+© Colkborated in the design and development ofa telephony and analytics solution built using a complex orchestration of web services to
+target customers for specialized care management, which allowed Premera to reduce healthcare costs while significantly improving
+healthcare outcomes
+
+¢ Asan internal technology consultant specializing in Service Oriented Architecture (SOA), helped various tearns adopt current software
+engineering industry standards and practices resulting in higher code reuse and reduced delivery times
+
+© Participated ina core workgroup tasked with developing temphtes for high level and detailed design documents that are used by the
+Architecture team as well as individual delivery teams to follow a consistent standard within all of Premera
+
+* Worked closely with program mamggers, project managers, solution architects, enterprise architects and management to define milestones
+and ensure the high level and low level plans are aligned throughout the entirety of the project, which improved project success rate
+
+¢ Assisted various delivery teams with adopting Agile Scrum & Kanban practices to improve customer satisfiction and reduce delivery time
+
+OU RRO r ANC)
+Application Architect, Research & Development Company Name iA City , State
+
+PriceMetrix is a SaaS startup based in the financial district of Toronto, Ontario, Canada. PriceMetrix processes vast amounts of transaction-kvel
+data and provides business intelligence solutions to retail brokerages, commercial and investment banks in US & Canada. A
+
+The Research & Development team at PriceMetrix designed and developed BI analytics SaaS applications that are used by financial advisors
+throughout North Amvrica on a daily basis. As the Application Architect, I was responsible for designing and developing a unified SaaS platform
+

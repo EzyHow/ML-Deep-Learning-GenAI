@@ -1,0 +1,86 @@
+ADJUNCT INSTRUCTOR
+
+Skill Highlights
+
+Quality Engineering Process Improvement Acceptance Testing Strategic Planning Organizational Development Requirement Assessment
+Coaching & Mentoring Business Intelligence SDLC People Managerrent Team Building Data Analysis Orack SQL/MS Access Progress RDB
+Power Point Data Warehousing HP Quality Center MS Test Rational software QA and PM templates MS Word/Excel MS Project Visio
+Charity Software
+
+Professional Experience
+
+PXciea@ Gone ayy
+
+January 1999 to November 2014 Company Name 14 City , State
+
+Planning and Strategy 01/2014 - 11/2014 Oversaw and facilitated development, QA and production of monthly metric dashboard
+packages across AIT that illustrates the organization's collective value and overall contribution for senior level reporting and review.
+Successfillly led installation of the Ist service request tool for the Planning and Strategy team automating work order processing, Project
+managed Communication, Quality, Risk and Implementation Managerrent following SDLC, QA and Project Management Life Cycks.
+(AIT) Leadership Development Rotation Program 2012 to 2013 Leadership Development Program rotation across Annuities organizational
+and fimctional departments, focused on hands-on and real scenario exposure to various executive leadership approaches and styles.
+Delivered Quality and cost effective projects utilizing leadership agility, enhanced ability to read organizations and honed skills in strategy
+execution,
+
+Project managed design, QA, training and implementation of Resource Capacity Management tool for Annuities Marketing Service group
+20 resources. Created, socialized and implemented project charters, project and communication plans and QA artifacts to Business
+Analyst, Developers and stakehoHers.
+
+Designed and developed the process to collect and track $29M in IT-Sourcing Business Case Multi Year Savings. Piloted and socialized
+data collection process and procedures to obtain five Organizational Units executives sign off without issues. The tool and process enabled
+timely, accurate and effective decision senior leadership decisions for strategic planning,
+
+Designed and project managed the development, QA strategies and impkementation of Portfolio Management Database application leading
+four offshore and two onshore resources in planning, execution & monitoring, and project impkmentation following established SDLC, QA
+and Project Management Lifecycles best practices. This tool captures and reports progress and status of all Amuities Services active
+projects.
+
+Led acquisition of two Commercial off the Shelf software for AIT, 50% below whok sale by successful negotiation and package order
+reconfiguration. Vendor Management kead for the enterprise procurement of HP's Requirement Management Too! (RMT) and APPTIO
+(Fimancial SAAS application) by developing and implementing Request for Proposals (RFPs), Master Service Agreements (MSA) and
+Statement of Work (SOW) in collaboration with Prudential Legal and Business and Senior Stakehoklers.
+
+Developed and successfilly implemented project charter and project plans for software customization and impkmentation of APPTIO by
+using approved PM tools including peer reviews and socialization to project stakeholders. Project charter was used to drive technical
+requirements for collaborative work effort between APPTIO and Prudential Annuities.
+
+Developed traceability matrices and risk based test strategies for reliable analysis with optimized test coverage and prioritized execution.
+Led QA project deliveries and adherence to all Annuities Quality Assurance standards and procedure. Led test efforts on project initiatives,
+working closely with project stakeholders to ensure high Quality deliverables to Annuities Technology Business Partners.
+
+Collaborated and negotiated development of QA testing infrastructure for Information Management and Business Intelligence (MBI QA
+cluster through research, development and incorporation of Business Intelligence Testing Methodology and established QA guidelines for
+Data Warehouse, Data Marts, and ETL (Extract, Transform and Load) projects in line with industry practices. Socialized new IMBI QA
+methodology to business clients and AIT’s analysis and development teams. This process becarne the foundation of testing procedure for
+AIT QA department.
+
+Developed and governed QA project milestones, QA test strategies, scope test plans, resource allocations and project planning for AIT's
+Informtion Management and Business Intelligence by design process participation, peer and Quality Control reviews. Oversaw
+development of QA strategies, test plans and test cases to migrate Prudential's Annuity system to newly established Data Warehouse, Mart
+with Cognos as reporting front-end.
+
+Managed QA validation execution, tracking and govemance of Annuities Information Factory data warehouse, the foundation of AIT’s
+Business Intelligence infrastructure in QA Organization by kading two onshore and six offshore, ftom India and Ireland, in design, creation
+and execution of test strategies and test plans in alignment with SDLC and Project Life Cyck.
+
+Bridged QA SME single point-of failure gap by developing succession plans and approach though knowledge transfers, documentations
+and trainings.
+
+Monitored and reported relevant QA metrics for test performance to senior management for though use of charts and graphs for trend and
+analysis. Managed prioritization of production defect resolution, validation and on-time production deployments. Defined, developed and
+standardized production defect resolution infrastructure and processes for the newly formed QA Production Support team
+
+Coordinated QA test region management including data refresh and test region trouble shooting though project planning and scheduling,
+working knowledge of test environments, capabilities and user needs. This process improvement resulted to a single point of contact and
+multiple call reduction.
+
+Engineered and streamlined QA region refresh procedures resulting into a repeatable process implemented in AIT QA departrent. This
+process reduced test region set-up to 5 days from its usual 9 days set up. Employed automation, batch processing, collaboration and
+negotiations with IT partners to drive success.
+
+Directed the validation 15 small projects (S50K or less) within 12 months leveraging onshore and offshore staffs following fill QA Testing
+| Bion om
+
+QA project led American Skandia and All State data acquisitions and conversions by creating and implementing QA test strategies and
+plans to 12 onshore and 10 offShore consultants, communicating project status through QA metrics. Established and matured Annuities
+

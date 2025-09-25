@@ -1,0 +1,103 @@
+BUSINESS ANALYST SR. TECHNICAL BUSINESS ANALYST
+
+renee
+
+[OM OO a)
+
+Back Ends : Orack 9i, 10g, 11 gRII,MS SQL Server-2005,IBM DB2
+
+Computer Tech. : UML
+
+Web Designing : HTML, XML
+
+Operating Systems : Windows 9X/XP/2000/2003 Server, Linux Red hat 5, SUSE 11
+
+Development Tools : Rational Rose, MS Visio, MS Project, Orack SQL Developer, Crystal Reports, Java Workflow Editor, Eclipse
+Application servers : Jboss , Tomcat, 5.0.1.GA,IBM Websphere App Server 7.
+
+Databases & Tools : Orack 93, 10g, MS SQL 2008, Oracle Enterprise Manager Consok, SQL Developer, Power Builder 9.0
+Bankind Application : Finacle Ebanking Application by Infosys Ltd.
+
+Accomplishments
+
+Ce ed
+
+WAYE(World Alliance for Youth Empowerment),
+Compkted Yes+ course with advance meditation techniques.
+SP rcrceece sal el ira On Leni paeP a ned Suber Reenergeklndncige sind ene Gene
+cm
+
+Experience
+
+Business Analyst Sr. Technical Business Analyst Company Name
+SDLC Jul2011 to Dee 2013
+
+Company Name
+
+Requirement Gathering Requirement Analysis Release managerrent Product management Product implementation roke BRS analysis
+Feasibility analysis Vender management Client handling Product Management Highlights: Initiated new projects like mobile devices
+compatibility Key resource for Standard Product Enhancement and Docurentation.
+
+Interacting with Marketing Team to understand market demands.
+
+Worked actively for "Cloud SFA" project to implement product on cloud technology.
+
+Market research of competitive products for product enhancement.
+
+Involved in pre-sales activities for understanding market and product enhancement.
+
+Involved in '30 Days Impkementation Plan" documentation for WSFA.
+
+Actively involved in complete Software Development Life cycle to manage the project at every phase of SDLC in order to meet business
+requirements.
+
+Exposure to industry verticals such as Banking, Pharmaceuticals and Healthcare.
+
+Deciding time lines for UAT, Deployrrents, Staging movements, Live deployments.
+
+Working as an Application Owner.
+
+Online Banking India (Finacle Ebanking Application by Infosys Ltd.) Retail Intemet Banking, India version migration ftom 6.2.3 to 11.0.2
+Pee ne nue b UE RCO ca ee ate anecnie eRe COS nese nines snes crater
+Geographies (UK, CA, DE, HK, SG) Funds Transfer (Scheduled, Hot Payments) Service request module (implementation of more than
+100 Service requests) Click to Call Service Generate Password through OTP Tax certificates download (Integration and session validation)
+Ul revamp for ICICI Bank UK Responsibilities: Handling RIB for UK, Germany, Canada as an Application Owner.
+
+OSHA MUD SISOS Om ioe eno anne one slined
+
+BRS study, feasibility and Acceptance.
+
+Pc ree ero Ube hice eee mcr Oe Loeb oon Laurens treiae
+
+Provide an Impact analysis Preparation of System test Cases UAT testing Change management (VSS checkout checkins) Release on UAT
+to Business for testing, acceptance and Sign-Off Co-ordinate with deployment team for Staging movement and Production movement
+Docunrniations : Approach Document (b) System Testcases (c) Release Doc (d)Live Deployment docs Guide production support team
+for Live issues RCA Co-ordimating with other related teams like UBPS, CDCI, core banking,
+
+© Troubleshooting and Responding to ad hoc exercises and Production issues.
+¢ Handling Level 3(Application owner) escalations for severe Live issues Vendor co-ordination Co-ordinate with Business for Requirement
+
+understanding and project sign-off Training Received: Information Security: Web / Mobik application threats.
+
+Projects Impkmented at Base Information Management Pvt.
+
+EGE
+
+Software Implementation Engineer Dec 2008 to Jul 2011
+Ooi nian
+
+Dee 2008 to Jun 2011
+
+Company Name
+
+Base E12 WSFA is a web based sales force autormation solution to autormte and makc the sales process more effective and productive.
+
+It captures Saks Person's Day-to-day activities and generates useful reports for top management and sales department.
+
+OTS oko UCB Ome Nip in elae Sm
+
+Franco Indian pharmaceuticals 2.
+
+Project name : Customer Relationship Management (Web Based J2EE) CRM application is used for sale order booking , tracking , delivery
+Bed meorny soles echo
+

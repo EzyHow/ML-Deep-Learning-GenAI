@@ -1,0 +1,97 @@
+SENIOR NETWORK SECURITY ENGINEER
+CRB Nessa ececiekeeiiuvelliesiieg
+Professional Summary
+
+Overall 7+ years of experience in Network and Security Engineering which includes strong hands-on experience with Palo Alto Firewalls, Cisco
+ASA Firewalls, Check Point Firewalls along with comprehensive working knowledge of Load Balancers, Wireless networking, VMware and Data
+center management. Areas of expertise include designing manageabk networks, Threat prevention and Managerrent, routing, switching,
+loosened ra ong uoreniibod chor (keedtennlt sm Olan! Mam ieeudoimercres Monin einiRiodtsg Ou coniat alt
+includes strong hands-on experience with Palo Alto Firewalls, Cisco ASA Firewalls, Check Point Firewalls along with comprehensive working
+knowkdge of Load Balancers, Wireless networking, VMware and Data center management. Areas of expertise include designing manageable
+networks, Threat prevention and Management, routing, switching, troubleshooting network performance issues and documentation.
+
+Sag
+
+EIGRP, OSPF, BGP, Route Redistribution, ACLs, Policy based
+Pert an e
+
+Switching: HSRP, VRRP, GLBP VLANs, VTP, Link aggregation
+
+(ONG YC OETA ay in
+
+Firewalk: Palo Alto, Cisco ASA, Check Pont.
+
+Ono OCoe Oe CLM PRONE Ie SIUM onow UC DiaNclios ce PAOmO CPST we elnce a gota
+
+ASR 12000, ASR 9000) Routers: Cisco Routers (7600, 7200, Catalyst 6500, Nexus 7000,
+© Switches: Cisco switches (Nexus 7000 series, 5000 Series, Pars SMALL USES)
+Catalyst 6500 series, 6800 series) Switches: Cisco switches (Nexus 7000 series, 5000 Series, Catalyst
+
+Security Concepts: App-ID, User-ID, Wildfire, GlobalProtect, 6500 series, 6800 series)
+
+URL filtering, Blue Coat Proxy, PKI, SSL decryption, IKE, Security Concepts: App-ID, User-ID, Wildfire, GlobalProtect, URL
+IPSec, HIP checks, Site-to-Site VPNs. filtering, Blue Coat Proxy, PKI, SSL decryption, IKE, IPSec, HIP
+Load Balancers: F5 BIG-IP (LTM/GTM), Citrix NetScaler. fe toe cay Co OSA
+
+© Wireless Networking: Cisco Meraki, Aruba, Clear-pass, Cisco Load Balancers: F5 BIG-IP (LTM/GTM), Citrix NetScakr.
+
+WLAN, Wireless Aps, 802. 1X a/b/g/wac. Wireless Networking: Cisco Meraki, Aruba, Clear-pass, Cisco
+© Software/Applications: Panorama, Cisco IOS, NX-OS, Smart WLAN, Wireless Aps, 802.1X a/b/g/n/ac.
+
+Dash Board, VMware. Software/Applications: Panorama, Cisco IOS, NX-OS, Smart Dash
+© Tools: SPLUNK, Solar Winds, SevOne, Wireshark, MS Visio, Board, VMware.
+
+Lucid Chart, BMC Remedy. Tools: SPLUNK, Solar Winds, SevOne, Wireshark, MS Visio, Lucid
+
+Routing: EIGRP, OSPF, BGP, Route Redistribution, ACLs, Policy Chart, BMC Remedy.
+cB Une
+
+Switching: HSRP, VRRP, GLBP VLANs, VTP, Link aggregation
+
+(LACP, PAGP), STP, PVST+.
+
+¢ Risk management processes and analysis
+
+Anas isn
+Senior Network Security Engineer 01/2017 to Current
+Company Name a€“ City , State
+
+Worked with layer2 switching, VLANs trunking technologies and spamning tree protocol.
+
+Worked on Cisco switches and routers including physical cabling, IP addressing and Wide Area Network configurations.
+
+Performed troubleshooting in TCP/IP related problems and connectivity issues.
+
+Performed troubleshooting and resolved Layer2 and Layer3 issues.
+
+Established the network specifications by conferring with users through analysing work flow, access information, designing router
+administration, interface configuration and routing protocol.
+
+Established redundancy in the network by evaluating network performance issues including availability, utilization, throughput and latency.
+Created network diagrams and documentation for design using documentation tools like MS VISIO.
+
+Maintained network performance by network monitoring analysis, performance tuning and escalating support to the vendors.
+
+Network Security Engineer 09/2015 to 12/2016
+
+Company Name a€“ City , State
+
+Network Engineer 12/2012 to 07/2015
+
+Company Name
+
+Junior Network Engineer 01/2011 to 11/2012
+
+Company Name
+
+Education
+
+Master's Degree : Computer Science Wright State University - State Computer Science
+
+Bachelor's Degree : Ekectronics and Communications JNTU - Ekctronics and Communications
+
+Nas
+
+AD, ADS, anti-virus, Antivirus, Aps, basic, BGP, cabling, CLI, Cisco 2, Cisco 3, Cisco IOS, Cisco, Cisco Routers, Citrix, content, encryption,
+client, decryption, designing, DHCP, Disaster Recovery, documentation, EIGRP, engineering support, ethemet, event management, fast, features,
+

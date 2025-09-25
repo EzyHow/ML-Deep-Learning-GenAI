@@ -1,0 +1,104 @@
+SR. NETWORK ENGINEER
+RStirarsag
+
+Bilmgual Network Engineer offering in-depth understanding of IT inffastructure areas, particularly IT Network Design, Impkmentation &
+Optimization of Wired & Wirekss Network. Detailoriented self-starter with demonstrated success in initiating, tracking, reporting and closing
+rowel cece
+
+Certifications
+
+CCT Data Center, CCNP, CCNA, MCSE, Security+, Network +, At
+
+Skills
+
+Routers: Cisco I17XX, 18XX, 26XX, 28XX, 37XX, 38XX, 39XX &72XXA series & ASR 1K & 9K SeriesA
+
+Switches: Cisco 3550, 3750, 45XX, 65XX series, Nexus A 5K, 2K, 7K, 9K
+
+Load Balancer: Cisco CSS, F5A NetworksA
+
+WAN eerie aliony SOR CM DUAN a Routing OSPF, EIGRP, BGP, RIP-2, PBR, Route Filtering, irre eS rrintth at erek
+Static Routing A
+
+Switching VLAN, VIP, STP, PVST+, RPVST+, Inter VLAN routing &Multi-A Layer Switching, Multicast operations, Layer 3 Switches, Ether
+channels, Transparent BridgingA
+
+LAN: Ethernet, Fast Ethemet, Gigabit Ethemet, FDDI, CDDI, TokenA Ring, ATM LAN EmuhtionA
+
+WAN: Leased lines 64k - 15SMb (PPP / HDLC), channelized sed (TAUTSCIA RK) a om O CRO eM DT ee Costa) DN MET B Belstel
+prayer aN
+
+Various Features & Services: IOS and Features, HSRP, GLBP, IRDP, NAT, SNMP, SYSLOG, FANE DHCP, CDP, DNS, TFTP and FTP
+Management.A
+
+IP Telephony: IP Telephony utilizing Cisco routers, FXO/FXS/E&M/T I/SDN/A PRI, Call manager (publisher & subscriber)A AAA
+Architecture: TACACS+, RADIUS, Cisco ACS.A
+
+Security / Firewalls: Cisco ASA Firewalls s SSXX, IPSEC & SSL VPNs, IPS/IDS, DMZA Setup, CBAC, Cisco NAC, ACL, IOS Firewall
+features, IOS Setup & Security FeaturesA
+
+Juniper: EX 2200, EX 4200, EX 4500, MX-480, M Series, SRX210,A SRX240
+
+VPN: Remote VPN & Site to Site VPN, DMVPN
+
+Wirekss Site assessment using AiMagnet & Ekahua Adaptors.a€<
+
+Installation, configuration and maintenance of Palo Alto Firewalls.A
+
+BK
+
+Work Experience
+
+Sr. Network Engineer Sep 2014 to Jul2017
+
+Company Name i City , State
+
+Impkerentation of VLANs with InterVLAN communicationA
+
+Impkirentation of HSRP, VRRP and GLBP redundant routing protocols
+
+Configuration of MPLS, BGP and EIGRP
+
+Installation and configuration of Layer 3 Switching infrastructure
+
+Hon Mben er ceoniunet cea BORN NB olny
+
+Sco EN cor MON eOeodtomc cw A ECE RET rensicltens
+
+SOMA armen eeonnan mannered cee rry rey
+
+TACACS+ configuration and administration ofall network devices using for authentication, authorization and accounting
+Wola eee CCR OMA E Lannea) Comins Cnt@acm aa cen Valsnag
+
+OTe Nene Pct oNeo none) LOcob cen aay CRE nec cme raritercnynag
+Impkrentation and management of Cisco Prime Network Control System for wireless network
+Impknentation and management of Cisco Mobility Service Engine for wireless network
+
+Sr. Network Engineer Nov 2011 to Aug 2014
+Company Name i City , State
+
+Responsibke for maintaining network with over 5000 users.A
+
+Experienced with troubleshooting of network issues in layers 1, 2, and 3.A
+
+Experienced with Vian assignment, on both Cisco and Brocade devices. 802.1x and NE erste rN
+
+Experienced with troubleshooting issues with both Cisco and Brocade switches/routers.A
+
+Experienced with trouble shooting Spanning Tree issues that may occur during and after hours.A
+
+Responsible for setup and install of switches and routers. Includes Configuration and Hardening for both Cisco and Brocade.A
+Responsible for activating user, printer, VIC ports and troubleshooting link inactivity on a daily basis, as well as issues with 802. 1x, MAB
+issues, port-channeling, link-ageregation, VIP issues, RSA Key issues.A
+
+SOB Crete aOR ECE Li omc ee Dem ROSE LCE See Memo Crane Nceuctn iit get|
+Mien R Nate MAULORT MTC o aT ALLER Oe
+
+Communicated with team members to Seen co orl e mei a Or) rnc
+
+Experienced with troubleshooting of network issues in layers 1, 2, and 3.A
+
+Experienced with Vian assignment, on both Cisco and Brocade devices. 802.1x and Mab configurations.A
+
+Responsibke for setup and install of switches and routers. Includes Configuration and Hardening for Cisco.
+

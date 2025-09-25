@@ -1,0 +1,104 @@
+IT CONSULTANT
+
+Professional Summary
+
+Support Engineer with Public Trust Clearance and 10 years of Information Technology experience in installing, maintaining, and repairing
+hardware, software, and networks. Work well independently, or ina group setting providing all facets of server, computer and network support.
+PO Penautsyecncie
+
+Core Qualifications
+
+Technical Hardware: Windows, Macintosh, IBM, Dell, Toshiba, Sony, HP, Cisco routers, switches, network printers Operating Systerns and
+Networks: Windows 8.1, Windows 8, Windows 7, Vista, Windows XP, 2000, 98, Windows Server 2008, 2003, Linux, TCP/IP, DNS,
+DHCP, FTP, VPN; OS X Lion and Mavericks Applications /Software Tools: Microsoft Office 2010, 2007 & 2003, Visio, Adobe Acrobat,
+Photoshop, Lotus Notes, Symantec Ghost, Symantec PC Anywhere, Dameware, McAfee Antivirus, InageX, Trend, Putty, WebEX, Westlaw,
+Parallels Desktop, Microsoft Virtual Server 2005, VM Infrastructure Client, Juniper & Cisco VPN Medical Applications: Casetrakker,
+eClicalWorks Databases: Access and MySQL Ticketing Systems: Service Manager, Remedy, Heat, Altiris, Jira
+
+schivor anes
+
+September 2014
+
+to
+
+Novenber 2014
+
+Oo ANE LO AEC MO cili cia
+
+© Developed plan for network management platform for release software upgrades for SevOne customers, to include procedures and scripts
+for backup, high availability continuity of polling during upgrade, and data stitching upon compktion.
+
+© Backed up data, restored solutions and data migrations for hardware refresh, cluster migrations and cluster re-alignment projects with
+OTN ie
+
+* Actively contributed to the consistent improvement in processes and scripts/autormtion in delivery of services.
+
+© Troubleshoot issues on Linux servers, Apache Web Server, MySQL, PHP and automation scripts for SevOne clients.
+
+NO eomel
+
+to
+
+September 2014
+
+OU INANE ON ABO CR aroste@onuinedg
+
+ices ORME URLeNe Glog clo mcnclesRomitircieyes ore rmicete ie
+
+© Provided tier 1-3 technical and application support for 60 headquarters staffand 900 remote medical staff users. 2,000 website users with
+account creation, updating ofaccounts and issues with website.
+
+Adrinistered and performed account creation, deletion, permissions and configuration for Medical Applications (Casetrakker and
+eClnicalWorks) and also related network accounts in Active Directory.
+
+* Tested Casetrakker medical software to identify root causes, verify reported problems or validate and verify resolved issues.
+
+Setup user accounts, rights, security, systems and network groups with appropriate system and network privileges. Coordinated action with
+local ITFO's to resolve issues that required escalated issues.
+
+Performed peripheral and software installations and upgrades on Servers and Desktops including testing of peripheral integration with
+eClinicalWorks and testing of new eClinicalWorks builds.
+
+Traveled to field sites to as Lead Engineer for deployment, migration and desktop refreshes to new network.
+
+Maintained IT hardware and peripheral inventory storage.
+
+Developed and maintained test cases, create test data and gather results and/or statistics to allow for analysis of issues, leading to
+satisfactory resolutions.
+
+* Run 3rd party tools such as CDS admin to test workstations and Mid-Tier Diagnostics.
+
+© Tested and provided technical support to local and Field Case Managers users for medical-related applications; eClinicalWorks,
+appointment scheduling software, and various databases.
+
+Maintained configuration management, IT procurement and maintenance renewal documentation. Created and updated network diagrams
+PIS eave lca) AORN COLL UC Om eC eNTU OLIN
+
+Installed, configured, and supported virtual machines in VMware Veenter.
+
+PNT eb LOPAU sd
+
+to
+
+NO eomel
+
+Oo ANE LO MAES CRSS crow Aerie ttclO)g
+
+Provided tier 2 - 3 level support for 400 local end users and 150 remote users.
+
+Performed computer and user account creation, deletion, and configuration in Active Directory.
+
+SACHS CACO EINe rant ecko aN ee CcL Cae SK MIN PLC Me cineged strata
+
+Innged computers and laptops using Ghost and ImageX.
+
+Adninistered Symantec VERITAS Backup Exec to make sure backups are successfiil and change tapes.
+
+Installed and configured Windows Server 2003 & 2008.
+
+Adnminister Blackberry Exchange Servers; Reset passwords, wipe blackberry data.
+GSnilceBs)aelNeommcoincloertnemcciueBsl ae teomaenrecriics WARS B omer hicane
+
+Configured and troubleshoot network printers on a LAN. Performed LAN/WAN troubleshooting on any network.
+Coordinated new desktop equipment deployment and mamge loaner hardware pool.
+

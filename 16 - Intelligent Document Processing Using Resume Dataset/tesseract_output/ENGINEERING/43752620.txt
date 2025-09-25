@@ -1,0 +1,105 @@
+ENGINEERING INTERN
+
+Summary
+
+Automotive Engineer seeking Systems Engineer position at your esteemed organization with scope for career advancement and professional
+toe ane
+
+alg
+
+AutoCAD, Ansys, Cero, CATIA, HyperMesh, DFMEA, MS Office Suite, Fortran, C, MATLAB/Simulnk, CNC Programming
+
+schivor anes
+Dec 2016
+Company Name
+
+Identified technological changes, key issues, trends, design and refined the vehicle definition.
+
+Illustrated vehicle design and highlighted major interior and exterior dimensions of the vehicle concept.
+
+Presented a technology plan on the above parameters.
+
+Simulation and Analysis of 1-2 Shift Processes ofa 6-speed FWD AT, University of Michigan-Dearbom, March 2017.
+
+Established a nathenntic model for the transmission-vehick system consisting of general state variable equation, specific state variable
+equation for the Ist gear, 1-2 shift process and 2nd gear operation.
+
+Simulated the launch of the vehicle from rest in Ist gear, initiated 1-2 shift at a speed of 15 mph, and 2nd gear operation for 2 seconds with
+an open torque converter and a fixed throttle position using MATLAB/Simulink.
+
+Reduced torque overshoot by spark retarding, and carefull calibration of the oncoming clutch.
+
+Further, torque hole was reduced to mmximum extent with help of spark retard.
+
+Modelling of Vehicle cooling system, University of Michigan-Dearbom, November 2016.
+
+Built a Simulink model of vehicle cooling system consisting of four sub models namely, engine operation, air flowrate, coolant flowrate and
+renmicny ian
+
+Determined coolant flow rate, heat rejection from the engine, and engine outlet coolant temperature for different vehicle speeds by executing
+the simulation model.
+
+Computational Analysis of Hemispherical Radiating Fm, Visvesvaraya Technological University, April 2015.
+
+Derived heat transfer equations by using two-dimensional conduction equation in spherical coordinates and subjected the same to radiative
+boundary condition, with constant base temperature.
+
+Solved derived equations using Finite Difference Method and Gauss-Seidel iterations by writing a code in FORTRAN 95.
+
+Determined Heat transfer improvement as a function of thermal conductivity and emissivity, with and without irradiation.
+
+The hemispherical fin starts to radiate heat for thermal conductivity > 3 (W/mK) and absorbs heat for thermal conductivity < 3=">
+
+Engineering Intern Jan 2016 to Jun 2016
+Company Name i City
+
+[Avr etetdenc ine recctrecd na kl asluncaienboueraichil nce lene CUeR I OHLes nelam Birr cen
+
+iL otren eth Clo ue owe) ceca ar eiecae ab Ceie sell ecm
+
+Overhauled Engines and Transmissions with assistance of technicians.
+
+Carried out tasks such as et and replacement of clutch, common rail, glow plugs, spark plugs, head gaskets, shims, tappets, brake
+pads, brake shoes, brake fluid, engine oil, coolant, EGR systeis, VVT systems, engine filters, fixl filters, wheel bearings.
+
+Gained knowledge in working of CAN Bus systers.
+
+Assisted technicians in cylinder compression test, servicing of inter-coolers, suspension systems, brake systers.
+
+Operated SDT (Suzuki Diagnostic Tool) to inspect, analyze and eliminate errors caused by various sensors and actuators present in
+different vehicle systems.
+
+Mechanical Engineering Intern Jul 2014
+Company Name i City
+
+The main objective of the intemship was to understand the different mechanisms and technical concepts involved in the end to end
+manufacturing of rail coaches and engines.
+
+Monn po enLeme od Sucictpmanyiltrea
+
+Witnessed various concepts such as welding, sheet metal works, CNC machine working ete.
+
+Benchnurking and Preliminary analysis (Mid-Size SUV), University of Michigan-Dearbom, September 2016.
+
+Collected Customer requirements from surveys, websites, magazine and, blogs.
+
+Conducted a benchmarking study of competitor vehicks with the reference selected vehicle.
+
+Developed preliminary specifications of the target vehick.
+
+Developed Pugh Diagrams to determine how the target vehicle and benchmarked vehicles compare with the reference vehick.
+
+QED, requirement cascade and interface analysis for a selected vehicle system (Instrument Panel), University of Michigan- Dearborn,
+October 2016.
+
+Determined fictional specifications through the application of the Quality Function Deployment (QFD) to a selected vehicle system
+Cascaded vehick attributes and sub-attributes requirements to vehick system and its sub-system requirements.
+
+Developed interface diagram and interface matrix for the selected vehicle system included all major sub-systerrs.
+
+Identified and analyzed major trade-off considered in designing the selected system to fit and work with other vehicle systems.
+Business Plan Development (Mid-Size SUV), University of Michigan-Dearbom, November 2016.
+
+Determined and developed various features, options, unique characteristics of vehicle systems and provided a brief description of the
+proposed vehick.
+

@@ -1,0 +1,98 @@
+SOFTWARE QUALITY ASSURANCE ANALYST II
+
+Career Overview
+
+12 years of experience in Software Quality Assurance requirements analysis, test planning, creating test cases, and test process coordination
+Experienced with fictional, end to end, regression and user acceptance testing of Web based and Client Server interfaces Familiar with the
+Waterfall and Agik SDLC 7 years experience in customer support/service and handling escalated issues 5 years of running formal training and
+development prograrrs for system users Advanced Windows OS and MS Office applications user/troubkeshooting skills Ability to kam new
+software very quickly Able to handle multiple projects Take ownership attitude Flexible team player
+
+Qualifications
+
+Microsoft Excel/Word/Outlook/Access/Powerpoint/Frontpage, Windows 7/XP/2k, DOS, setting up/troubkeshooting hardware/software, Mac,
+Internet, Test Director/Quality Center, Ontime, Zendesk, SharePoint, and basic office equipment
+
+Aug oanan at acs
+
+Software Quality Assurance Analyst II Jan 2012 to Current
+
+(Oo nape LALO NMESI FIC
+
+© Work Environment: Agile, Windows based, Acuity Electronic Health Record System suite testing and administration, Ontime.com used for
+
+incident/bug reporting,
+
+T-SQL used to query/insert/update SQL DB to verify input/output of test scenarios.
+
+WinAutomation and TestCompkete used for autonmted testing.
+
+Application software testing ffom local machines and Cloud Share environments.
+
+Excel and Word extensively used for creation of project documentation Responsible for analyzing the requirements and testing all modules
+
+of the Electronic Health Record (EHR) System including Patient, Company, Provider, Referrals, Collaborators, Utilization
+
+Managerent\Authorizations, Care Plans, Assessments, Tasks, Notes and any other modules that require testing.
+
+Testing of the Implementation process from one version ofan EHR to another appropriately mapping data from the source database to the
+
+destination database.
+
+© Creating, maintaining and testing user and group profiles confirming the appropriate access to the medical system Updating application
+software by defining/coding existing fick! properties or creating special user fickls to fit the appropriate workflow to be tested based on
+ara ram etn
+
+© Document test cases, procedures and automation scripts and keeping them updated for cach system rekase Effectively track testing
+progress using Ontime.com for tracking and assigning defects Responsible for Database loads, test enviromrent set-up, FTP of application
+files and workstation preparation on Cloud Share environments Work with application programmer with system defects or analysis of
+project features Perform fictional, regression, and ad-hoc testing on all assigned EHR projects.
+
+User Support Specialist II, Payments Specialist Jan 2011 to Jan 2012
+Company Name i City , State
+
+* Call Center, Macintosh based, ZenDesk ticketing software used to track user incidents Troubkshoot user issues with Airbnb.com website
+navigation and services, such as user account maintenance, payment processing and billing analysis, as well as very complex financial and
+non financial disputes between users including customer safety issues Respond professionally to any escalated calls and support level I
+agents with urgent calls Take effective notes on user accounts through a ticketing system Thorough follow through of each call ensuring
+arte ereco meats At on
+
+Test Execution Manager Jan 2006 to Jan 2010
+Company Name i City , State
+
+© Work Environment: Matrix team structure/Team Lead, Windows based, Quality Center used for test case and bug/incident reporting,
+
+* Excel and Word extensively used for project document creation and SharePoint used for document management/sharing, PowerPoint used
+for meeting facilitation, Managed PC hb for testers including ordering and completing hardware/software set up and hands on
+troubleshooting of systems test environment.
+
+* Responsible for managing a team of onshore and offShore testers during the System Integration Test phase of the software development life
+
+cyck for the CA Banking Center New Accounts and Teller Platforms.
+
+Provided work estimates and ensured each project is efficiently staffed with testers to complete the project on time and on budget.
+
+Review, provide feedback and approve all test plans and scripts submitted by Test Analysts Work as a team member to accurately define
+
+the business requirements for new products for customers or system changes before the product or system change rollout.
+
+© Identify all system fimetions and processes that may be affected by each project Provide meeting representation on all banking center
+platform projects.
+
+© Manage end to end, user acceptance and production certification testing Represent the end user in design, development, testing and
+
+implementation of changes to existing systems environments for CA Banking Centers.
+
+In charge of the training and development of new test analysts brought on board to test the CA banking center new accounts system.
+
+Created and ead training classes in a formal setting in the test lab or virtually over the web for users.
+
+Responsible for ordering the appropriate hardware and software for the test lab for the test analysts and production lab for the
+
+implementation team
+
+Software Test Analyst Jan 2000 to Jan 2006
+Company Name i City , State
+
+CEA ee ony era clea cone Pouca Mela hAGQaiGeriath oe Caer Leb nUpes tone ope alinum once eR Waycel
+

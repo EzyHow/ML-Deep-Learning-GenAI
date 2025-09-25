@@ -1,0 +1,71 @@
+TERADATA SENIOR ASSOCIATE CONSULTANT
+Shapers
+
+Highly dependable Teradata Database Engineer successfill at troubleshooting and debugging, Supportive and enthusiastic team phyer dedicated to
+streamlining processes and efficiently resolving project issues.
+
+Highlights
+* Teradata BTEQ,FastLoadPLSQL =, Rene tnr rs
+Oo
+: Sica * SQL Performance Tuning
+
+Pee cee cate | ad
+Accomplishments
+
+Pt es Ral oie mekey URL O ECB Omen ene Beets ite boner @ MNT omi ter cremia cE nLe ys anraTC ety
+
+Experience
+Teradata Senior Associate Consultant Dec 2014 to Current
+(Ooi ote Nrlnea LOL mE
+
+Project Description :
+
+iOS Mobik Application for Business Analytics Reporting This project aims at developing an Orack and Teradata layers for pushing the data to
+iOS Mobik Application.
+
+Responsibilities:
+
+© Performed data analysis and gathered colurms metadata of source systems for understanding requirement feasibility analysis.
+
+Worked on optimizing and tuning the Teradata and Orack views and SQLs to improve the performance of batch and response time of data
+arson)
+
+Impkmmnt the code changes through change managerent tools.
+
+Worked closely with business users to come up with detailed solution approach design documents,
+
+POC Mone riibop lessees hu ni«Mtartnla ms ecad nian
+
+Provided initial capacity and growth forecast in terms of Space, CPU for the applications by gathering the details of volumes expected from
+bes wesc
+
+Prepared low level technical design document and participated in build/ review of the BTEQ Scripts.
+
+Provided support during the system test, Product Integration Testing and UAT.
+
+Cebu te Mnmeinekcaueeensientenncmircciuled eee OU lkee eee oimonasncesuneia
+
+aoe ibisnn sone mite Keonearoncd crs
+
+Done the impact assessment in terms of'schedule changes, dependency impact, code changes for various change requests on the existing
+Data Warehouse applications that running in Production environment.
+
+url lccRe hes orueraben moc cBorouicovaniie embed eiedrat enki eee cncce
+
+Liaised between different impkementation groups (Both source and target systems) and monitored the implementation activities,
+
+PMs ed Si Leccp ice caren Cmeeyurce Te MtveeaCouiiies Ryneallel aioe Oke esiun mrad ed urbe tet
+
+Coordinate with Configuration management team in code deployments. Environment: Teradatal4, Orack PL/SQL, BTEQ, Basic Unix
+
+Senior Associate Consultant Mar 2012 to Dec 2014
+(Oo tae nea ROL NEST
+
+Project Description :
+
+Development and maintenance of sermntic/downstream kyer in a data warehouse for Business user reporting, This project aims at building and
+mmintaining a data mart on Enterprise Data warehouse, in order to increase the efficiency of the reporting, support business users in performing,
+more robust analytical reporting and decision making capability.
+
+ested psl yi bcos
+

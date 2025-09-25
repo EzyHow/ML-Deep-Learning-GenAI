@@ -1,0 +1,86 @@
+INFORMATION TECHNOLOGY AND AWS ADMIN INTERN
+schivor anes
+
+Information Technology and AWS Admin Intern , 04/2019
+Company Name 4€“ City , State
+
+* Researched and impkmented a secure cloud infrastructure for migrating the financial data into AWS with seamless integration for company's
+financial departrent.
+
+© Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud.
+
+* Reduced the company’s infrastructure cost by 10 times.
+
+© Impkmented secure off-site backups through scheduled weekly SSH dumps to remote server.
+
+© Configured and troubleshot switches, routers and firewalls usmg TCP/IP protocob.
+
+Network Engineer Intem , 10/2015
+Company Name
+
+© Built LAN and WAN for srmltscale business enterprises using HTTP, DHCP, DNS, OSPF, VLAN.
+
+AWS Certified Solutions Architect- Associate , 10/2018
+Company Name 4€“ City , State
+
+¢ ID-J007G7C1MFEAIRSQ) Aug 2019 Cisco Certified Network Associate - CCNA 200-125 (ID-CSCO13264710.
+
+Tue)
+Company Name
+
+PEN ae Ueno wor enpaniaenminice cathe beine ech eccMcoube Neue lacme ates aries NPe Mes att
+¢ Created an EC2 instance with Windows AMI to host an application on virtual machine WAN network deployment for a multinational
+organization using Cisco Packet Tracer Fall 2018.
+
+* Configured routers, switches and implemented IP addressing, subnetting for a multi-location enterprise network using DHCP, OSPF,
+HSRP, RSTP for routing and redundancy.
+
+© Solved security threats by providing network security using ACL and port security Linux Based Integrated Ad-Hoc Network for IT
+infrastructure (Linux, Ubuntu) Fall 2018.
+
+¢ Designed and implemented a prototype illustrating a client-server model for hosting WebServer (Apache2), master and slave.
+
+Work History
+Information Technology and AWS Admin Intern , 04/2019
+Company Name 4€“ City , State
+
+* Researched and impkmented a secure cloud infrastructure for migrating the financial data into AWS with seamless integration for company's
+financial departrent.
+
+© Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud.
+
+* Reduced the company’s infrastructure cost by 10 times.
+
+© Impkmented secure off-site backups through scheduled weekly SSH dumps to remote server.
+
+© Configured and troubleshot switches, routers and firewalls usmg TCP/IP protocob.
+
+Network Engineer Intem , 10/2015
+
+Company Name
+
+* Built LAN and WAN for srmltscale business enterprises using HTTP, DHCP, DNS, OSPF, VLAN.
+
+AWS Certified Solutions Architect- Associate , 10/2018
+Company Name 4€“ City , State
+
+¢ ID-J007G7C1MFEAIRSQ) Aug 2019 Cisco Certified Network Associate - CCNA 200-125 (ID-CSCO13264710.
+
+Tue)
+Company Name
+
+PEN ae error emaniicenminicecl ebro beine genie ccModbe Neue licme ates aries N Pees atta
+
+© Created an EC2 instance with Windows AMI to host an application on virtual machine WAN network deployment for a multinational
+organization using Cisco Packet Tracer Fall 2018.
+
+© Configured routers, switches and implemented IP addressing, subnetting for a multi-Jocation enterprise network using DHCP, OSPF,
+HSRP, RSTP for routing and redundancy.
+
+© Solved security threats by providing network security using ACL and port security Linux Based Integrated Ad-Hoc Network for IT
+infrastructure (Linux, Ubuntu) Fall 2018.
+
+¢ Designed and implemented a prototype illustrating a client-server model for hosting WebServer (Apache2), master and slave.
+
+Accomplishments
+

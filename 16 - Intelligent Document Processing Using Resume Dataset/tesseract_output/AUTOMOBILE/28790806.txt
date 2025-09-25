@@ -1,0 +1,88 @@
+DATASTAGE ETL DEVELOPER
+Summary
+
+Thave 6 years of ETL experience and extensive experience in business and system analysis across multiple platforms using the full software
+development life cycle. I have worked in the role of Data Warehouse Specialist, ETL Datastage developer and Production Support Analyst
+requiring subject matter expertise when dealing with mainframe sources with COBOL/ASCII File structure ,Distributed sources (RDBMS) and
+handling business intelligence data with DB2, Netezaa, Oracle, SQL Server and Hadoop Hive Data Warehouses . A I have worked on developing
+and supporting major Banking Credit card conversion and Member Debt solutions project for Unites Services Automobile Association. These
+projects involved Requirement analysis, Risk assessment and management, Data planning and driving, Process Implementation, Team
+mmnagenent, Project tracking, Customer interaction, Release Managerrent, Defect tracking, Deliverable and Warranty support. Over this period,
+Thave established an exemplary record of providing successfil system support and delivering business value for mid-level to large business
+intelligence applications. I have demonstrated excellent leadership skills in handling multiple offShore, nearshore project assignments with multiple
+resources and have delivered all requirements on time.
+
+alg
+
+© Expertise in IBM Datastage (8.5,9.1 and 11.5 versions) to perform ETL & ELT operations on data
+© Proficiency in Unix Shell Scripting
+
+* Proficiency in writing and debugging A complex SQL
+
+¢ Informatica ETL Support experience (Version 9.1)
+
+© Hands on experience on IBM DB2 /Netezza/ SQL Server/Oracle
+
+¢ Data archival into IBM BIGINSIGHTS with HIVE tables
+
+© Experience in Contro-M Scheduling Tool
+
+Accomplishments
+
+© IBM Certified Solution Developer-InfoSphere eT aL eM
+© IBM Certified Solution Developer-InfoSphere Datastage v9.1A
+© Certified in Oracle Database 11g: SQL Fundanentak I.
+
+schivor anes
+
+DATASTAGE ETL DEVELOPER Jan 2016 to Current
+
+Company Name i City , State
+
+MEMBER DEBT SOLUTIONS PROJECT
+
+Project involved the conversion of un-scalable SQL sandbox data into scalabk Netezza Collections data capable of doing large scale analytics.A
+
+© Developed Datastage Jobs to load Collections data from multiple sources Aspect,CACS, Strata, FICO, Fidelity and FDR to the respective
+
+Dimensions and Fact tables with required business transformations.
+
+Involved in all phases of SDLC, created detailed Analysis-Design docurrents with source to target mappings.
+
+Developed and maintained accurate project documentation and data model diagrams to provide managerrent with proper understanding of
+
+organizational needs.
+
+© Prepared technical data flow proposals for enhancements and integration of existing third-party data. Communicated with business users and
+project management to get business requirements and translate to ETL/ELT specifications.
+
+* Provided technical support to both business team and user departments for all projects.
+
+© HandkdA muttipk offshore, nearshore resources during the project and delivered all requirements on time.
+
+erg
+BIGINSIGHTS DATA ARCHIVAL
+
+* Asa part of raw data archival I had worked ina project developing a framework to load all raw files into foundation hyer. Coding was
+done on Unix Shell Scripting. All data were loaded into foundation yer with a BIGSQL compatible Hive tables built on top of it. The
+Hadoop data is read through Hive query language and is being used for discovery purpose.
+
+Hck
+DATASTAGE 11.5 MIGRATION PROJECTA.
+
+CP AN cea birucies Panes Une ON cp lore aa ante ROW oni) roce oneal eh cataaa Zante}
+11.5. My primary task was to gather migration requirements, design topology/phaybook, test jobs in QA server ver 11.5 and production
+implementation/support.
+
+DATASTAGE ETL DEVELOPER Feb 2013 to Jan 2016
+
+Company Name i City , State
+
+CREDIT CARD CONVERSION PROJECT
+
+Large project to integrate the single entity credit cards to dual entity credit cards. This migration enabled a cross-border portfolio view for all credit
+card applications and enabled maintaining same phastic number across history for analytics usage.
+
+* Developed Datastage jobs to do ETL transformations with the requirement provided and load respective Dimensions and Fact tabkes.
+¢ Lead Offshore team throughout the project and created detailed and accurate project documentation.
+

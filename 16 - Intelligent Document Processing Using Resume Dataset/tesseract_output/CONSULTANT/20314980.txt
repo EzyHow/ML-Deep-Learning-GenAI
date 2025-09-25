@@ -1,0 +1,90 @@
+CONSULTANT
+Summary
+Taman experienced Program Manager, delivering enterprise-grade on-premises and SaaS products at Microsoft whik being customer obsessed.
+I was previously an Enterprise Desktop Architect at multiple large companies, both as an employee and ina consulting capacity. I have a proven
+track record of positive impact in enterprise desktop mamgerrent, infrastructure, systems administration, programming and automation, enterprise
+Placa Meme) nUmerslestcaty eta
+Highlights
+Ce ince Os)
+MU Nichentoatar ae otd
+ls
+Leadership
+System Center Configuration Manager
+Enterprise Inaging/OSD/MDT
+Ny eh
+Comins
+WAM Toeotcs aria
+BitLocker Full Disk Encryption
+Server 2K8/2k12
+Project management
+Girish wet SNA Le)
+VDI
+ASP.NET/VB.NET/C#/VBScript
+Microsoft BitLocker Administration and Monitoring
+MS SQL Server
+App Compat
+Seer
+UE-V
+
+Accomplishments
+* MCTS: Windows 7, Configuration and MCTS: Windows 7 MCTS: Office 2010, Deployment.
+
+schivor anes
+Consultant Jul 2011 to Current
+Company Name i City , State
+
+* responsible for architecting and implementing client solutions for large enterprises.
+
+* Won four awards for efforts with enterprises and well as intemal work done to promote knowledge sharing (Great People/Great
+
+Performance, Knowkdge Management Sharing, Community Star, and a Key Talent award) and received the top ranking availabk.
+
+Drove not only Windows 7 adoption at an 85,000 seat Fortune 100 international financial institution, but the purchase of the Enterprise
+
+edition with MDOP and continued to fight for Microsoft share with Bitlocker, ConfigMgr 2012, and App-V.
+
+Founded the Americas Client Solutions Birds ofa Feather community initiative, a biweekly call with 40+ consultants providing an open
+
+forum for knowledge sharing, instant support, and networking opportunities.
+
+© Expanded commumity to include new college hires and other international communities.
+
+© Won multiple awards for knowledge sharing.
+
+© Effort included a separate call for Windows 8 First Wave consultants resulting in many successful engagements and a living lessons keamed
+(lett nana hates om carlM Peco ncn eeeistlinuleccie nes
+
+¢ Expanded to include Readiness Groups, a unique and effective way to prepare 90+ consultants internationally for a lange new wave of
+technology, increasing billable utilization amongst all client solutions focused consultants.
+
+¢ Architected and led Windows 7 deployment at a large international financial institution for 85,000 machines.
+
+© Programmed a website in VB.NET to aid rapid application rationalization.
+
+® Created three global Windows 7 images, including an x86 and x64 version, with multiple languages in MDT 2010/2012 and building a ZTI
+
+image using MDT and Configuration Manager 2007 to allow rapid OS uplift.
+
+Packaged 20+ applications as part of image engineering,
+
+© Drove application packaging efforts utilizing App-V and MSI (where appropriate), moving towards zero touch.
+
+© Developed and managed a virtual UAT test environment to allow remote access for testers to validate their applications which was utilized
+for thousands of applications.
+
+© Architected and implemented MBAM and began migrating from PGP to Bitlocker.
+
+¢ Assisted with image requirements and partnered with other teams to define hardware standards, better define licensing management,
+
+improve application and workstation self service systems and processes.
+
+Drove a security settings review and implementation on both XP and Windows 7 to set security baselines for machines to decrease attack
+
+Sowloexe selbst orerecm
+
+Created a 3 year Workstation Transformation Roadmap for a large client to streamline processes, improve end to end user experiences,
+
+implement Windows 8/Windows to Go/ConfigMer 2012/App- V/profile mamagement/data backup, and cut costs.
+
+Weedless ecu CoRR ere me Ello bncstim name
+

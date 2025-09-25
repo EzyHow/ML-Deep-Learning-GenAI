@@ -1,0 +1,89 @@
+CONSULTANT
+
+Si
+
+College graduate with interest in insurance chims work. Proven record of success in all endeavors. Strong work ethic and focus on the detaib.
+Excited to begin career in investigative work. Searching for an entry level position as an insurance chins adjuster.
+
+alg
+
+Unix, SQL Server 2005, SQL Server 2008, SQL Server 2008R2, VM-Ware, ODBC, SQL, PL/SQL, Access, MS Office Suite, MS
+Visio, Oracke 10g, Oracle 11g, SAP Business Objects BI Suite, PeopkSoft, ADP, and cView SAP Business Objects Suite, MS
+Io ee) LA aN THM Leos is A RO) it ecmelbiiccmme Ele) ec10
+
+Industry Software: SQL Server Studio, EmpCenter, CQCS, DNA, DNA-sie, IMC, eSors, and cView
+
+Web Design: Internet Explorer, Netscape Navigator, Chrome, Firefox, JAVA, ASP.NET, and HTML
+
+Operating Systerrs: MS Windows Professional/Enterprise/XP/7/8, NT, Novell NetWare
+
+Server Environments: SQL 2008, SQL 2008R2, SQL 2012, Orack 11g, Oracle 1122, and RPG Metadata, SAS, PeopkSoft, ADP,
+Ceridian Encore, SSRS, SSAS, SSIS, ETL, Access, Excel, Teradata, Crystal Reports, ServiceNow, SharePoint, and Cyberquery
+
+schivor anes
+Consultant 07/2016 to Current Company Name City , State
+
+Top 4 Financial Institution) Create SQL queries, stored procedures, and tables to extract data
+
+Analyze data to create executive team dashboards and daily visualizations
+
+Utilize Excel pivot tabks to monitor observations within the Core Finance metadata templateA
+
+Analyze Core Finance and GBAM Anrricas feeds for manual spreadsheet remediation
+
+Support data stewards with review of various dommin issues with viookups extractions
+
+Document process improverrents to enhance the data integrity
+
+Conduct data reviews to ensure the data quality and reasomability of data feeds supplied to EDM Generated trend reporting to assist with
+reducing the number of feed gaps
+
+Environment - Access, Excel, SharePoint, SQL Server, Metadata, Teradata, and Adaptive.
+
+Database Analyst 04/2016 to 07/2016 Company Name City , State
+
+Provided technical support and basic development for computer applications and programs
+
+Documented technical specifications to design or redesign complex projects and applications
+
+Analyzed complex computer application problems to maintain or restore functionality Led the resolution of complex issues or escalated as
+needed to meet established SLAs
+
+Prepared programming specifications and completed programming tasks to develop basic, and/or assist in the development of moderately
+complex, computer solutions
+
+Prepared program test data, tests and debugs programs using Waterfall methodologies Updated and completed documentation, procedures
+and user guides to ensure data quality
+
+Participated in testing and updating the business continuation plan Planned and analyzed highly complex business requirements
+
+¢ Environment - SQL Server, Teradata, Oracle 11g, Orack Discoverer, MicroStrategy 9.3.1, Metadata, and BMC Remedy.
+
+Senior Business Intelligence Analyst 02/2015 to 04/2016 Company Nam City , State
+
+Developed and enhanced Webl reports and universes through Business Objects Provided technical support to triage database performance
+and reporting related issues Reviewed and interpret report SQL to determine data source and business logic Conducted report requirement
+gathering sessions with project business SMEs Compiled report mapping of legacy reports to aid in Change Management communication
+Quality Assurance tested additional objects in the universe structure to ensure data quality Created fictional and technical specifications
+according to business requirements Conducted unit and system tests with various teclmical tools including SSAS Collaborate with Business
+SMEs to develop report testing strategy using Agile methodologies Conducted UAT with Business units and Quality leaders Performed
+various tasks throughout Software Development Life Cycle (SDLC) Enviroment - SQL Server, Oracle 11g, Business Objects Webl,
+Tableau 9.0.1, and ServiceNow.
+
+Reporting Analyst 10/2013 to 02/2015 Company Name City , State
+
+Reviewed and transhted current state Business Object/Crystal Reports/Report Builder/MSRS Reviewed and interpreted report SQL to
+determine data source and business logic Conducted report requirement gathering sessions with business SMEs and focus groups
+Developed new or modify reports in MSRS, BIDS, and SQL Server 2008 R2 or 2012 Compiled report mapping of legacy reports to aid
+in Change Management commumication Designed, developed, and implemented new and existing interfaces for ETL processes using SSIS
+Created Logical and Physical Data Models utilizing ERWIN Developed and implemented data warehouse tables and views with Metadata
+Created fimetional and technical specifications according to BRDs Created test plans to validate the adherence to business requirements
+using HP ALM QC Conducted Unit and System tests with various technical tools including SSAS Collaborated with Business SMEs to
+develop report testing strategy using Agile methodologies Conducted UAT with the eSOMS Business SMEs to ensure data integrity and
+quality Environment - ERWIN, eSOMS, SQL Server 2008R2, SQL Server 2012, SQL, SSAS, SSIS, SSRS, SAP BO Crystal Reports,
+MS Office Suite, MS Visual SourceSafe, MS Visio, and TOAD.
+
+Business Analyst 04/2012 to 09/2013 Company Name City , State
+
+Collaborated with team members and clients to gather HR/payroll report requirements Created fimctional and technical specifications
+

@@ -1,0 +1,93 @@
+CONSULTANT
+
+Summry
+
+‘Transition from an Application Developer and secure a position as a Business Analyst or Technical liaison with a company that can filly utilize my
+education and experience, while offering upward growth and opportunity.
+
+Sas
+
+CRE Coreo Mom cis Boat) en CeO
+© Blaze Advisor .net Rules Engine
+
+HTML, JavaScript
+
+¢ Visual Basic 5.0 and C+ programming - Introduction and advanced concepts.
+
+crore aned
+Consultant 06/2012 to Current Company Name City , State
+
+Managed/Designed/Developed Market Segment determination ruks. Rules Service provided account and policy a market segment values
+of either Mid-Market or Smal-Market areas of underwriting. Determining market segments streamlined Underwriting workflows and
+allowed processing center to efficiently handle insured accounts.
+
+Managed/Designed/Developed Underwriting ruks question service. Real-time access of questions, per entry screen ffom online quoting
+system A Service provided agent or support users immediate access to underwriter questions in regards to the specific entry screen user
+was working with. Rules provided on-line questions and answers for analysis through Nationwide's underwriting binding authority rules.
+Managed/Designed/Developed Underwriting Rules based Protocol system which provided underwriter guidance with little or no agent
+Pata ee Ry hen ccc nee oe SAB ICL CCn TS ce
+
+Managed outside consultant's work assignments whik providing technical keadership in designing process flows, business object model, .net
+web service changes and rukes engine updates.
+
+¢ Developed nukes decision tabks, intemal methods, finctions and .net field translation for rules engine.
+
+Managed/Designed/Developed Single entry System Determination entry ruks. Technical kad on the project, singke sign on directed user
+entry into the commercial lines real time quoting system With kss sign on screens, project provided agents and intemal users a streamlined
+process for ease of doing business when initiating a quote.
+
+Practiced Lean AM (Application Maintenance), developing IT maintenance efficiencies withn our department. Creating huddle cards with
+work details, “Swim Lanes" for project delivery, and huddie board meetings, allowed our development team to concentrate on quality while
+removing overhead processing costs.
+
+Managed/Designed/Developed Light Touch Underwriting Account renewal ruks.A Technical lead on the project.A Managed renewal rule
+code deployments into requested test and production environments. Designed Blaze code for renewal ruks by routing certain accounts to
+underwriting and other processing units. Developed decision tables, SRL code fimctionality to process account authority rules. Project
+increased policy renewal flow rates by having less underwriter intervention and routing accounts directly into specific processing units.
+
+Application Staff Specialist 04/1986 to 06/2012 Company Narre City , State
+
+oy Cy
+
+er a
+
+Managed/ Developed FICO rule applications using Templates, Decision tables, Rule Sets, Patterns, while integrating SRL code to provide
+Ml ace LeU ena eL SLU e rhe ote SO ees na iC encuPst gel mienrs Oe ORO naar Case
+Responsible for developing System, Product rule sets which directed system entry and product avaihbility to both intemal users and outside
+insurance agencies. System successfilly routed small market agents to use selected products and Ines of business for quicker issuance of
+SOI vaUaU lee mete MNT REL Ca ied pienoccoda tes ob exer Lecn mura a mulb cance soanan lca ct) @eesrrsllninn cag
+premiums in one quarter.
+
+Developed/Maintained Web Services for Underwriting Rules Engine. By integrating Commercial lines and Agent Portal data with Baze
+(Fair Isaac), rules engine output enhancing Underwriters ability to analyze data in English terms and establish profitable decisions for each
+policy submitted. Applications consisted of Insurance Systeny Product Determination and Underwriting Binding Authority interfaces.
+Services developed with Visual Studio 2010, C# .Net wrappers integrated XML business objects with Blaze ruks software.
+
+Developed windows console application for unit testing FICO ruks. Testing Framework allowed user to enter test cases through Excel and
+create XML file input invoking specific Insurance rules. Application increased Business Analyst productivity by allowing more time for
+Ried elcipcch mba tice omtickc cuca bHourice annem Tato ese R LO AMS ES rere Coene|
+Microsoft programmnbility InterOp.
+
+Researched/Developed Insurance New Business and Endorserrent object models for Policy Binding Authority. Arranged planning sessions
+with Data Modekrs, and Business Analyst to develop scherms using Visual Studio XSD and XML structures.
+
+Managed Team Foundation Server deployments for Net and SQL Database changes. Experienced with Visual Studio TFS source contro!
+and Data Backlog Items.
+
+Coordinated group meetings, multiple project production impkmentations with developers conceming deployment strategies and project
+impkereniation dates.
+
+DeSuLee ee euaieo Ry occ leiemecce a Nce
+
+Designed SDLC documentation and deployment procedures for production implementations.
+
+ee i a aaa eed iia Ieee alan Tes ae ecoR URW ucm Lee eye Se Clune seal eb espe eee
+
+Managed SQL Server Database valid values table, updating and inserting data rows. Table provided data translation from outside vendor to
+internal values used by Underwriting Rules Engine.
+
+OT RO) Poo mAUiBriayconen malty
+
+© Developed Legacy mainfiame IT specifications for system enhancements related to Agent Portal initiatives.
+© Provided IT technical leadership for kgacy mainframe, Quality Assurance using SDLC methodology, Architecture design and
+

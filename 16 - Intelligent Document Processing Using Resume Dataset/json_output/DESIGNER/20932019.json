@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "university": "Mount Mercy College",
+            "year": "2005"
+        },
+        {
+            "degree": "Associate of Science",
+            "university": "College of DuPage",
+            "year": "2003"
+        }
+    ]
+}

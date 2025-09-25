@@ -1,0 +1,96 @@
+INFORMATION TECHNOLOGY SPECIALIST INFORMATION SECURITY OFFICER
+
+Profile
+bhh, bhh
+Core Qualifications
+© UNIX/LINUX
+* Oracle Certified Professional (OCP), versions 8.0, 8i, 91, 10g, 11g © Strong collaborative skills
+© Certified Information Systems Security Professional (CISSP) (SC)2_ «Patch management
+© Certified Information Security Manager (CISM) ISACA © Database servers
+
+Professional Experience
+Information Technology Specialist Information Security Officer
+October 2010 to July 2015 Company Name iA City , State
+
+Installing and configuring Oracle software versions 10g-12c.
+
+Scripting maintenance and monitoring tools.
+
+Creating Risk Assessment template based on NIST 800-30R1 to facilitate and evaluate secure software development practice.
+
+Building autormated database risk/security models for quantifying degrees of database risk and enabling the standardization and prioritization
+erat (Lente Kons
+
+Managing/mentoring support staff and participating in24X7 production support and security monitoring rotation for large scale, mission
+critical applications.
+
+Developing, implementing and supporting enterprise backup and recovery, change control, security and audit procedures.
+
+Performing database, server and application performance and security monitoring and tuning,
+
+Impkmenting vendor and customized database auditing and analysis packages.
+
+Develop pattem recognition triggers for Anti-Money laundering systems.
+
+A lecuieze oA UR@o morons CRG rucn ies )becllen nin Recldlncckcd alae NLMas i wLeRee ive) eir een eleLenauleben
+regulations and corporate policies.
+
+Designing and implementing least-privilege database administration model and application development templates.
+
+¢ Providing support and guidance for the modeling, development and testing of enterprise applications to ensure that applications are secure,
+
+highly available and filly meet the needs of our end user communities.
+
+Develop ITS Enterprise Database installation, configuration, monitoring and security standards and procedures.
+
+SPURS om BS PCR eHLUIcICORs NCCUr USA cis Ocal Amen Een mul mien niemaceTi@lslanaerane (bie) ecole ices
+administration.
+
+Create and configure security templates for Oracle Enterprise Manager.
+
+Act as bureau security liaison and represented database security at conferences and meetings.
+
+Develop and implement database security policies and procedures.
+
+Create comprehensive and cross-referenced database security benchmark utilizing the CIS Oracle Security Benchnurk, NIST and DoD.
+Managed IBM engagement for Guardium from proof of concept to procurement.
+
+Provide remediation roadmmp for database and application security issues.
+
+Urania aceon e ence ance Nata ea CEIMI ees WT Lemereenersie ec Rey aunelanicty eLinoe
+
+Replace manual terminal service audit reports with secure self-service, repeatable and audited process using PL/SQL and COGNOS.
+
+Ae ies (and
+April 2002 to Septerrber 2010 Company Name 14 City , State
+
+Perform database penetration testing and regular server and database scanning for security vulnerabilities and compromised passwords.
+Technical lead for database consolidation, backup software replacerrent, PeopleSoft upgrade and Anti-Money Laundering projects.
+Responsible for operational aspects of Oracle database administration activities including capacity planning, installation and configuration of
+the Oracle RDBMS, Grid Control and ASM software, patches and supporting products, backup & recovery, database tuning, monitoring
+and troubleshooting utilizing TKPROF, OEM, STATSPACK, DBArtisan, Tivoli and custom SQL, PL/SQL and UNIX shell scripts.
+
+Plan and manage mutti-location disaster recovery exercises.
+
+® Provide operational 24X7 support ofall corporate Oracle systems (341 databases, 65 servers, 5 versions of Oracle and 5 operating
+
+Eyscaets)B
+
+Developed and implemented procedures that reduced in-house database probkm tickets by 60%, job failures by 80% and on-call support
+ied aU
+
+Created enterprise wide capacity planning, troubleshooting and performance monitoring models.
+
+© Coordinated and supported application development, testing and performance improvement efforts including data model revisions, SQL
+
+aur emacoraseniiulictceice
+Instituted a series of workshops, classes and training programs for developers to expand their knowledge and understanding of SQL,
+Olco en eRenlomccaniia
+
+© This group is now self-sufficient.
+© Performed block-level data recovery that Oracle Corporation said was not possibk, saving critical business data and minimizing impact to
+
+business fimetions.
+
+Database Manager
+

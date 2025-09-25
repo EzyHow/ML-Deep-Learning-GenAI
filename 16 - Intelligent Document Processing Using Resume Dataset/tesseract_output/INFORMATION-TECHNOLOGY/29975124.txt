@@ -1,0 +1,94 @@
+CONSULTANT
+
+schivor anes
+
+Consultant , 05/2017 to Current
+Company Name 4€“ City , State
+
+* Managed project schedule and local and remote staffto collect Water Main data and update GIS system
+
+© Develop business process and productivity reports to manage field book scanning project and Water Main data collection project.
+© Provide Application support for CIS, Infor CMMS, and Neptune AMR applications.
+
+PEE EMieetbS so geacien ow A Rosita
+
+¢ Assist Desktop support team with desktop and application user issues.
+
+© Developed secure FTP scripts during implementation of CIS and AMR applications after Ransommare attack.
+
+LONE Heo Rolin ee UsU LR RIecAul wy
+Company Name 4€“ City , State
+
+Install and configured Cityworks CMMS application, including XML modifications.
+
+Led configuration requirements gathering effort for Cityworks application impkmentation.
+
+Prepared and provided training for CIS, Meter Reading software, and CMMS applications.
+
+Provided Application support for CIS, CMMS, and AMR applications.
+
+Developed data import file youts and Crystal Reports for Lucity CMMS application.
+
+Performed system configuration for Lucity CMMS application.
+
+Installed and configured Infor Enterprise Asset Managerrent 11.1 application and SQL Server database.
+
+Led System Administration team to design and configure user security for Infor Public Sector application.
+
+Led configuration requirements gathering effort for Infor Public Sector application upgrade.
+
+Provide Application support for CIS, CMMS, and AMR applications.
+
+Assisted the City of Cleveland with the installation of their AMI Fixed Network.
+
+Developed the Residential AMI Meter Deployment scheduk for City of Cleveland AMI Project.
+
+PAE Ob sneered ec eo ROMANO ALCOR Menta my Or kUra tea bem Keep eater M eC UCIENE
+Develop business process and reports to manage Automated Meter Reading meter replacerrent program for City of Atlanta, Bureau of
+
+Drinking Water.
+
+CEO/Corsultant , 02/2000 to 02/2006
+Company Name 4€“ City , State
+
+© Managed Griffin Technology Group budget, taxes, expenses and contracts Hired and managed employees, including scheduling client
+appointments for on-site PC support service.
+
+Developed Crystal Reports for client management team to manage business within the Customer Information System.
+
+Gcnilccet Ronit ek Ow orl eiOn ic aoat me
+
+Developed PL/SQL views to handle difficult data issues in reporting.
+
+Gathered requirements for managerrent reports, application changes, and tracking software.
+
+Developed new applications using Access and Visual basic for Application for clients to track new projects.
+
+Provided Application Support for Maximo, Maintenance Management Software and CSTAR, Customer Information System.
+Assisted System Administrators in infrastructure upgrades and daily administration of HP-UX Servers.
+
+Information Technology Consultant , 10/1999 to 12/1999
+Company Name 4€“ City , State
+
+© Developed new PL/SQL Stored Procedures and Functions to build financial summary data.
+© Developed SQL queries against Oracle 8 database.
+
+Information Technology Consultant , 08/1999 to 10/1999
+Company Name 4€“ City , State
+
+© Created a new system fimctionality using Pro C code.
+© Modified existing program to fix errors with other processes.
+* Worked with DBA to build Oracle triggers and procedures and test programs.
+
+pIorstconM Coeineym Genco ame esa COROT bs
+Company Name 4€“ City , State
+
+© Maintained and Enhanced C and Uniface program code and Unix Shell scripts.
+© Developed new application development environment for future MMI software developrrent.
+© Developed new process to replace outdated or broken processes.
+
+Information Technology Specialist , 04/1996 to 04/1998
+Company Name 4€“ City , State
+
+¢ Provided development services to client at client's site.
+

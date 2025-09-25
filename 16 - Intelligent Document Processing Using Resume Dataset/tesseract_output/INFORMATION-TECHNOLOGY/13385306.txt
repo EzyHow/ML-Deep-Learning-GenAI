@@ -1,0 +1,94 @@
+DIRECTOR OF INFORMATION TECHNOLOGY
+
+Profile
+
+SUMMAR Y Applying technology and workflow solutions to business challenges is exciting for me because I Jove to eam and apply new kessons
+and approaches to support and enhance the organization to achieve its goals and mission.
+
+Core Qualifications
+
+C# Orack SQL Orack
+
+Information Management SQL Server SQL*Plus
+
+MIR Meagan gene Surg
+
+Pathlnces Des PRs nner ecb BAMA ea anc t
+ASP.NET Team Leadership IIS
+
+PL/SQL ADO.NET Tactical Planning
+
+Application Development Web Applications IT Strategy
+Microsoft SQL Server Software Development Agile Methodologies
+Ieee ee ranicks BOD ty
+
+Information Technology SQL Software Project Management
+eC ora UH Lon one SCP SUSECOp ine leaned
+Leadership
+
+Professional Experience
+Director of Information Technology 11/2012 to 08/2015 Company Name
+
+Provided application and network support services for the MSBA.
+
+The MSBA is a small quasi-public state authority who financially assists school districts in their schoo! building projects.
+
+My group maintains a rackspace hosted asp.net solution tied to SQL Server.
+
+Thad all the hardware and software reffeshed as well as bringing the development group up to sql server, tS, and VS 2012.
+Geers ncmniingns Rong locas Yea Of MLO Tne sane ecLoccce ORT ums retained rolad
+beat eicy
+
+T also developed an architecture based on object modeling for a middle tier.
+
+I was the the login account administrator for the authority which utilized Santander Banking Services.
+
+enna RUT Ace Cade rome relay come urn eens ine Bp a se ela
+
+I served as the project manager for all current projects and provided business analysis to work out business workflows for my team.
+I recommended Tabkeau as the authority's visualization business intelligence tool.
+
+We just started developing the infrastructure around the new business intelligence tool.
+
+We finished bringing in DSCI for data and phone lines and we are ready to have our phone system hosted in their data center.
+
+Team Leader 05/2005 to 11/2012 Company Name
+
+Ceo Eb oa UCL en Oa E eT Ute Oe elise oe orc ya zett os aire
+Cardiovascular Program.
+
+© [had three teams under my leadership.
+
+Thad the CAS and later the EMERIS group and I project managed the effort to replace a mumber of kegacy systems with modem C#
+applications.
+
+© The second group maintained professional and clinical billing for the cardiology departrrent.
+© The third group developed and maintained research applications for the cardiology’s research department.
+
+I was the logical Oracle DBA who puts objects into production and I maintained our central job scheduler and placed those jobs into
+production as well
+
+Chief Information Officer 07/2000 to 02/2005 Company Name
+
+error aon nba kc at eo some buce ce ng ne @enireiic its aetna Md Ie Poiren eed
+Mental Retardation.
+
+coal ad a Boia koe P ein GM cee Eas inaro ea Cn eB a a rkan easel ned
+Massachusetts office: 30 field office and 5 state school facilities,
+
+PRA CAUUcceR PZB RI ROSNER ane amie ace nme aC
+¢ We ako developed client server model applications and the electronic service delivery model which was hosted m our facility with ITD's
+
+BCG noed
+Our developnent platform was classic asp with vb.net and the back end was sql server.
+
+Director of Applications Development 02/1996 to 06/2000 Company Name
+
+Provided application development and support services to the Department of Youth Services.
+et ents
+
+project to convert our NaturalAdabas mainframe system to a ASP web based application YSIS.
+T also helped out as a.
+
+banyan administrator to our Network Administrator.
+

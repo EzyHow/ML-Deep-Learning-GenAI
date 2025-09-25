@@ -1,0 +1,104 @@
+INFORMATION TECHNOLOGY INTERN (TEST AUTOMATION ENGINEER)
+Ritanenstag
+
+Over 3 yearsA of experience serving as a key contributor across all Ruch ece ey etan ae roar Biiscccsiea nine Wtrsl toe
+architectural design, prototyping, development, and testing of applicationA using Java/J2EE technologies in various domains,
+
+SN eae c eto deo) CaSO n CPE URL Ue LCR nan Omaen ILL CI eu SE LL @ DL Sulu cE ALCL
+¢ Excellent working experience in backendA development using different Spring moduks like Spring Core ContainerA Module, AOP, MVC,
+
+Security, Data, Transaction Management etc.
+
+¢ Experienced in developing Microservices with Spring Boot, Spring REST, Spring Cloud, etc.
+
+ee ee eT
+
+NS lg
+
+Extensive experience in developing Web interfaces using HTMLS, CSS3, Bootstrap, SASS, LESS, JavaScript, jQuery, AngularJS,
+ReactJS and BackboneJS.
+
+Experienced in working with SQL databases like MySQL, PostgreSQL, Orack and have some knowkdge of NoSQL databases like
+MongoDB.
+
+Expertise working in Agie methodology environments like Scrum
+
+Experienced in working with Version Control Tools like SVN and Git.
+
+Deora emt GNP eRO NEE Ce SMe a nUMme ti ecuareuimde ety en Cine cited sie Oat cad
+
+Experienced in build tools like Ant, Maven, Grade and using them with continuous integration tools like Jenkins.
+
+A proactive kamer with exceptional analytical, design and problenrsolving capabilities.
+
+Excellent communication skills including formal presentations and technical documentation.
+
+Productive in both team-based and sel&managed projects.
+
+© Programming Languages: Java/J2EE, JavaScript, Android, HTML, CSS, SQL, C, C
+
+Frameworks and Libraries: Spring, Restful Web Services, Hibermate, AngularJS, ReactJS, jQuery, Bootstrap,A Selenium WebDriver,
+Cucumber
+
+Databases: MySQL, PostgreSQL, Orack, MongoDB, H2
+
+Build Tools: Gradle, Maven, Ant
+
+Practices: Agie/Scrum, Waterfall, TDD, Clean Coding, Continuous Delivery
+Architectures: Microservices, Single Page Application, REST, Client/Server
+Version Control: SVN, Git
+
+Orr recllowalhenieANNiS)
+
+Others: Bower, Grunt, Npm, Node, JSON, XML, Jenkins
+
+IDE: Eclipse, Intell, Android Studio
+
+Operating Systems: Linux, Windows
+
+Experience
+Information Technology Intern (Test Automation Engineer) 05/2017 to 08/2017 Company Name City , State
+
+Created nicely baked 4€ Test Automation Framework to provide an execution environment for the autormtion test scripts. The framework
+allowed automated regression testing of 8 WebTix, frontendAveb interface that ExtreneTr’s (Ticketing Solution Company) clients use to
+access web services.
+
+Extensively used Selenium WebDriver and Spring Boot combined to write automation scripts for dynamic pages of 8& WebTix' written on
+AngularJS Framework. Modularized web components as Java objects following Page Object Model ic created Object repository for all
+locators which can be easily autormted.
+
+Leveraged the benefits of both data-driven and behavior-driven approaches and built the framework that is mintamabke and reusabk.
+Integrated autormted tests with Cucumber (behavior-driven testing framework) to allow Quality Assurance team write high-level use cases
+pee) ane nom
+
+Leveraged Jenkins to buikl autommted tests project and use Selenium Grid to run paralkl tests across multiple browsers and phtfoms.
+Automated reports generation and distribution.
+
+Interpreted and converted manual test cases into automation smoke and regression suites.
+
+© Trained and supported the QA team with automation framework and script issues.
+
+°
+
+e
+
+Colkborated with the QA teamand went through an evolutionary approach in writing concise documentation to help configure the
+Fist penue nen sero Brome Cem enpip coe ticwey
+AN eye cce Roe W oe Eke reslcrlnemise etna te eat icib om
+
+Java Full Stack Developer 05/2014 to 06/2016 Company Name City , State
+
+© Worked on varied aspects of application development including requirement analysis, design, impkrrentation, and testing,
+
+Coded and debugged multi-tiered Java-based applications to provide enterprise and embedded solutions using Java and Spring framework
+APIs like MVC, AOP, DAO, JDBC, Transaction, Validation, Annotation, JSON, XML, Maven and JUnit Test.
+
+MO Meme anuncluemoe hector mrondennantera tcyuberetecd iO eaear ennai Pacancaiio ny
+
+Developed database access kryers using Spring Data JPA and Hibemate.
+
+Developed REST web services for external application integration.
+
+Developed a Java-based SDK and driver software for making the card reader, PUA-310V-0/M2U2/Y4 to work on Linux environment.
+Did extensive research on smart card technology (NFC, Mifare, DESFire, etc.) for projects like VMS (Visitor Management System) and
+

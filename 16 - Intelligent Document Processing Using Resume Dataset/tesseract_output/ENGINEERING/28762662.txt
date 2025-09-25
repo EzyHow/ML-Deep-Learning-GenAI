@@ -1,0 +1,110 @@
+SOFTWARE ENGINEERING MANAGER
+
+Professional Profile
+
+20+ years of software product development experience in broadcast media, video servers, editing, large scale applications, and 24/7 services, with
+emphasis on simpk solutions, user experience, and teamwork. *10+ years of experience in kading software development teams working across
+locations (
+
+Qualifications
+
+20+ software engineers), team buikiing, hiring (10+ offers, 40+ interviews), HR personnel procedures, mentoring, performance reviews write up,
+peer reviews, and project transitions. *Proficient: Visual C++, Windows, STL, OOP, MFC, threads, file maps, memory management, COM,
+ATL, IPC, FTP, TCP, HTTP, XML, JSON, services, web services, REST API, SOA, media formats and standards, codec SDK and
+integration, MPEG-DASH, API design and documentation.
+
+Relevant Experience
+
+REST API and URI specification document for Hercules web service.
+
+Reuse Innovation" award at Harris Corporation for reuse of the core IP from NLE product suite in Nexio server product suite.
+‘The editing IP reuse contributed to the Server business unit tumaround.
+
+Consistent "role model" performance review during principal engineer years.
+
+Certified ScrumMaster, Scrum Alliance, Dec 2014 - Dee 2016.
+
+Products: http/Awww.imaginecommunications.conyproducts/playout/video-servers.
+
+Ce
+
+Experience
+Nee onuincase Vola nag
+September 2009 to Current Company Name 1% City , State
+
+© Limited: C#, HTMLS, CSS, JavaScript.
+
+¢ BCDof Haris Corporation spinoffs Inmgine in 2013) Nexio video servers and applications facilitate collaborative workflow in Nexio
+LAN with video servers, services and applications running in various nodes.
+
+Media conxs from proprietary SAN or generic storage off NAS.
+
+Developrrent and team management, Nexio servers’ applications, Playout business unit: Relocated from IL to CA, took on larger rok, and
+video server applications product suite as well
+
+Led teamof6 from Northridge, team of 8 from Napervilk, and team of 8 (indirect report) from Beijing,
+
+Scrum development methods since 2014, team of 3 to 6 from Burbank; Naperville office closed in 2013.
+
+Team migrated source revision control to Mercurial / Jenkins.
+
+Led SOA initiative from concept to completion, 2 web services, 10 JSON services, and decoupled UI layers.
+
+Rekased deliverables for Nexio Software Suite 6.0, 7.0, 8.0, Global Proxy Suite 2.5, 3.0, 3.5 Major hands-on projects include: Hercules,
+web service for web player solution, based off MPEG-DASH Hosts player URI, provides REST API, and delivers fragmented MP4 atoms
+(H.264 video, AAC audio).
+
+Provides HTMLS player page, and JavaScript source based off dash JS.
+
+Supports multiple source types, and "ready to go" and "just in time" sessions.
+
+C# web service framework API layer bridges with unmanaged C++ engine via managed C++ CLI layer.
+
+Team helped with providing web service framework, CLI layer, and device testing,
+
+JSON services on TCP stack using C++- JSON protocol API framework classes; multi-threaded server side socket classes.
+
+JSON routines, header only parser solution on top of open source "rapid json".
+
+JSON protosim, common unit test application for all JSON services.
+
+New services: Content Manager, Helper, Picon, and Requestor.
+
+Evolved as services: Encoder, GPRX, Helios, MB, Scavenger, and Transcoder.
+
+Guided services GPRX, Helper and Requestor to compketion.
+
+Content Manager service Rules based engine to manage media contents, and metadata updates between two domains.
+
+Ripetens zeae oueck bi sliauee niin alee comes meen Orie uclt eer sete
+
+NX-thene DLL, skinning SDK (C++, MFC) Applied selective API detour, Window procedure intercept, and application message queue
+intercept.
+
+© Accomplished consistent look and feel of GUI, and team applied this SDK to multiple GUI products.
+
+¢ Transcoder, Scavenger, applications for low-res proxy creations (C-H+, threads, TCP, binary protocol) Needed solution to improve kegacy
+products that required regular hand holding,
+
+Teamed up, took new approach, and successfilly wrote two new products to manage escalation.
+
+MediaBase DLL, Nexio explorer (C-+++, MFC) Guided to optimize original implerrentation for support up to 200K IDs.
+
+Achieved constant UI performance under few milliseconds regardless of user operation.
+
+Initiated to introduce “dta-handler” architecture in ftp-server product Approach helped to consolidate all media forts as one product
+buik, and scahbility.
+
+© Teamadded one converter DLL per media container format for import and export.
+
+Software Engineering Manager
+November 2005 to August 2009 Company Nan i City , State
+
+er Cr ee
+
+Ca ee ey
+
+¢ Development and team management, Nexio editing applications: Led team of 8 ftom Napervilk, and team of 8 (indirect report) from
+bse
+¢ Established software development process document including peer code review guidelines.
+

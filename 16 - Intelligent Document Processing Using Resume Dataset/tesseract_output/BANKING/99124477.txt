@@ -1,0 +1,84 @@
+ASSOCIATE CONSULTANT
+Professional Summary
+
+7+ years of experience in Analysis, Design, Coding, Testing, Database Administrator & Production Support of application software in Mainframe
+phtform
+
+Having working Domain experience in the areas of Banking, Financial, Warehouse, Legacy System
+
+Extensive hands on experience on IBM Mainframe Application programming using COBOL II, CICS, JCL, DB2, VSAM, UNIX.
+Using BRIO for generation of Usage Reports.
+
+Extensively used debugging tools such as XPEDITOR, IBM DEBUGER.
+
+Saco toes cee Ce eR SA welces ence one wey mg MDe NSM Dew ce mB ceeco re isvemetiiole
+
+Expertise in using configuration management tools ENDEVOR, SCLM.
+
+Good exposure on Analysis and Designing of Documents like Software requirement Specifications (SRS) and specification design documents
+(HLD and LLD).
+
+Expertise in using scheduling tool OPC.
+Excellent in Problem Troubleshooting, Problem resolution and root cause analysis.
+Excellent knowledge of both Batch and Online Systems running on Mainframes.
+
+CERTIFICATIONS: IBMCertified 7/OS Database AdmiN,DB2 Application Developer and DB2 UDB V8 family Fundamentals
+(Or eri
+
+CES lc)
+© Languages : COBOL,
+
+* OS:MVS, 08/390, Z/OS, Windows, UNIX. Aine McA
+
+* Databases : DB2, VASM ORACLE, SQL. bea hieolan ad
+* Tools/Uilliies : TSOASPF, RACF, OPC, QMF, FILE-AID, SPUFI, XPEDITOR, ENDEVOR, ae sg
+
+ABEND-AID, SDF, DCLGEN, SUPER-C,IBM SORT, ICETOOL, BMS, Quality Center (8.2),
+Clear Quest, Fault Analyzer, SDSF, FTP,IBM UTILITIES, JCL UTILITIES. DB2 ADMIN
+PANEL,SONAR,RDZ,MQ Shooter
+
+© PC Applications : MS-
+Word, Excel, MS-Office,
+
+RP tcesn
+© OLTP:CICS.
+schivor anes
+Associate Consultant
+October 2010 to July 2014 Company Name iA City , State
+HSBC CORE BANKING
+
+October 2010 to July 2014 Company Name 14 City
+
+¢ HSBC Database : DB2 9.0 Team Size : 10 Rok : Developer -> Team Member -> Team Lead Env : Mainframe Z/OS Technology : IBM-
+MVS, DB2, SPUFI, Schedukr, REXX, JCL/PROC, VS COBOL-II, COBOL, CICS, ENDEVOR, EXPEDITOR, R2DS, MQ Roks /
+Responsibilities: Managed Team of more than 7 members Proactively taking up the responsibilities as and when demanded Done Resource
+Managenent activities: Resource Onboarding, Fun Fridays, News-Letter, team outings, Daily status reporting, Leave management,
+timesheet management without any schedule slippage Mentored the new team members and solve their technical issues and prepared
+documentation for commonly occurring technical issues.
+
+© Worked in different modules / streams as below during the project tenure: Product and parameters Account maintenance Cheque
+
+management Account value Taxation Advice, statements and reporting Exception handling Bulk inputs Fees & Interests OAM Gained in-
+
+depth core banking knowledge like important control record setup, complete transaction flow on an account and application of fees and
+
+Fa et@uneresteaelena
+
+Providing design proposals and Development of new programs to handke various finctions of banking activities both onlme and batch.
+
+Creating the CICS MAP fromscratch and developing the Presentation layer and service programs As a coordinator for various releases,
+
+taken responsibility of daily status reporting and follow ups as and when required, resolved proactively fiinctional/technical hurdles that can
+
+impact the deliverables, which resulted in timely and flawless delivery for all the releases Creating High level design document and providing
+
+best architectural solution possible Providing of Techinical Specifications based on business requinment.
+
+¢ Proving the solutions for performance tuning and working on testing part, STUB creation and other activity for tuning Creating UTP for
+the service and online programs Tracking and reporting all the defects in SIT and sent out status reports as and when required Working in
+POC project for PE process of reengineering activity Resolving production issues, Abends & tickets, working on code changes,
+scheduling change, bug fixing, completing adhoc & business requests were our priority work.
+
+© Gain ability to work under high pressure and to complete deliverabks on time with high quality Working ina team, which had team members
+of similiar experience as of me and proving myselfamong them would ako be the one of the important achiverrent Active player in project /
+

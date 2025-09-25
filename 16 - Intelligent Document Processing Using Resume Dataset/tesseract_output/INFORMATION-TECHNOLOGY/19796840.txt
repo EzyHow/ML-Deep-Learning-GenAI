@@ -1,0 +1,108 @@
+INFORMATION TECHNOLOGY AUDITOR
+
+alg
+
+PeopkeSoft HCM 8.8/9.x, PeopleSoft Financials 8.8/9.x, PeopleTools 8.51/ 8.54, SQL Developer, MS Office, Visio, MS Project, Dell Stat
+5.6/5.7, SQL Developer, Application Designer, Putty, SharePoint, HP Application Lifecycke Management, Oracle Enterprise Manager, STAT
+Admin, TOAD, Service Now, Remedy, Heat, Oracle E-Business, Asset Suite 8.
+
+schivor anes
+
+10/2016 to Current
+
+Information Technology Auditor Company Name iA City , State
+
+Participate in the annual risk assessment and audit planning process covering IT, financial, operational, and contract areas.
+
+Assist with IT audits and reviews including user access, database and service configurations, security, and policy and procedural
+compliance.
+
+Perform IT project pre and post audit assessments.
+
+ltd eniomteara a iem lace Une heCcenatce
+
+Assist with IT portion of annual assessment of internal controls over financial reporting (Sarbanes Oxley - SOX).
+
+re hele eccecHeMmMenie Rial Min eul meen i coisa ele eciinlecm guniae decile OBeBrsicconereekellos
+management, and collaboration with our external financial IT auditors.
+
+Consult on IT matters within non-IT focused audits and reviews performed intemal audit.
+
+Assist and consult with IT management on upgrades, implementations, and action plans resulting fom various audits and assessments.
+Assists and provides support to others auditing the Association as needed.
+
+Train and educate members of the internal audit team and other personnel on IT audit methods and emerging IT risks.
+
+(Keech eee ener ome temccuradk bcc muses) iene oe helce
+
+Adhere to company policies, programs and procedures as well as Critical Infrastructure Protection (CIP), Wester Electricity Coordinating
+Council (WECC), Federal Energy Regulatory Commission (FERC), North American Ekctric Reliability Corporation (NERC), and
+Midwest Reliability Organization (MIRO) standards and Equal Employment Opportunity (EEO) hws and regulations.
+
+04/2015 to 10/2016
+PeopkeSoft Security Administrator III Company Name 1 City , State
+
+Work closely with the internal and external audit departrent to provide reports and documentation for compliance.
+
+Perform user access recertification, operational audits, quarterly performance assessments for Segregation of Duty /SOX controls by
+compiling and distributing monthly and quarterly user access reports.
+
+Provide fimetional expertise and guidance to developers for technical solutions in moduks of PeopleSoft Core Financial, and other
+applications.
+
+Provision user security for PeopkeSoft Financials.
+
+Ensure that appropriate roles, permission lists, and row level security exists for all fictional areas.
+
+Create new business process flows and fimctional designs for Enterprise Leaming Management requirerrents.
+
+Work with the business owners, data owners, end users, and external auditors on fit gap analysis and remediation for process requirements,
+improvennts, and recommend best practice solutions.
+
+Determine the risks associated with the access and highlight any risks to management.
+
+Obtain report approval from business units and data owners of financial systems for review and user access validation.
+
+Perform data migrations across multiple environments using Dell Stat 5.6/5.7.
+
+Streamline and close the gaps of the employee onboarding and termination process.
+
+Analyze, monitor, and troubleshoot business processes of systems that interface with PeopleSoft Financials.
+
+Create, analyze and monitor access including creation, deletion and modification of access.
+
+Coordinate and manage application release processes with various tears.
+
+Interact with different teams of project managers, developers, quality engineers, peers, and other team members from integration tears.
+
+07/2014 to 04/2015
+Sr. Application Systems Analyst Company Name i'4 City , State
+
+Worked with business owner to gather and document business requirements and business processes.
+
+Created and configured Work centers, Dashboards, and Interaction Hubs for HCM,and Financials using PeopkeSoft 9.2 PeopleTools
+framework.
+
+Provisioned user security and fimctional support for PeopleSoft HR, PS Financials, PS Campus Solutions, and Workday HCM.
+Ensure that appropriate roles, permission lists, and row level security exist for all fimctional areas.
+
+Mapped security parameters for PeopleSoft 9.1 to 9.2 upgrade.
+
+Worked with third party vendors to implement solution.
+
+Created and maintained documentation of application support and technical environments.
+
+Performed data ckanup and validation of security roles and permission lists.
+
+Performed user security role recertification to ensure SOX and Data Privacy assessivents.
+
+Prepared applications for Identity Access Management.
+
+Identified and resolved application issues effectively and ina timely manner.
+
+Provided advanced technical application support and troubleshooting.
+
+Performed service request changes and assigned work accurately and efficiently.
+
+Supported remote users using Citrix Remote Desktop, Microsoft Lyncs.
+

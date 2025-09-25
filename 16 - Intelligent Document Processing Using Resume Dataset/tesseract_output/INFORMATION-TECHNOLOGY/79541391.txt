@@ -1,0 +1,77 @@
+SUBJECT MATTER EXPERT (INFORMATION TECHNOLOGY ASSISTANT)
+
+Qualifications
+
+SAP, HP ALM, Network Configuration, Database Management, Document Management, Troubkshooting/ Resolution, System Development
+& Execution, End-user Training, End-user Training, Customer Service, Website Maintenance, Mac, AUTOCAD
+
+aaa chiesrates
+
+Recognized as 1 of top 4 agents, promoted twice for excellent customer service
+
+schivor anes
+
+Subject Matter Expert (Information Technology Assistant)
+
+September 2013 to Current Company Name 1 City , State Responsibilities: -SAP Data Validation and Population for Real Estate, Fixed Asset
+and Plant Maintenance Modules -Assist, Support and coordinate with Missions to create Database/ SAP IDs for testing / enrichirent of loaded
+CLIC Mee A sulemeclnko cela at Bien) aie ecicl cm @er i line OR le Clete Reelin Aes VeHe tice Oca octal eer
+validation of mission data -Create autormted data validation spreadsheets/templates -Prepare data for upload into Umoja performing required
+calculations and adjustments. -Run LSMW’s, in order to upload Entities data into SAP, during Conversion process. - Validate data loaded into
+Unnja. -Run Reports and Edit Mission Data in SAP. -Create manuals, guidlines, instructions and cheat sheets for data conversion and testing
+processes -Develop Excel spreadsheets to calculate and show the statistics of reoccurring problens. ed test scenarios in HP/ALM and
+fosojeltls\em ueme alu erate] See -Coordinate with other fictional teams for the preparation of scenarios, input data and execution of test
+scripts. -Organise testing sessions with extended-team testers. -Execute test scenarios as part of the Umpja teamand guide the extended-team
+testers in the execution. -Identify and raise defects, and coordinate with responsible teams -Re-test failed scripts affer defect resolution. -Creation
+of Training Materials for Data Validation and Testing in SAP -SAP Test script authoring, execution and defect resolution for Product Integration
+Testing and User Verification Testing -Supported Tier 3 Production Support Activities Accomplishments: -Created template and assisted in
+creation of reports to help automate formatting of data, for easier LSMW uploads, which reduced the time needed for preparation of data to 1
+hour and eliminated transfer errors -Created automated Data Validation Spreadsheet, to decrease validation time by 40% and improve quality of
+the validation by enabling focus on substantive, rather than mechanical errors. - Successfully Completed data conversion and load activities for all
+Peacekeeping Missions in Umoja Foundation Cluster 1 and Cluster 2 deployment (approximately 30 entities). Each cycle consisted of 3 Mock
+Data Conversion/Loads, Dress Rehearsal and Production Load. - Successfilly accomplished (until now) Umoja Cluster 3 Data Conversion Load
+Cycks (Mocks 1-3 and Dress Rehearsal) for UNON, UNEP, ESCAP, UN-Habitat, OCHA-Geneva, for Fixed Assets Equipment and Real
+Estate Items. Continuing involvement in Cluster 3 data conversion for production - Successfilly supported or completed Product Integration
+Testing (PIT) and User Verification Testing (UVT) cycks for Umoja Cluster 3
+
+Information Technology Assistant (OSAU)
+
+October 2010 to August 2013 Company Name if City , State Responsibilities: -Conduct walk-throughs on UN floors to verify Locations, Staff
+and Space configurations. -Assist Project Managers evaluate Vacancies, Overcapacities and Room Type changes. -Interact with Staffin the
+environment to inquire about any changes on the floor and to answer any questions. -Contact Staffand Department Focal Points to confirmany
+discrepancies. -Record and report any discrepancies in Staff Information and make any necessary changes in UN Staff Telephone Directory
+(Untel) and Voice/Data Messaging Service (VMS) Databases. -Record and report any discrepancies in Floor plans and make any necessary
+changes in Aperture -Clean, monitor and maintain Aperture data to assure accurate Floor plans. -Assist Property Managerrent Inventory Control
+Unit with Occasional Inventories and Property Verifications. -Create reports in SQL and Microsoft Access for Project Managers to aide in space
+pknning, -Assist AFPS in the cleaning and restructuring of UN Staff Telephone Directory Database (Untel) and processes. -Clean, monitor and
+mmintain UN Staff Telephone Directory Database (Untel) and Voice/Data Messaging Service (VMS) Database to assure accurate Staff location
+and information. -Create new staffentries in UN Staff Telephone Directory Database (Untel) and Voice/Data Messaging Service (VMS). -Create
+and run queries in SQL and Microsoft Access to edit databases. -Upload and update Untel and Aperture databases. -Develop Excel
+spreadsheets to cakulate and show the statistics of reoccurring problems. -Develop SOP's for my position to help in training efforts. -Develop,
+Create and Maintain Document Management database and online library using visual studios, for department website (vb script & ASP.net). -Beta
+Tester for CAFM. -Assist contractor in the development of CAFM space and asset management system. -Occasionally assist i computer
+hardware and software installation and troubleshooting, -Beta Tester for Umoja Pilot project. -PIT Tester for Umoja using HP ALM and SAP. -
+Data collector for Umoja Pilot Project using templates. Accomplishments: -Granted Administrative rights to Untel and VMS SQL Databases and
+Aperture Floor plans due to my expertise and responsibilities. -Improved efficiency of Inventory process by creating accurate location
+norenchture in Untel, VMS and Aperture databases. -Increased the accuracy level of Staff Information and Floor plans improving space planning
+occupancy reports. - Performed Database/Website managerent tasks for a month until the vacant Supervisor post on P3 level was filled. -
+Managed, corrected and improved data, queries and processes resulting in reducing SQL Database issues/ errors by more that 50%. - Worked
+and linised with software company contractors to assist colleages in fixing errors and improve fixtionality of CAFM system
+
+Information Technology Assistant (PMICU)
+
+January 2008 to October 2011 Company Name i% City , State Responsibilities: -Organize all PMICU Stockroors. -Perform physical inventory
+counts of all PMICU Stockrooms. -Process Work Orders using MP-2 / iNeed (Work order software) -Print Barcodes for all
+Departirenis/Offices of UNHQ. -Issue andReceive Furniture from PMICU Stockroons. -Help Staffmembers find the Furniture that better suites
+there needs. -Coordinate/Arrange fimiture relocation to offsite locations. -Supervise 1 to 10 movers during the liquidation of assets for Secretariat
+and Conférence building vacate exercise. -Assist with Fumiture Disposals and update Procure Plus records accordingly. -Coordinate all IT
+Disposals with OICT and movers and update Procure Plus records accordingly. - Administer IT disposal service contract. -Property Records
+Custodian (for FMS) -Manage Furniture using Procure Plus to Build, Relocate, Transfer and Remove records. -Upload Movers scanners to
+Procure Plus database. -Develop SOPs for each position in PMICU. -Obtain quotes and submit for requisitions -Enter delivered furniture into
+Procure Plus. -Recommend purchases to maintain stockroom counts. Accomplishments: -Granted Administrative rights to Procure Plus SQL.
+Database, due to my expertise and responsibilities. -Assigned to be Property Records Custodian for FMS. -Developed Standard Operating
+Procedures for unit, including "Furniture Disposal Process" , "Furniture Issuance Procedure", "Processing PO Orders Procedure", etc. -Developed
+classification system for finiture used in Unit Operations, warehouse and physical inventories based on UNCCS item codes. -Organized multiple
+new offsite stockrooms (45,000 sq ft). -Performed periodic stockroom counts for over 5,000 assets. -Organized relocation of approxinntely
+10,000 assets between various stockrooms during vacate excercise of Secretariat buikding, -Handk deliveries of furniture averaging $200,000. -
+

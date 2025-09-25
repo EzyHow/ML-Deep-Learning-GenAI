@@ -1,0 +1,80 @@
+CORPORATE ENGINEERING SUPPORT TECHNICIAN
+Summary
+TECHNICAL SUPPORT ENGINEER Technical Support Telecom Support Networking Support Software/PC/LAN Troubleshooting
+Accomplished in Technical Support with 4 years of experience troubleshooting and maintaining user applications, workstations, and accounts
+across multipke platforms (OS X, Linux, Windows, Android, 10S). Updated and written user-facing and IT-facing technical. *Provides outstanding
+customer service and a strong ability to communicate technical concepts in a non-technical manner. Known for patience in dealmg with frustrated
+aie
+Highlights
+© Installing, Configuring, Troubleshooting Windows, Linux and OS X
+Installing, Configuring, Troubleshooting SoHo Networks
+Creating & Updating documentation
+Software Installation, configuring, and Troubleshooting
+Impkmenting, Configuring network and End User Security
+Mobik device Support
+bUaintormsst yore es
+[ORO trey cen
+VOIP, Video Chat Support
+Critical Thinking with Root Cause Analysis
+Seeaveben
+Sauna ced
+Network Protocols
+AAA Security Model
+Accounts and Group policy
+Browser Support
+TECHNOLOGY PROFICIENCIES
+O}rartunebsyraattcs
+Windows 7-10, Ubuntu 14.04, OS X 10.8-10.11, ChromeO$, i0S9, Android
+Applications:
+MS Office 2010-2016 (Word, Excel, PowerPoint, Outlook), Google Apps (Drive, Docs, Sheets, Slides, Keep, Formrs, Sites), Google
+Drive Sync Client, Internet Explorer, Firefox, Chrome, Safari, Edge, OpenVPN, Wireshark, Sublime Text, MSRA, Microsoft RDP,
+OpenSSH, Puppet, SCCM 2012 iOS-MDM
+CRN e rane
+* TCPAP, DNS, DHCP, LAN/WAN, VPN/Remote Connectivity - OpenVPN, some basic Cisco iOS, Microsoft Virtual PC/Hyper-V,
+TeamViewer, Terminal Services, Netgear, Linksys, Firewall, Ports, experience in Routing & Switching (OSPF / BGP / VLAN / STP),
+Strong desire to learn more
+Hardware:
+© Dell, HP, IBM/Lenovo, Appk, Microsoft, desktop, laptops. Android Smartphones tables, and wearabks. iPhones and iPads. Printers,
+Routers, Switches, Modems, Wireless Routers, Video Conferencing equipment (TV, Projectors, Microphones, Speakers)
+Ponti
+Basic knowledge of IPSEC / SSL-VPN / NAT/ GRE, some experience with Authentication Protocols (Radius / TACACS), Strong
+desire to eam more.
+
+schivor anes
+Oo ciepo runes neia (cues AU OR eRGraaa Geli aN rece OS eC I TICs
+
+© Remote Support more than 120,000 employments.
+
+© Supported A wide variety of platforms including Windows, OS X, Linux (Ubuntu 14.04 LTS), ChromeOS.
+
+© InstalledAminstalled, configured, and troubleshot end user software (Le.
+
+* SolidWorks, CAD, MSI, exe installers, dpkg binaries, and dmg binaries) and system managerment software (SCCM and Puppet).
+
+© Managed user account access with Active Directory and Google Groups based on Googk's security policies.
+
+© Changg, reset or lock user accounts.
+
+© User name changes and setup of account/ennil aliases for Google, Google X, and Nest.
+
+© Colkborate with other IT infrastructure teams (Linux, WinOps, SecOps, and NetOps) to resolve some of the most difficult issues and
+infrastructure outages.
+
+Help Desk Support Analyst II 06/2012 to 08/2014 Company Name City , State
+
+Provided Remote call center support for 600 New York Life Insurance agents.
+
+Advised agents on the recommended specifications for now computer equipment based on cach agent's needs.
+
+Installed New York Life software along with WinMagic SecureDoc for Windows encryption.
+
+Reset agent port passwords and access to OWA.
+
+Installed and troubleshot end user software (Microsoft Office 2003-2008 including Outlook).
+
+Impkmented Security with Windows Firewall, Antivirus software, and browser hardening,
+
+Troubleshot end user issues with windows, Malware, software updates and account creation.
+
+Worked with the New York Life software team to adapt a modem standard for digitally download instead of CD-ROM distribution via
+

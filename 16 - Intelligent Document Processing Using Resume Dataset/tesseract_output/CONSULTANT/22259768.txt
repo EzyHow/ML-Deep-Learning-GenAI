@@ -1,0 +1,80 @@
+CONSULTANT
+Profile
+Around 5 years of experience in Gathering Requirements, design, developrrent, testing and implementing solutions in SAP and mobile. Worked as
+business analyst in telecom, Utility Industry. Good knowledge of Operations & Maintenance business process. Experienced in SAP EAM using
+Compatible units, Design and integration of Design with Work orders. Experience in end-to-end process using computable units for GAS and
+Electric line of business. Experienced in planning and executing scenarios for End-to-End Testing, Documentation and End User Training
+Performed Configuration for Plant Maintenance module for End to End process in integration with Material Management Module Knowledgeable
+in Sales and Distribution module. Extensive experience in documenting reporting requirerrents to development of the same in SAP ECC and BW.
+Possess the ability to grasp quickly new concepts and apply the sarre, the skill, which are typical requirements for working in large SAP R/3
+impkrentations. An excelent team player with a deep sense of commitment and strong desire to eam and grow. Strengths include Intellectual
+Ability, Ability to work under pressure. Excellent Communication, interpersonal, and presentation skills. Good understanding of Software
+Developrent Life Cycles and its different phases. Deans Excellence Scholarship and Distinguish Scholar Award at UT Dallas. EXPERTISE 5
+years of experience in Information Technology with specialization in Gathering Business Requirements and Quality Assurance and Testing,
+Configuration for Organizational Units and Master Data in Plant Maintenance. It includes Plants, Work Centers, Functional Locations, Equipment,
+Tnstallation/Dismmantling at Functional Locations, Equipment Hierarchy, Material, Serial Numbers and Serial Nuvber Profile, Maintenance Plans,
+Measuring Points and Counters, Document Link, Maintenance Processing, Corrective and Preventive Maintenance Notification Types, Objects
+and Object Information, Catalogs and Catalog Profiles, Integration of Notification to Order, Order Types, Operation List and Activity Types,
+BOM’, Costing Sheets. Proficient in Testing and Change Managerrent tools like HPQC, QTP, SMC. Planning and Developrrent of Test cases,
+Test plains, Test scenarios to meet the products business requirements. Experience in ERP applications. Excellent Communication and
+Docureniation skills and End User Training Testing including GUI Testing, Functional Testing, Performance Testing, Positive and Negative
+Testing, Security Testing, Integration Testing, System Testing, Load Testing, Interface Testing and Regression Testing. Design documents, As-Is &
+To-Be process and Function Specifications
+als
+
+© Requirements Gathering
+
+Cae Banw avr sls Pam @o niu ony
+
+© Business Analysis © Design
+
+Ce Cette’ * Functional specification
+
+¢ Documentation
+
+Accomplishments
+edna rreaice@s(ly ae tebe
+
+ener crneg ue neceee) HOMO Mmeuiuuitalianeccs
+
+WATT EM cen Ee Lae
+
+© Mastered engineering scureare ess.equirements and propose solution which align with the businessprograns, including [Program Name] and
+Ly urnenGirdmietkoenionena@ekatstivcteere sistem
+« Analyzed data and provided recommendations which resulted in adoption of new cost-saving equipment.
+
+Received the "Deans Excellence Scholarship "G€aand "Distinguish Scholar Awardd€ at UT Dallas. A
+
+Professional Experience
+Consultant 07/2014 to 06/2015 Company Name City , State
+
+Projects: ETGIS, Leak Repair, Cathodic Protection.
+
+Requirements gathering and Data analysis.
+
+Perform Mapping of GIS to SAP.
+
+Working with Developers on creating Dashboard for Reporting and Asset Management Perform Interface Testing using SOAPGUI,
+Functional Testing and UAT.
+
+Data cleansing involving creating, dismantling and reconfiguring Equipment, Function Locations, Maintenance items in critical environment.
+© Identifying data discrepancies comparing GIS and SAP Data by working with SME's Acting as a single point of contact between business
+cee he clo
+
+Identified and autormted different processes to significantly bring down the time and resources.
+
+© Providing technical and fimetional support in migration of GIS data to SAP.
+
+Working on Conversion requirements specifications and definition of data elements including clarification of the meaning and purpose of
+SAP fields.
+
+Working closely with Asset Strategists, Mappers, and GIS Engineers to identify the issues and resolving them.
+
+Using LSMW, IBIP to create and update the Equipment's, and Functional Locations.
+
+Responsible for preparing training manuals for End Users.
+
+Using the PAR (Probkem Action Resolution), Quality Center tool for defect tracking.
+
+Responsible for preparing Requirements Document and Testing for Enhancements for GAS and Compliance Team.
+

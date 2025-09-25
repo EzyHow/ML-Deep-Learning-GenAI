@@ -1,0 +1,71 @@
+ENGINEERING OFFICER
+Obdjective
+
+Looking for opportunities to work in an research environment for creating solutions using digital systems at circuit as well as system level.
+
+brairestbeny
+Master of Science : Ekctrical Engineering 2017 North Carolina State University City , State , USA
+
+Bachelor of Engincering : Instrumentation and Control Engineering 2013 Netaji Subhas Institute Of Teclmology City , State , India
+Majored with 78.34 %, First Class With Distinction A
+Academie Merit Award 2011-12 and 2012-13
+
+schivor anes
+Engineering Officer 07/2014 to 06/2015 Company Name City , State
+
+Spearheaded a team of electricians and technicians to carry out preventive maintenance of equipment of LPG bottling plant. Role ako entailed
+Pies eee kenhecr ens MCB CHES aes “Mia oleMmok ceive) iced
+
+® Maintenance and calibration of equipment such as cylinder gas leak detectors, washer keak detectors, gas analyzers etc.
+© Upkeep of electrical panels and control systems.
+
+© Maintenance of drive units, compressors, LPG pumps ete.
+
+© Modified and developed various plant equipments to improve production line throughput.
+
+Operations Officer 06/2013 to 06/2014 Company Nanr City , State
+
+Oversaw the operations of LPG bottling plant production activities.
+
+© Managed workforce on the production line to give maximum production whik maintaining safety standards.
+© Optimized the production Ime equipment and maintained regular calibration checks of equipments like quality check machines to produce
+yale ocd cu tLceken ind atm
+
+SILOM PAO LU PUPA lank OS MECH
+
+Engaged in various automation and control system design using Distributed Contro! Systems and Programmable Logical Controllers. Leamed
+interfacing of struments with Controllers and their respective communication protocols.
+
+Documented and created a report as a reference manual on the technical details of various systems and instruments which was presented to the
+Pern ci
+
+Intern 06/2011 to 07/2011 Company Name City , State
+
+Leamed about the various instruments used in different process applications of the petroleum refinery. Knowledge of the use of intrinsically safe
+devices in hazardous areas and the ratings of equipment as per the hazardous zones. Interfacing of these instruments with Distributed Control
+Systems and parameters of tuning the PID controllers
+
+Published Work
+Research Paper: A
+
+LOSE CLEC S Ee UCU LL Le CP Cem Lb CLR ULL eA Ea CCS CASALE a SL
+Thermistor Lincarization on Field Progranmuble Gate Array "5 Experimental Techniques Volume 39, Issue 2, pages 234€°30, Jan 2013 A
+
+rN
+anna e mur
+
+K. P. S. Rana, Vineet Kumar, Neel Pramanik , Nishant Mitra, Sumit Kumar Shakya: "Some Applications of FPGA in Custom Waveform
+Generation and Triggering for Metrology ";Conitrence: 8th International Conférence on Advances in Metrology (AdMET), Organised jointly
+by CSIR-NPL and Metrology Society of India, At New Delhi, India, Feb 2013 A
+
+SWseeay
+
+Company Name City , State
+
+Engineering Officer 12/2014
+
+Programmable Logic Controller (PLC) Based Chain Conveyor Tripping System
+
+© Designed a control Joop which was interfaced with a Allen Bradely PLC controler to read the current readings of individual drive units and
+provide appropriate tripping signals as per the motor health.
+

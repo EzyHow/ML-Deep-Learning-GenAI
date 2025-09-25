@@ -1,0 +1,84 @@
+CONSULTANT
+Qualifications
+© Tama senior IT infrastructure specialist and have 7 years of OEM administration and 6 years of DBA administration. I have Masters in
+Computer Applications (MCA) and a seasoned technical specialist providing business infrastructure solutions, services and support,
+according to defined processes. With an overall experience spanning 12 years and having worked for Oracle for a period of 11 years, I
+have a tremendous track record in IT support area for multiple products and applications with a great level of consistency and excellence.
+My expertise includes,
+His expertise includes,
+Project Management
+Ole Bonaa ooo
+Impknentation Specialist *WebLogic Server Administration
+Incident Management
+Database administration *Oracle Cloud operations
+People Managerent
+WIE e con Elorale
+Operations Management
+Change Management *AWS
+Process capability
+Technical support for 24X7 systems
+
+Technical Skills
+
+RIK Experience Total Years Last Used
+Operating System: Linux, HP-Unix, Solaris, Windows 9 12 2016
+Aug oanan at acs
+RIN AO) Ce)
+Company Name Consultant
+
+© Colkborate with Clients, customers to ensure successfil implementations which includes.
+
+* Impkment OEM 12c setup, Apply BP, Plugins, performance monitoring, notification set up.
+© Install/upgrade/patch Oracle Database, performance tuning.
+
+© Install/upgrade/patch Oracle WebLogic servers, deploy applications.
+
+December 2014
+
+to
+
+June 2016
+
+Company Name City Manager
+
+© Managed a team for Enterprise manager cloud controKCloudem! 2c) for Oracle Public Cloud that supports and facilitates end to end
+monitoring solutions for Oracle cloud services.
+
+© Manage a global team for Cloudem administration (OEM 11g,12c) Create plans, work with team to execute the project plan in building
+AN DAY ERO MOL orCantatcorene hen ene iam naty
+
+© Recruit, work with new team members to bring them on board in quick time Writing technical docurrents to help team members in executing
+new projects Provide technical guidance throughout the project life cycle Process development in a continual manner and provide trouble
+Reus CCOH eae
+
+February 2005
+
+to
+
+Crome
+
+Principal systerrs Consultant
+
+Part of Oracle Public Cloud's Monitoring Solution team - CloudEM Operation's team.
+
+Monitoring included 20000 Database + double the number of Fusion Middleware targets + ZFS targets and making Enterprise Manager
+the source of truth for any monitoring and inventory storage solution in Orack Public Cloud.
+
+The CLOUDEM Operations team supports multiple EM sites across all of the oracle fleet.
+
+This is an ever growing portfolio as Oracle is constantly adding new data centers.
+
+When a new site is added it is the job of our team to build out the new EM environments.
+
+Operations team provides the physically installed servers both exadata and exalogic and we go on to buikd out the Enterprise Manager site.
+This includes building grid and database, installing OMS & agents, configuring EM for SSL and SSO and working to set up TAS and SDI
+provisioning services.
+
+Each of our sites monitor SAAS (Software as a Service) and/or PAAS (Platformas a Service) environments.
+
+Projects varying from buikding new environments in different data centers, building disaster recovery environments, Orack management
+server upgrades (new Releases), database upgrades applying critical bundle patches and updates, ensuring high availability for the customers
+Installation of Oracle software/databases Upgrade grid, database from 10g to 11203/11204 & 11g to 12¢ Apply database PSU patches,
+and one off patches to the environment for every possible database bugs Responsible for Tuning the Oracle Applications Database that run
+on the UNIX server to achieve optimal performance.
+

@@ -1,0 +1,92 @@
+CONSULTANT
+[Osheue Oona ang
+
+More than 6 years of experience in Manufacturing & Distributions environments, including 4 years in Oracle manufacturing and Distributions
+applications.
+
+Impknented 5 fill cycle oracle implementation projects, Experienced in customizing, developing and configuring Oracle Applications in the
+modules of Supply Chain and Manufacturing,
+
+Impkmented Oracle EDI for the Sales Order entry and Warehouse Operations for the customer and Designed custom interfaces for PLM
+tools to communicate with oracle Item master.
+
+Experience in requirements gathering, gap analysis, business process redesign and mapping, testing and user training, documentation of
+activities, processes, test scripts and client interaction.
+
+Sound communication skills, result oriented, open to leaming new technologies, experience in working under pressure and in fast pace as a
+team keader and as a team player.
+
+Well - traveled and posses a clear and definitive understanding of the regional business ethics, culture and decorumso as to maintain a
+harmonious balance.
+
+alg
+
+¢ Applications : R12 and Ili
+
+© Modules : Inventory (INV), Bill of Materials (BOM), Work in Process (WIP), Engineering (ENG), Order Management (OM), Purchasing
+(PO), Oracle EDI Gateway, Shipping Execution, System Administration, Material Requirement Planning (MRP), iProcurerent,
+Quality(QA), Approval Management (AME), Oracle Endeca.
+
+© Tools/Language : Toad, Data Load, Visio, SQL, SQL Developer, MS Office Suite.
+
+Aug oanan at acs
+Consultant , 02/2016 1% Current Company Name 14 City , State
+
+Worked on solution design and setup of Inventory, Work in Process, QA, Purchasing & Order Managerrent as per the client requirements
+and suggested business process changes. 7 .
+
+Inpkemented Oracle EDI for Sales Order entry,A bookingA and acknowledgment for customer orders received through third party
+
+ES nay
+
+Impknented Oracle E-Signatures and E-records to maintain Quality data books of every manufactured assembly, reducing gaps and saving
+(oN
+
+Designed, documented and executed all SCM moduks for 3 implerrentations in North American region.
+
+Resolved fimctional issues related to Oracle Manufacturing and distribution during implementation.
+
+Prepared training documents and assisted in user training in WIP, OM & PO moduks.
+
+Worked on data conversion strategy fiom legacy systems to Oracle E-business suite R12.
+
+Consultant , 08/2013 1% 01/2016 Company Name if City , State
+
+Impkrented oracle supply chain modules for a major Oil & Gas manufacturing company in Australia, Canada,A China, Romania and UK
+as part of their global roll out to Orack.
+
+© Simplified their overhaul and repair process by implementing a custom solution that reduces user’s time on the system as well as resulting a
+more organized shop floor.
+
+Impkmented Oracle EDI for Sales Order Pick release and shipping transactions based on information received from third party systems in
+Warehouse.
+
+Worked on data conversion issues from Legacy systems to Orack.
+
+Developed custom reports for customer facing documents as well as intemal documentation.
+
+Enhanced a custom interface between a PLM toolePIMS) and orack.
+
+Peat ipuiKoeRsg It mats Lene eisuaince te sltlbalce
+
+Trained users in different regions of the world on all supply chain moduks and cMRO.
+
+i Loren teed Bordon een cet Cond Catered Om crete ate
+
+Developed best business process blueprint that suits the client's multi industry business by studying their business process in each vertical.
+
+Student Partner , 08/2010 1% 07/2013 Company Name 1 City , State
+
+© Brought awareness on latest Microsoft's technologies to more than 5000 students and faculty.
+
+© Increased the number of developers on Microsoft store by collaborating with various universities and developer groups.
+© Designed Lazy chef A windows store app during the launch of Windows 8.
+
+© Pitched a windows app idea that got me to meet and present it to Steve Balmer, CEO of Microsoft then.
+
+Manager , 03/2011 i 08/2013 Company Name iA City , State
+
+CRS Sinisa eeache Bene LccoMcle mn Lanne cance kel AU Cebu oaccwlen Voile
+© Trained more than 10000 participants in the streams of Robotics, embedded systems and application development.
+* Worked with Orient Backswan in making a textbook for students of various universities on presentation skills.
+

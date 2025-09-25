@@ -1,0 +1,91 @@
+Highlights
+© Prog, Languages: C (5+ yrs), Python (3+ yrs), Java (3+ yrs), MATLAB (Simulink) (5+ yrs), R (2 yrs), Processing (2yrs), SQL(4+ yrs),
+PLC yrs)
+Doe. Editing: Word/PPT/Excel, Pages/Numbers/Keynote, LATEX
+Mechanical Design: AutoCAD (6 yrs), Solidworks (5+ yrs)
+Mechanical Skills: MakerBot 3D print, Laser cut, Mill, Drill, Lathe Machine.
+Statistics Softwares: STATA, SPSS
+Database Softwares: SQL Server (4 yrs), Navicat (2 yrs)
+Operating Systerrs: Windows 7/10, OS X
+
+schivor anes
+Company Name June 2016 to Current R&D Product Development Engineer
+oi
+© Design and build a tail-sitter VTOL(vertical take offand landing) UAV(unmanned aerial vehicle) which.
+® takes offand lands vertically and travels horizontally.
+© Main duties include but not limit to aerodynamics.
+© modeling, UAV control system design, mechanical manufacturing, simulation and tuning/experiments.
+Company Name May 2015 to February 2016 Research assistant
+oi
+Research assistant for Wharton School environment economics projects on Europe Emission Trading.
+System (EU ETC).
+Main duties include large scale data collecting, cleaning, merging, database.
+TOOISnEAb ein Resi seated \lcme em
+Completed with skills ranging ffom Java, python, Navicat SQLite.
+database software) and STATA (data analyzing software).
+
+Company Name August 2013 to September 2013 Mechanical Technician
+oi
+
+* Check, report on reducer components, automobile chassis producing, processing and assembly line.
+
+© Trained in mechanical manufacturing fimdamentals in industrial production of automobiles.
+
+© Mechatronics & Robotics: Experienced in designing and building Mechatronic systems and Robots, including self-balanced vehicle and
+
+autonomous hockey-phying robots (more info: www.robockey.com), etc.
+
+Familiar with embedded system, especially Arduino micro-controller.
+
+Highly efficient in C and assembly language programming on autonomous systers.
+
+Solid knowledge and practices in Robotics and Kinematics.
+
+Participate in projects on planning robot trajectory of PUMA 260 robot arm long- exposure light painting and Haptic Rendering and Motion
+
+Control with the Phantom Robot.
+
+Mechanical Engineering Experienced in mechanical CAD softwares(6 yrs).
+
+Undergraduate thesis focuses on "Mechanical Design ofa Flexible-Asserrbly-Systen(FAS) for tubes" which is filly designed and analyzed
+
+in AutoCAD and Solidworks.
+
+UAV & Quadrotor: Solid knowledge on quadrotor dynamics, motion planning, graph search, trajectory planning.
+
+Hands-on projects on Dynamic Modeling, Control! and Simulation ofan Autonomous Quadrotor, including simulation, 3D Path Planning
+
+against obstacles using Dijkstra and A* algorithms, Trajectory Generation and Control and Lab Experiments with KMel.
+
+Pkenty amount of practices on implement Kalman Filter, Extended Kalman Filter on real system with uncertainty.
+
+Computer Vision: Study on camera model, projective geometry, optical flow and RANSAC (Random Sampk Consensus) in scene analysis
+
+and automated cartography.
+
+* Projects on vision based robot pose (position, row/pitch/yaw angles) estimation; velocity estimation based on optical flow; implementing
+Error State Kalman Filter to elirinate real system noise.
+
+© Control! System Study on Feedback Control systems including Laphce transformation, transform function, block diagram, PID control,
+Bode Plot, Root Locus, Frequency Response and Stability Robustness.
+
+© Research on Ping-Pong ball position control by PIXY camera and smart transporting project of avoiding multi-vehicks crash involving study
+bia eea clei am
+
+¢ Machine Learning Experienced in Supervised Leaming (Regression, Decision Tree, Neural Networks, KNN, SVM, NaA ve Bayes
+Chassifiers), Unsupervised Leaming (Clustering, PCA, Matrix Factorization), etc.
+
+© Trained a karning model combining Logistic Regression (LASSO), Linear SVM, intersection kemel SVM and Adaboost to predict tweeter
+
+users’ gender by their tweets, profiles and graphic information.
+
+Programming Efficient on Python and Java with a variety of hand-on projects involving exercises of data structure, algorithms, GUI.
+
+Good programming habits including unit test, test driven development (TDD).
+
+5+ years of expertise in C language and Matlb with projects about simulations, analysis and tool making in mathematic, mechanical and
+
+electrical areas.
+
+Education
+

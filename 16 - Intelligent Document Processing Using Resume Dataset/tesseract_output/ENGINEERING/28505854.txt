@@ -1,0 +1,80 @@
+ENGINEERING MANAGER
+Ss
+To design, develop and manage products in the field of consumer electronics devices, networking protocok, internet applications and connected
+devices. Vision to create personalized experiences based on machine kaming.
+Highlights
+© Linux, Unix, RTOSs - OS 9 & VxWorks, DOS,
+MS- Windows,
+Socs related to media phryers and set tops --
+Broadcom, Intel, STMicro, Sigrm DesignA
+Microprocessors/micro controllers -- ARM, Once RL Laie on oneed eee recnea recent Con ener.
+RI SSRE SUEUR Ante? BCL a SE Middkware, applications, Device Drivers, Hardware, multimedia streaming and
+Digital and analog hardware phyback, consumer electronics, cable, industrial and power plant automation.
+Streaming, playback, Live, VOD, HLS, MP4 Advanced knowkdge ofembedded systems
+HTMLS5 MSE. EME, Video tag, MHP, OCAP, _ Interface design and implementation
+Bheray, BD-J, java security flamework. XML Advanced knowledge of content protection systems
+ORCA or LOLE Oa orb Sc ow Ceo sR Pare uL tome cLLLCe ee ie eGR LEIS E SLC AS Lem ROLL
+, J2ME(CDC, PBP),JVM,ODBC,DAVID _¢ibedded web browser based systems.
+
+¢ JSON RPC, REST and SOAP. Agile Development process
+* NASC, Linux containers A - LXC Contributing in specification groups.
+* Control theory Managing open source code and associated licensing ruks.
+¢ Familiarity with machine leaming techniques - Master's thesis in adaptive control, penchant for machine eaming
+logistic regression, Neural networks Managing cross fictional - cross vendor development, interfacing with 7
+OM osrritr ai conined cotatareg neta ered obo ewe Si olined cles Mm EL aH Coe bed UTD LL CTE eae Cleat nego Abe ool AN
+
+Tensorflow, DLAJ openCV
+Familiarity with CUDA and computer vision
+« Mathb, Octave
+
+Accomplishments
+
+Instrumental in building first generation Bluray players. Led development of BD-J stack, which was one of the most complex piece of software in
+eis cya ssn
+
+Bes ek aan and development of platform software for Nucleus middleware for Seachange, managed large teams spanning multiple projects.
+ae
+
+Helped architect and develop high performance software for set-top platform on a very tight deadline.
+
+Responsible for representing Pioneer technically as a CE industry member in OCAP specification group and suggesting findarmental changes to
+spec to satisfy needs of CE industries in cable market.
+
+Developed excitation contro! system for alternators, built complete hardware and software for the product.
+
+schivor anes
+
+Engineering Manager
+
+November 2010 to May 2016 Company Name i'4 City , State
+
+* Managing multiple work streams and teams related to platform software development for set-top boxes. Interacting with customers,
+vendors and multipk cross fimctional groups. Managing product development and supporting deployment of products.A
+
+Evangelized and led development of new middleware solution for OTT and othermultimedia playback on set-tops. The middleware is being
+designed for a very responsive user experience, minimum copy transfer of buffers along playback/record pipelines, high performance
+playback of multiple contents in several video windows and content security. The middleware was driven by of JSON APIs routed from
+Pere Acerca tan
+
+Leda team for developing cutting edge platform software solution for set-top box for MSOs.The software has several features like
+HTMLS UI with webkit/QT, hommetworking, DVR, content protection, DRM and playback on 2nd screendike iPads etc. Software is
+deployed ona Broadcom SeC with Liberty Global inPoland and Czech republic. Worked on EOS flavor of this productwhich is going to
+be deployed in some countries in Europe by end of this year. Worked on optimizing the stack for low latency wrt resource managerrent and
+channel changes. Also worked on leading a team of developers towards development ofsoftware components for headless gateway
+product for home networking with new Intel Chipsets.A The middleware was driven by of JSON APIs routed from froma mini web server.
+Leda group towards porting of Comcast RDK phtform on ST Micro SoCs foset-tops. Leda group towards porting/development of
+Roches Ow Baer Om Mele ROe nieces steric
+
+ae
+PCiucanna ole Lo mw ata Cous
+January 2004 to November 2010 Company Name 1% City , State
+
+¢ Worked on development of technologies in the field of consumer electronics.
+
+© Leda team of engneers towards development of BD-J stack for Bhrray Players. Wrote initial code for some core modules like file system
+and application management, led the development of other moduks for the stack - security framework, JMF and Java TV subsystem,
+interactive audio, graphics subsystem (based on AWT, HAViand DVB extensions) and all other BDJ specific modules. Led the efforts on
+all certifications required for BD-J (JAVA, BD+, BD-J APIs ). Worked on supporting the product in market after shipment.
+
+© Played critical role in development and architecture of OCAP middleware, the technology was later sold to a third party. Contributed to
+

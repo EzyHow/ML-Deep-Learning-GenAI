@@ -1,0 +1,112 @@
+CONSULTANT
+
+Si
+
+Tend
+7 years of professional IT experience with Masters degree in computer applications; worked mainly with Java (JEE) programming languages.
+
+Passionate about Clean code programming skills and Emergent design techniques. Hands on experience with Test-driven development (TDD) and
+Behavior-driven development (BDD) with test autormtion scripts to deliver high quality product. Good java performance improverrent and
+reliability experience. Good knowledge to achieve high-availability and Continuous Integration. Good understanding of Relational and NoSQL
+databases. Experienced with development processes using Agile, Scrum Well versed with Deutsch culture and traditions, worked with Deutsch
+clients and colleagues for more than five years and stayed in client location (Berl, Germany) around for two years. Passed German Al language
+certification exam and currently pursuing A2.
+
+Highlights
+
+Java, JEE (Web Services, JSP, Serviet, Struts, JDBC, JMS, MDB, JM&X) Spring Ioc, Spring MVC (REST), Spring Security, Spring
+Remoting, Spring AMQP.
+
+Hibernate,MyBatis, Maven, Mockito, WireMock. JMeter, Gatling, JUnit
+RabbitMQ, IBM MoSeries.
+
+Service Oriented Architecture (SOA)
+
+Enterprise Service Bus (OSB), Business Process Execution Language, SoapUI
+BPEL), Web services, XML, XSD, XSLT, XPATH, Xquery, SOAP.
+
+Spring MVC - RESTFul services with JSON and XML
+
+Web Servers/Tools
+
+Tomcat - Eclipse/Spring tool suite (STS), Maven Jetty Plugin
+
+Oracle Weblogic 11g - SOA Server - Jdevelopper 11.x
+
+Oracle Weblogic! 1g - Oracle Service Bus (OSB) (OEPE)
+
+Websphere Application Server - WAS 7.0/WAS 6.0 - RSA(IBM)
+
+Rational Application Developer RAD 6.0(IBM)
+
+Database:
+
+Oracle 11g, JAVADB - DERBY, HSQLDB, MySql
+
+Sle ite sei
+
+JavaScript, HTML.
+
+Version control
+
+CaN EC Meas Oh AND]
+
+Oliroariives
+
+UML- Enterprise Architect 7.5 (EA) LDAP - Jexplorer, MQExplorer, Athssian stack- JIRA, Bamboo and Confluence, Puppet
+Datos smunemstoits
+
+O}artunebsyaartsy
+
+Mac OS, Windows 2000/XP/Avindows7, Linux
+
+Quality Assurance and Robustness
+
+Sonar, performance improvement using JProfiler and VisualVM.
+
+ELK stack and Java melody for API monitoring.
+
+schivor anes
+Company Name January 2013 to March 2015 Consultant
+
+oN
+
+Project - Identity and access management (IAM) ADP Deaker services provide services to Automotive dealers with the help of various web
+based application.
+
+Identity and access management provides Authentication, Authorization, user management,user provisioning, Single Sign On (SSO),
+Federation Services and OAuth to these applications.
+
+Designed & developed RESTFul APIs using Spring framework.
+
+Secured APIs with Oauth2.0 and Basic Authentication protocol.
+
+Impkmented RabbitMQ for API Integration thru Spring AMQP and Spring Integration.
+
+Impknented pivotal GemFire (In-Memory database) to achieve high-performance and to handk high load on Authorization service.
+Impkmented MyBatis as persistence framework for Identity service.
+
+Used Oracle RDBMS as user store, implemented Liquibase for identity and authorization.
+
+Improved meaningful unit test coverage till 90+ %.
+
+Organized QA and Wrote integration test cases and performance test cases using JMeter and Gatling (Scala) respectively.
+
+Used Mockito and WireMock as a mocking framework.
+
+Improved API performance by 200%.
+
+Worked metrics/monitoring tool like ELK (elsticsearch Jogstash kibana) stack for API Dashboard.
+
+Used CA Siteminder for Authentication and as SSO provider.
+
+Impkmented several Java Utilities as a part of innovation which helped team
+
+Many tines Showcased working software to Product management and stack holders.
+
+Enthusiastic about leaning new web technologies and train team on it.
+
+Company Name October 2010 to December 2012 Senior Associate Software developer
+
+oN
+

@@ -1,0 +1,102 @@
+INFORMATION TECHNOLOGY SPECIALIST III (DRUPAL DEV)
+Summry
+
+Drupal developer with five years of experience in site buikding, and frontend and backend developrrent. Skills in theming, as well. Driven to
+provide excellent service and high-quality coding to create secure and fimctional sites for clients. Expert in Drupal and up to date on the latest
+developments and versions. Managed several projects for the NYSED Redesign Project using both Drupal 7 and Drupal 8, including full Drupal
+deployment services. Earned the respect and the trust from both the NYSED ITS and Program Office Managenents.
+
+Core Qualifications
+
+4€¢ Superior proficiency in high-level Drupal 7 and Drupal 8 Development
+a€¢ Excellent proficiency in using Drupal Ajax and jQuery in web development
+4€¢ Exceptional knowledge of Drupal prior versions and upgrades
+
+BSB Dor er otec RRC OSLO Sear)
+
+BSA eelMingOm issn le eReoeatin renee (cacy
+
+4€¢ High problem solving and analytical skills
+
+Bedneles) ali
+
+Programming and Scripting Languages: C++, Java, JavaScript, PHP, Python, AJAX
+
+Data-Oriented Languages and Databases: SQL, PL/SQL, Oracle Database, DMS II, PL/SQL, JDBC
+Markup and Stylesheet Languages: HTML, HTMLS, XHTML, CSS, and CSS3
+
+Methodologies: UML, Design Pattems
+
+IDE: Orack JDeveloper, Eclipse, BlucJ, jGRASP, Microsoft Visual Studio
+
+Framework & Middleware: Drupal, Apache Struts, Apache, Tomcat
+
+NOT Ura De CARO) vom Orie cB Balnlentobsiontag
+
+Pere ON AL ESL \ MR OD, OE1n <M 8NI DG
+
+Automted Testing Tools: Selenium, Behat
+
+Experience
+Information Technology Specialist III (Drupal Dev) / Company Nam - City , State 08/2015 - Current
+
+4€¢ Lead Drupal Developer for the NYSED.GOV redesign project.
+
+a€¢ Completely re-architecting the NYSED.GOV's website and content strategy.
+
+4€¢ Migrating all data, building and configuring the new site, and creating the custom Responsive Drupal theme.
+
+4€¢ Streamlining the authoring experience for content creators and auditors.
+
+4€¢ Designing, coding, architecting and testing various themes, modules and processes to extend Drupal to meet the Department needs.
+
+€¢ Developing the NYSED's Drupat-based websites using HTMLS and CSS3.
+
+Be owe La SOS MME NBWET ey cuceuecinecmuvelhicd ohlncbecel (anaes
+
+a€¢ Analyzing client request to develop, test, and deploy fimctional software requirements.
+
+a€¢ Providing support and assistance to webmusters to publish and update content to the NYSED's websites.
+
+HS aCveiiannee A LRU UNE Cree en CH ARR nceniureice moe rah OBR CS COMP TRG ECE neResr Lone
+BTeeBrrstilestinie ep il es cecce a Ce
+
+Bisa oeat teen emcee ulLcvar bcawcus lent iCecm
+
+a€¢ Managing installation and ongoing support of search technologies used on the NYSED websites.
+
+€¢ Providing expert guidance to the NYSED program offices and the webmasters related to the website accessibility standards and compliance.
+&€¢ Maintaining the NYSED’s existing websites using the Dreamweaver and the Contribute software.
+
+a€¢ Managing the unit in the absence of my unit supervisor.
+
+a€¢ Providing weekly status reports, statistics and recommendation to the upper management as needed.
+
+Hig AS onritnectece cova eu muare mate UBN CA periawen ene ets trate
+
+4€¢ Documenting Drupal architecture solutions.
+
+Information Technology Specialist II / Company Nant - City , State 09/2013 - 08/2015
+
+4€¢ Developed and maintained IT (systems) written in LINC, COBOL, Java, Struts, PL/SQL, and XML.
+
+BP ence yahoo oat recce nal iLoneck merce ob ecdinesroctte snares rinks Rol cate) «(aK
+
+His ASo lame Ub Ur noi ane ORcCnUalnaim ltnece ycelveccp ice Hipster tice
+
+4€¢ Worked as a member of the application development team to build IT solutions that address the program office needs.
+
+a€¢ Developed and executed test plans, troubleshoot and debug system application code.
+
+Bw CeCe eg yrema nce er yer aNee ern aloe mired Ngee etn nCM Bole wuneeLaranliwmecas (ce te
+Festal cos
+
+Intem Application Developer / Company Nan - City , State 01/2013 - 06/2013
+
+Bic oa Genes nest Neem cca cen ehln Lola
+
+4€¢ Developed program logic for new applications, analyzed and modified logic in existing applications
+4€¢ Provided technical solutions for any applications issues.
+
+4€¢ Developed software system testing and validation procedures, programming and documentation.
+

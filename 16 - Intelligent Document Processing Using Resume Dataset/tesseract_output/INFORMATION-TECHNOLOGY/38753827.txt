@@ -1,0 +1,88 @@
+VICE PRESIDENT, INFORMATION TECHNOLOGY
+Executive Profile
+
+Performance-driven IT executive experienced in buikding technology organizations that make IT a strategic partner of the company. Creates IT
+competitive advantages in capability and scale by leveraging best-in-class inffastructures. Highly experienced in buikling, improving, and tuming
+
+around IT organizations.
+Skill Highlights
+Ce OMS © Teambuilding
+COM Elcrard © Enterprise phtforns
+© Project management * Business continuity
+© Business Intelligence Ce Siem eueia sd
+© Cloud computing © Budgeting/Cost control
+¢ SOX, HIPAA, GLBA = «_IT Infrastructure
+
+Professional Experience
+Vice President, Information Technology
+Noverber 2012 to Current Company Name 14 City , State
+
+Represent Information Technology as a member of the senior leadership team with oversight ofall tactical and strategic aspects of corporate
+OMS Sot
+
+Manage and lead six-person team that oversees all IT Infrastructure and Business Intelligence operations at one of the largest United Ways
+in the nation ($38M Revenue).
+
+Responsible for $1M annual IT budget including staffing, operations, purchasing, and vendor management with an emphasis on cost savings
+ire Bisl Pes akiat ese) Theis
+
+Engineered strategic evolution of Salesforce CRM with the implementation of email marketing, event registration, credit card purchasing,
+and volunteer managenent systems.
+
+Designed and executed IT portion of corporate headquarters move to a new 64,000 sq. ff. building with zero downtine.
+
+Oversaw the creation of'a dedicated, IT business intelligence group and structured development environment in strategic support of CRM,
+data warehouse, and financial reporting systems.
+
+Technology engineering and support of 2-1-1 call center that processes 100,000 to 150,000 calls per year (50% of Colorado's statewide
+2-1-1 calls).
+
+Recovered tens of thousands of dollars per year by consolidating and renegotiating IT contracts, implementing infrastructure lifecycle
+managenent, standardizing PC and server O/S imnges, utilizing refirbished equipment, and implementing virtualization technologies.
+
+* Impkmented company’s first comprehensive monitoring and metrics of application, network and server availability/performance.
+© Responsible for mission critical support of all computer, network, and telecom infrastructure including 175 Windows 7/8 workstations and
+
+35 Windows 2008/2012 servers.
+Team mnintains over 99.9% uptime for all mission critical hardware and software platforms.
+
+Director, IT Infrastructure
+March 2008 to Noverrber 2012 Company Name 14 City , State
+
+Directly responsible for mission critical support ofall computer, network, and telecom infrastructure including 800 Windows XP/Windows 7
+workstations and 160 Windows 2003/2008 servers at 28 treatment centers, five operations offices, and two co-location facilities.
+
+As the strategic and technical IT lead, built, manage, and backup eight person team including Network Engincer, System Administrator,
+Help Desk Manager and IT Support Specialists.
+
+Responsible for all new hire and terminate activities, staff scheduling, mentoring, and reviews.
+
+Consistent record of delivering major IT projects on time and under budget including: integrations of newly acquired treatment centers, new
+treatment center builds, treatment center moves, co-location deployment, and co-location relocation.
+
+¢ Maintain over 99.9% uptime for network infrastructure using an MPLS WAN with VPN over Internet redundancy.
+
+Maintain over 99.9% uptime for server infrastructure using high availability software (Citrix and Doubk-Take) and hardware (RAID, UPS,
+and hot spares) to support company treatment planning systems, record and verify systems, ervail, and all inffastructure servers.
+
+Designed, deployed, and tested company’s first Business Continuity/Disaster Recovery infrastructure for core billing, financial and
+SHLD aU CE TSe
+
+Impkmented company's first comprehensive IT monitoring of network, server, power and temperature health using APC, HP, SolarWinds
+monitoring took.
+
+Responsible for $2M OpEx and $2M CapEx IT budgets including staffing, hardware and software purchasing, tekecom, BC/DR, and travel.
+
+© Responsible for IT compliance with HIPAA and PCI regulations and have designed infrastructure to be complaint with SOX regulations for
+
+the future.
+Recovered up to $100,000/yr by consolidating billing and vendors, renegotiating IT contracts, impkmenting infrastructure lifecycle
+management, standardizing PC and server O/S images, and modeling VMWare-based virtualization,
+
+© Coordinate and manage all communications between business operations and corporate IT.
+Cae Palo erceBimarninniosU Bocas dice Om ci cmnaam iouniLens mr amleditralmeci aw ib 6
+
+Team responsible for closing 800+ IT support tickets per month.
+
+Manager, IT Operations - Windows
+

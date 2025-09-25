@@ -1,0 +1,25 @@
+{
+    "name": null,
+    "education": [
+        {
+            "degree": "Bachelors Degree",
+            "university": "Rollins College",
+            "year": "2011"
+        },
+        {
+            "degree": null,
+            "university": "Gemological Institute Of America",
+            "year": "2013"
+        },
+        {
+            "degree": null,
+            "university": "University of Edinburgh: College of Art",
+            "year": "2010"
+        },
+        {
+            "degree": null,
+            "university": "Rhode Island School of Design",
+            "year": "2009"
+        }
+    ]
+}

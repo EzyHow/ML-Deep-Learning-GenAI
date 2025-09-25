@@ -1,0 +1,87 @@
+WMS CONSULTANT
+Obdjective
+
+Looking for the position ofa supply chain consultant, where I can optimize a company's business, by providing supply chain solutions and building
+PiKaipe aneurin ema sibel en
+
+Sumnnry of Skils
+
+Strong understanding of supply chain principles with an expertise in warehouse management.
+
+Functional knowledge in the end to end warehouse systems with an experience in Manhattan Associates’ Warehouse Systems.
+KU amr coine cee Neer nan R eG Ue nres TERN ilcat sccm
+
+Excellent knowledge in software development life cycle with an emphasis in analysis and testing.
+
+Ability to clearly define and execute test plans and procedures.
+
+Ability to meet deadlines and deliver projects on time.
+
+Strong analytical and problem solving skills.
+
+Hands on experience in troubleshooting computer hardware peripherab.
+
+Aug oanan at acs
+Company Name City, State WMS Consultant 05/2015 to Current
+
+(8 elor i Cee GutecS Om eet epoue TecelecG USN CUBLCSCe
+
+Verified ASNs after parsing multiple ASNs using XML format.
+
+Created Inbound and Outbound License Plate Numbers.(LPN/oLPN).
+
+Configured and Tested System directed and manual put-away.
+
+Configured the inventory to move an item from one active location to the another; one active location to a reserve.
+Configured Wave Mamgement, Task Management, Locations, Wave Process Types and Inventory Need Types.
+Tested partial shipment and RF receive menu.
+
+Tested the PIX transaction to keep track of Inventory Movement.
+
+Worked on back-end testing of the databases by writing SQL Queries to join the tables, verify the data, etc.
+
+Environment: Manhattan Associates WMOS 2013, SQL Server 11.02 A
+
+Client: Li&Fung(2013) A
+
+Company Name City , State Quality Assurance Engineer 11/2014 to 05/2015
+
+Performed necessary software and hardware evaluations as per the client's requirements.
+
+Designed and modified user interfaces to accommodate new verticals.
+
+Assisted engineers by troubleshooting and configuring LANs, switches, routers and firewalls.
+
+Modified and tested prototype using working models for computer simulation.
+
+Documented and reported bugs to the developers.
+
+Sittetn il Cecio Beneiis erates mcm leet ebre@iadneccna
+
+Worked with other engineering disciplines to evaluate interface between hardware and software and analyze the operational and
+asouiapacmieehuon ence gnarl es ottce
+
+Worked towards customer satisfaction and overall sales by analyzing and correcting internal software and other customer problerrs.
+© Performed site surveys, commissioned and installed hardware equipment at the client's site.
+
+Company Name City , State Junior PeopleSoft Developer 06/2014 to 11/2014
+
+© Impkmented web based applications using Orack’'s PeopleSoft technology for internal projects in the company.
+
+* Worked on Orack's PeopleSoft Supply Chain Module (SCM) to impkerent customer order, inventory and filfillment managerent.
+© Used PeopkTools to develop an order managerrent portal and implemented business logics for the order management system
+
+* Worked on relational databases by querying relevant data and optimizing performance through normalization.
+
+© Worked on the eight steps of PeopleSoft application development with emphasis on design and creating page definitions.
+
+© Involved in various aspects of software development and generated reports using PeopleSoft's Structured Query Report (SQR).
+
+Environment : Orack PeopkTools 8.46, Oracle Database Express 11g,
+
+Company Name City , State Senior Technology Consultant 01/2012 to 05/2014
+
+¢ Assisted users with hardware and software issues using the university's Lab resources.
+© Monitored and managed computer lbs at the University of Florida.
+* Assisted Professors in setting up the lab for exams, practical experiments.
+

@@ -1,0 +1,71 @@
+DATABASE PROGRAMMER/ANALYST (.NET DEVELOPER)
+Summry
+
+Software Engineer with 2 years in Web Developer specializing in front end development. Proficient in Software Developnent Life Cycle (SDLC)
+and SRUM AGILE methodologies of development process to produce software solutions by team Involved in designing, planning, developing
+and implementing Microsoft .Net based solutions that meet quality and code standards using C#, ASP.Net, ASP.Net MVC JavaScript, jQuery,
+CSS, Bootstrap CSS, HTML, XML and AJAX. Strong experience in data retrieval and manipulation using ADO.Net data objects such as
+Dataset, Data Reader, Data list, Data Adaptor, Entity Frame work. Good experience in writing Class Library using C# , LINQ to SQL queries in
+Database Access layer to interface with SQL Database. Worked extensively with .Net Server Controls, Web User Control, Data Grid, Web
+Control, Form Validation Controls and created Customcontrol. Worked on creating and modifying Table Definitions, stored procedures in SQL
+Database. Modified and written web services using C# to interact with the other applications so data can be served. Used Red Gate SQL
+Compare to deploy database from one server to another server (Dev -> Test(QA).Worked on .NET security features such as Form-Based
+Authentication and Role-Based Authorization. Used various ASP.Net client side and server validation Control, used JavaScript for client side
+validations. Involved in bug fixes and production support. Worked closely with Scrum Master for backlog catalogs, feature catalogs and prioritized
+the tasks Participated in daily scrums and weekly meetings with the project sponsors to meet expectations and deadlines Interact with QA to
+ensure the defects are properly cleared to attain the quality standards Providing demos to the QA teamat the end of the sprint to push for its final
+SEO OLceRURarecce eaten icine en ecg cecum
+
+bs rannaney
+© Ci, Java, VB.Net, C, CH
+¢ ,.Net Technologies: .Net Framework 4.0/4.5, ASP.Net, ASP.NET MVC, VB.Net, ADO.Net, Entity Framework, AJAX, Web Service,
+LINQ, Entity Framework, LINQ queries. ASP.Net, HTML, CSS, JavaScript, JQuery, Bootstrap CSS.
+IDE: Visual Studio, Eclipse, NetBeans, Dreamweaver
+Database: SQL, MySql
+CO actinep GAN Theol)
+Version Controls : Tortoise SVN, GitHub
+Others: Microsoft Word, Excel, Access, Power point
+
+Experience
+
+Database Progranmer/Analyst (NET Developer) Jun 2014 to Feb 2016
+Company Name 1% City , State
+
+Description: A
+
+Worked as Graduate Research Assistant performing the duties of Database Programmer/Analyst at Application Development Network (ADN),
+DolT which supports University of Missouri System faculty and students through agile and rapid creation of new applications.
+
+eT
+7 NECEe
+pWenres Near
+
+‘This project is all about requesting, scheduling the tutoring sessions. There are three rokes tied to application they are Tutee, Tutor, and Scheduler.
+PM od ee BOM ONa OM ee ood is Let cane eine bu nce Nel Aims ioulince sce niical nolo eeNctaliing@lr eee M ied
+submits availability. A scheduler will go through those availabilities and schedule time and location for tutoring. Ako, there are some set of rules for
+dropping the tutoring sessions which are incorporated in this project. The other piece of this project is automated emis through Scheduled task
+which runs every day.
+
+Bare OI oe.
+
+Created a Availability Calendar Grid. In grid each cell represents time (1 hour span) and day of the week. Clicking on the cell toggles the
+ENGI sl SNAP Cob Lelbesl ng ueselactal Luelntekwe rast em niLaaei eet licen eecinlnceay ou ccrmliteromciconetses Crib ko ied
+to get that data)
+
+Pld nt A Ou ice way eco omebattcekar fais
+
+¢ Got rid ofdata tables and table adapters in the main project as they are tightly coupled. Created Class libraries out of the main project to
+Peden exeninnkm eke uc emul tQuce wee cll ob Ome Lad enn ei mies Bey eat ete
+
+Integrated Open Source HTML text editor CK Editor into the website.
+
+© Used jQuery for filtering, sorting and search the listview, JavaScript for clientside validations.
+
+Se cer) ace lnee alten Om te ote ontucce
+
+Occupational Therapy: A
+bres nO
+‘The goal of the project to refractor the od application with new templates and rephce the assemblies. Adding fimctionalities to upload pdf files.
+
+© Responsilities:
+

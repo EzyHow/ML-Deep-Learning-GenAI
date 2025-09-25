@@ -1,0 +1,76 @@
+CONSULTANT
+Profile
+
+A highly accomplished, skilled and talented Consulting manager with a thorough understanding of the Software development Life Cycle and a
+proven track record of successfillly providing overall direction to project teams and managing client relationship.
+
+Professional Experience
+Consultant , 01/2001 to 11/2014 Company Name 14 City , State
+
+Led a data migration project for a client P & C surance company froma kegacy client server insurance system with a relational backend to
+a tetiered insurance system which involved the entire gamut of activities from defining requirements, selecting the application tool suite to use
+for the data migration, performing data mapping and gap analysis, designing the technical approach, performing the necessary business
+analysis, engaging with the target system vendor technical leads to ensure structural compatibility, developing the transformation, testing the
+transformation all the way to the upload into the target system, supporting the UAT and creating a deployment plan Led and managed the
+design, development and implementation ofa Billng module of'a P & C system to support a change in the Jockbox financial institution
+Served as a Technical Project Manager as well as a vendor relationship manager on a Commercial Lines Expansion Project, a key business
+initiative of the client company to enable the organization to underwrite business in additional states.
+
+© This CL Expansion effort is expected to capture 1.5% of the commrrcial lines market in each additional state (about $35,000,000) by the
+end of 2011 Led and mamged a cross fimctional team to successfilly migrate existing processes from an in-house personal lines system to a
+system in a hosted environment Led client efforts to support extemal IS audit conducted by Emst & Young Led and managed the design,
+development and deployment ofa print solution using Accelio suite of products (now part of the Adobe suite of products) to replace an
+existing print sub-system for a P & C Insurance system
+
+Conducted an internal practice-wide training to prepare other tears to undertake such print solution development eflorts for other P & C
+clients Led and managed the design, development and integration ofa custom built compliance software sub-system to help a P & C
+Insurance system comply with the requirements of the Office of Foreign Assets Control (OFAC) Assisted the IT Director at a client
+company in migrating their existing legacy system to the POINT IN system.
+
+This was a full service engagement that included, analyzing and determining the hardware requirements for the selected system, negotiating
+the hardware purchase (saved the client over 40% on the original hardware purchase price), overseeing the hardware installation,
+
+Glate st CROW Me Umea ROL MCC MeP ronal celcicw MMB cements cecum
+
+retin Odean lO ES NCp ee homes cccalet Ries inenoe OP ce a MMcal emt aLan era cote bce ieee
+an effort to facilitate their selection ofa CRM package Technically led the design and development ofan Innging prototype system
+Provided technical leadership in re-designing the Guy Carpenter report to ensure accuracy and better data processing Provided technical
+keadership for migrating a Commercial lines system to a new payment vendor Provided production support on several client engagements
+Mentored junior level staffon several system development efforts Provided expertise and oversight in the development of marketing
+collateral Participated in a technical advisory role in determining the feasibility and the subsequent techno-business analysis of impkmenting
+an ¢-bill presentment module for a personal lines system which involved a lockbox vendor repkacemment.
+
+Software Engineer , 01/2000 to 01/2001 Company Name i City , State
+
+* Designed, developed and tested insurance applications.
+© Maintained existing insurance applications.
+
+Sr. Applications Analyst Programmer , 11/1997 to 12/2000 Company Name iA City , State
+
+© Designed, developed and tested applications using Centura/SQL Windows as the frontend and Oracle as the backend.
+
+© Translated business requirements into technical specifications.
+
+* Formed a part of the core group on several tears for customizing and deploying the company's base P & C Insurance system Implemented
+Aviation, Tourism and Garage Liability lines of business for Sul America using Centura as the front end and Oracle as the back end.
+
+© Impkmented Lead and Asbestos as well as Engineering lines of business for Zurich American using SQL Windows as front end and Oracle
+as the back end Formed a part of the core group of'a successfill team that implemented an insurance/auto-warranty system for General
+Motors Corporation using Centura Developer for the front-end and Oracle as the back-end Participated in responding to RFP's as an SME
+Led the conversion ofa 16-bit WPC (P&C Insurance) systemas a technical advisor to its 32-bit version Mentored junior level staffon
+application developrrent efforts.
+
+brairestbeny
+Master's degree : Computer Science , 2000 University of South Carolina i City, State , USA
+
+Computer Science
+
+Bachelor's degree : Physics , 1992 Gujarat University i City , State , India
+Physics
+
+Accomplishments
+
+© Cross fimctional leadership and management: Served as a Technical Project Manager as well as a vendor relationship manager ona
+Commercial Lines Expansion Project, a key business initiative of the client company that was aimed at capturing 1.5% of the commercial
+lines market in each state (about $35,000,000) by the end of 2011 Process migration keadership: Led and managed a cross fimctional team
+

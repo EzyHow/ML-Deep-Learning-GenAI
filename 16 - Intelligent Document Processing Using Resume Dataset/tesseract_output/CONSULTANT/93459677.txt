@@ -1,0 +1,119 @@
+CONSULTANT
+
+Career Focus
+
+To obtain a position in the area of SAP Consulting, utilizing my skills, academic background and past work experience, thus encouraging career
+advancement with growth of the organization. SYNOPSIS SYNOPSIS 7 years of professional experience with 5 yrs of experience as an SAP
+Consultant and 2 yrs in Banking and Financial Analysis Working with Infosys Limited, Sunnyvale, CA, USA as a SAP Consultant - SAP FI/CO
+See OU PA URSA Uo Ene Beceem Lenencll ene eeck Cece Tne y Oban ar emvl Coararen raid
+years dormin experience in Banking and Financial analysis at Yes Bank Ltd. India, Goldman Sachs, India and Ocwen Financia, India Working in
+lenlio MONMCLe LOMO EBS CANE a uariis
+
+Experience
+
+Consultant 10/2010 to Current Company Nan City , State
+
+PEEP CLO E och runeibniunnera ceeneclnninc eames ROhoc ure MO Olam wee ey urea eM Tet eso i
+consumer electronics, mobile devices, computer software, online services and personal computers.
+
+¢ Roks and Responsbilities: Working as a Functional Consultant in the SAP FI/CO Module for the client.
+
+© Involved in 5 Project Implementations in the FI/CO Module and presently working as the Module Lead ofa 40 member Global FI/CO
+Support and Maintenance Team
+
+© The typical role as the Functional Consultant in each project broadly involved Requirement Gathering, Preparation of the Design Document,
+
+carrying out the configurations and coordination with the ABAP resources, Integration Testing, End User Training and Documentation, Cut
+
+Over, Go-live and Post Impkementation Support and Production Support Handover.
+
+Project Overview: Payment Consolidation System, a vendor payment automation system which involves multiple customized tools
+
+keveraging existing SAP Functionality to enable to automation ofa unique and complex business process involving payments to multiple
+
+vendors in addition to transmitting key information to frontend systems.
+
+SAP FI-CA (RMCA): Imperentation of the FI-CA (RMCA) module implemented by the client for a specific business line involving mass
+
+Speco isNCALetce
+
+Have been involved in configuration of the system along with integration with the Core SAP Moduk and other downstream reporting
+
+systems (SAP BW / EDW) Revenue Recognition, a process involving customization of existing SAP Functionality to enabke calculation and
+
+recognition of deferred revenue through creation of relevant Subscription or Service Oriented Contracts, enabling distinct calculations for
+
+ooo diira sens eeu seccerate ian nice
+
+Journal Voucher Workflow, a web based utility which enables manual postings of various Accounting Postings Types, enabled with all SAP
+
+validations and customized features in addition to scenario based multi level approvals Balance Sheet Reconciliation, a web based utility
+
+which helps business users perform period reconciliation of balance sheet accounts to meet internal and statutory requirements after fiscal
+
+(oeXem
+
+¢ Production Support and Maintenance, supporting and maintaining the complete SAP FI/CO Landscape.
+
+‘The scope of work involves but is not limited to key fimctionalities implemented such as General Ledger, AR/AP, Automatic Payment
+
+Program (F110), Asset Accounting, AB-COPA, Special Purpose Ledger, Revenue Recognition, Taxes on Sales / Purchases, Vertex,
+
+Treasury, EBS, Collections and Dispute Management, FI-CA (RM-CA), Invoice Cockpit, Lockbox, in addition to various customized
+
+utilities and applications.
+
+On SOU E Cb a vee ee UL @O Rye m Vela Cou Mumeniesl AULA ons Ome liceteeonnly ase ur etcn ey
+
+probkers, queries raised by client within predefined stringent time limit and providing solution to users.
+
+Corrections and Enhancements made to the configuration settings for different company codes as per the business requirements Involved in
+
+Month End , Quarter End and Year End Close acivities which involve monitoring of system and resolving any close critical issues.
+
+Involved in SAP Support Packs and Enhancement Packs implementations Customizing and configuration of various areas of IMG activities
+
+including: General Ledger master records, Account receivabk/ Accounts Payable, Withholding Tax, House banks, Taxes on sales and
+
+purchases, Asset Accounting, Basic setting of Controlling, Cost Center and Profit Center Accounting, Internal orders, Profitability Analysis,
+
+Integration of FI with MM and SD.
+
+Creation of G/L Masters, Cash Journals, House banks and Maintaining Ficld Status Variant and Posting Keys.
+
+Defining Fiscal year variant, Posting periods, Tolerance groups, Docurrent types and number ranges.
+
+Configuring Automatic Payment Program (F110).
+
+Involved in Core user & end user training and preparation of user manual.
+
+SAP Expertise Have extensive experience in Key SAP FI/CO finctionaltities such as General Ledger, ARVAP, Automatic Payment
+
+Program (F110), Asset Accounting, AB-COPA, Special Purpose Ledger etc.
+
+Have worked extensively in the FI-CA (RMCA) module implemented by the client fora specific business line involving mass business
+
+fiesta ice
+
+Have been involved in configuration of the system along with integration with the Core SAP Moduk and other downstream reporting
+
+systems (SAP BW/ EDW) Worked extensively in the Revenue Accounting model.
+
+Sel Sexo eevee ome OME ce Mae eeu hace Oui Cue one Ru carson u Ram cole OR crest eesd a
+
+RYU Erato Bescon Brelticom tea tricecs
+
+Have been involed in customized tools developed leveragng SAP HANA Functionalities Experience in niche fimctionalities such as
+
+JD eet ney hem ca aN oC CCR (SIN) PMP Or ag Senos cue R Eee Emerson ce BU Bonn asch nator terre
+
+integration with other SAP modules such as SD, MM and BW Experience in reading and understanding ABAP Code.
+
+°
+
+eemrenci pomrea AOR Zeca Necker
+
+¢ Acquisition of Simll and Medium Enterprises (SME) clients (with tumover up to INR 2500 Million).
+Se ens ca akon ema Bite lke Mi careen eid aie Comb M RNS Acca em AC eas nee
+Account Services and Term Loans with focus towards Working Capital Requirements (such as Cash Credit Limits, Letter of Credit, Bank
+

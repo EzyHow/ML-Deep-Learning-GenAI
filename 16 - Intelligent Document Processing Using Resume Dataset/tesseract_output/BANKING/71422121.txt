@@ -1,0 +1,94 @@
+QA TEST ANALYST
+Profile
+Seeking a position as Manual Software Quality Assurance Analyst 4+ years experience as a Quality Assurance Analyst dealing with various levels
+of testing such as Functional, Regression, System, User Acceptance, Performance testing and Smoke testing. Experience testing applications
+based on different architectural platform such as Client/Server, Web Based and SAAS Industry experience in Finance, Banking, Retail and Health
+Care Well Versed with Agile, Agile Scrum, Waterfall, and V-Model methodologies Experience communicating and dealing with different
+stakeholders to meet the deliverable Experience with creating Test Plan, developing Test Scenarios and executing Test Cases and logging Defects.
+Well Versed in Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Management Life Cycle (DMLC).
+Experience working with QA teams both offshore and onsite while communicating the client's requirements and expectations to execute the QA
+process smoothly on various projects. Abie to effectively communicate, both verbally and in writing, using English, Hindi and Urdu. Experience
+doing Root cause analysis (RCA) on issues and identified defects to improve Product Quality. Experience in backend database testing by writing
+SQL queries to extract data for validation. Developed and maintained appropriate metrics to maintain quality control in the development process.
+Quick learner and can easily adapt to different responsibilities and technologies. Team player as well as ability to work independently and a self-
+starter. Strong analytical skills, combined with effective communication, organizational skills and planning ability. Able to handle muttiple tasks
+STP MiCth ese NEMO EsT LE Ran Ceti ee
+Core Qualifications
+
+© Operating Systems: Windows 95/ 98/2000-2007/NT, WIN 7 and XP
+
+© Bug Tracking Tools: Quality Center, JIRA
+
+© Databases: Oracle, SQL Server 2005/2008
+
+© Browsers: Internet Explorer, Firefox, Chrome, Safari
+
+© Test Management Tools: Mercury Interactive Tools (HP): Test Director, Quality Center, ALM
+
+© Mobik Operating Systems: Appk-IOS, Android, Windows
+
+Professional Experience
+QA Test Analyst , 09/2014 4 Current Company Name
+
+Kohts is one of the nation’s largest and leading departirent store retail of apparel, accessories and home goods, based in Plano, Texas.
+
+T was working on Inventory Management Application that provides status and tracking on inventory.
+
+The Inventory Managerrent Tools Interact with POS (Point of Sale) System, Vendor Management and Shipment tracking System.
+
+This Tool helps Kohl's to track & monitor the entire Inventory.
+
+My rok as a tester was to test Kohl's Mobile app on different OS Platforms IOS and Android devices.
+
+Responsibilities: Participated in all phases of the developrrent lifecycle that pertain to software quality assurance Reviewed and analyzed
+Business Requirement Documents (BRD), Functional Specification Documents (FSD) for completeness and testability to meet acceptance
+Conran
+
+Actively participated and work with team to create Test Plan, Test Data and Test Cases document Tracked bug discrepancies by using
+"Quality Center’ to store the details of bug discrepancies for enhanced regression testing,
+
+* Continuously worked with the team to improve testing process.
+
+Provided feedback, chrification and training support as necessary to different stakeholders Tested Kohl's apps on different OS Phtforrs
+108, Android, Using physical devices like IPad, IPhone, Android, Windows Performed back-end testing using SQL queries to extract data
+and validate customers’ Accounts, Points and Rewards history.
+
+Environment: Windows 7, Windows XP, Apple Mac book Pro Software: Quality Center, .Net, SQL Server.
+
+Microsoft Office, XML.
+
+Quality Analyst Assurance , 10/2013 14 07/2014 Company Name i City , State
+
+© Humana is one of the nation's leading diversified health service company, serving members with information and resources to help them
+make better informed decisions about their health care and dedicated to helping people improve their health.
+
+Responsibilities: Actively participated in all the phases of the development lifecycle that associate with software quality assurance.
+
+© Analyzed requirement document for completeness and testability to accommodate acceptance criteria.
+
+Performed testing to ensure the quality of products for business and ensure proper operation without defects Ascertained and identified test
+data based on pre-determined requirements to mitigate risk.
+
+Write SQL Queries to retrieve data and validate content against XML log fiks.
+
+Prepared Test strategies, Test Scenario and Test Cases and execute Test Cases to cover both Verifying and Validating.
+
+Impkmented Regression Testing methodology for every new build release.
+
+Track the bug by using "Quality Center" and store the details of bug's discrepancies for enhanced regression testing.
+
+Continuously review and improve testing process.
+
+Worked in Agik environment and attended daily scrum meetings to provide daily status updates on project Provided feedback, clarification
+and training support as necessary Tested mobile apps on different OS Platforms IOS, Android, using physical devices like Blackberry,
+IPad, IPhone, Android Environment: Windows 7, Windows XP, Apple Mac book Pro.
+
+© Software: Quality Center, .Net, SQL Server.
+
+Microsoft Office, XML.
+
+Mamul Tester , 06/2010 11 06/2013 Company Name
+
+* Bank M isa fast growing commamity bank, highly profitable financial hokling company.
+¢ The company provides a complete range of banking and other financial services to the customers through its basic business.
+

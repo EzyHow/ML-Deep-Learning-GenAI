@@ -1,0 +1,92 @@
+DATABASE PROGRAMMER/ANALYST (.NET DEVELOPER)
+Summary
+
+Software Engineer with 2 years in Web Developer specializing in front end development. Proficient in Software Development Life Cycle (SDLC)
+and SCRUM AGILE methodologies of development process to produce software solutions by team Involved in designing, planning, developing
+and implementing Microsoft .Net based solutions that meet quality and code standards. Developed web based applications using C#, ASP.Net,
+JavaScript, jQuery, CSS, Bootstrap CSS, HTML, XML and AJAX. Strong experience in data retrieval and manipulation using ADO.Net data
+objects such as Dataset, Data Reader, Data list, Data Adaptor, Entity Frame work. Good experience in writing Class Library using C# , LINQ to
+SQL queries in Database Access hyer to interface with SQL Database. Worked extensively with .Net Server Controls, Web User Controls, Data
+Grid, Web Control, Form Validation Controls and created Custom controls. Worked on creating and modifying Table Definitions, stored
+procedures in SQL Database. Modified and written web services using C# to interact with the other applications so data can be served. Used Red
+Gate SQL Compare to deploy database from one server to another server (Dev -> Test/QA). Worked on .NET security features such as Form-
+Based Authentication and Role-Based Authorization. Involved in bug fixes and production support. Worked closely with Scrum Master for
+backlog catalogs, feature catalogs and prioritized the tasks Participated in daily scrums and weekly meetings with the project sponsors to meet
+expectations and deadlines Interact with QA to ensure the defects are properly cleared to attain the quality standards Providing dems to the QA
+teamat the end of the sprint to push for its final stage. Worked with cross-fimctional teams to meet project.
+
+BS ania}
+© ASP.Net, C#, JavaScript, jQuery, VB.Net, C, C++, Java
+Net Technologies: .Net Framework 4.0/4.5, ASP.Net, ASP.NET MVC, VB.Net, ADO.Net, Entity Framework, AJAX, Web Service,
+LINQ, Entity Framework, LINQ queries. ASP.Net, HTML, CSS, JavaScript, JQuery, Bootstrap CSS.
+IDE: Visual Studio, Eclipse, NetBeans, Dreammveaver
+Database: SQL, MySql
+Operating Systent Windows
+Version Controls : Tortoise SVN, GitHub
+Others: Microsoft Word, Excel, Access, Power point
+
+Professional Experience
+Database Progranmer/Analyst (NET Developer) Jum 2014 to Feb 2016
+(Oo nape LALO NMESI FIC
+
+* Worked as Graduate Research Assistant performing the duties of Database Programmer/Analyst at Application Development Network
+(ADN), DolT which supports University of Missouri System faculty and students through agik and rapid creation of new applications.
+Projects: Atlas: Description: This project is all about requesting, scheduling the tutoring sessions.
+
+There are three roles tied to application they are Tutee, Tutor, and Scheduler.
+
+PMU od ere ete MOTs OmlLeaacen elo icasie Locman ee Veruca ina ei@ reat beReiccmeicalicelnul Pencil sine Gre cbse t|
+METKo ranean
+
+Aschedukr will go through those availabilities and schedule time and location for tutoring,
+
+Ako, there are some set of rules for dropping the tutoring sessions which are incorporated in this project.
+
+The other piece of this project is autonmted emuils through Scheduled task which runs every day.
+
+em Slolipecwm Oeet re RUA iNeenlaninm rtm
+
+In grid cach cell represents time (1 hour span) and day of the week.
+
+Clicking on the cell toggles the availability.
+
+Automatically populated the course schedule which comes from different database(Worked with data warehouse team in order to get that
+data) Developed C# Console Application for Scheduled emuil task.
+
+Got rid of data tables and table adapters in the main project as they are tightly coupled.
+
+Created Chass libraries out of the main project to access the database which can be used by both Console Application for Schedule task
+and web application.
+
+Integrated Open Source HTML text editor CK Editor into the website.
+
+LOR Olloss tm iionnumce cu ceneRve a Sibel icihy van WiM nae emo enc eR elt ice
+
+Used role based authorization for various pages.
+
+The goal of the project to refractor the old application with new templates and replace the assemblies.
+
+Adding fimctionalities to upload pdf files.
+
+Responsilities: Created separate Login page for Administrator and Students.
+
+Used Active Directory (AD Group) to restrict other department Students.
+
+Developed a web interface for Administrators to upload the pdf files into database which can be viewed by students.
+
+Updated the entire application by using new Visual Studio 2013 template which make use of Bootstrap CSS by changing the master pages.
+Modified the structure of database to login.
+
+Used Redgate SQL Compare to copy the data from database from dev server to test sever.
+
+Replaced the old ADN Utilities assemblies with new DolT Utilities asserrblies.
+
+Applnventory: Description: The goal of the project to allow the admins, managers, scrum masters of the organization to keep track various
+Pes RV AS La heRiba mee setmuncennaiee DUC cae
+
+For every application there are application parameters which includes App Structure, Remedy group, User Departments etc.
+
+and each application has different version.
+
+For each version the parameters are Prod, QA, test URL, DCL, Database, platforms, framework used to develop application, UAT dates
+

@@ -1,0 +1,105 @@
+INFORMATION TECHNOLOGY PROJECT MANAGER SYSTEM ANALYSIS (SYSANALSYS) [GS-2210-12]
+Professional Overview
+
+Highty-qualified Departrent of Defense (DoD) Program Manager (PM) professional, driven to maximize Mission Partner (MP) operatione
+efficiency through planning, project management and Infrastructure Technology (IT) expertise. Excels at building dynamic team relationships and
+
+achieves project management process improverrents. Looking to continue federal career as a strategic planner possessing exceptional knowledge
+
+understanding support agreements, basis of estimates, fiscal analysis, financial reporting, cost projections, business proposals and increased overall
+
+responsibilities within federal service.
+
+Relevant Professional Experience
+
+January 2010 to Current
+
+Company Name City , State Information Technology Project Manager System Amilysis (SYSANALSYS) [GS-2210-12]
+
+*Holds Active Security oritiay. 8
+
+Member of the Development and Business Center for Defense Logistics Agency (DLA), Defense Finance and Accounting Service (DFAS)
+Program Managerrent Office (PMO), as well as the Mission Partner Engagement Office (MPEO) Engagement Executive (EE) team (BDM11).
+Principle Job Duties:
+
+© Engage with various DISA mission partners to provide critical IT requirement proficiency and Project Management support leveraging the
+DISA End-to-End (E-2-E) Business Flow Process
+
+© Positioned as the DISA Program Manager for DLA’s dynamic and complex Enterprise Business Systems (EBS) Test and Development
+ODD) KonenenaienteranlcMearliconmmnrlbatasbes eminence en
+
+¢ Also serving as the primary DISA Subject Matter Expert (SME) government Program Lead (PL) for the DoD mandated Federal Data
+Center Consolidation Initiative (FDCCD) providing IT and project support for Defense Contract Management Agency (DCMA), Defense
+Manpower Data Center (DMDC), Office of Personnel Management (OPM) and DFAS
+
+DISA Project Manager support includes skill(s) in the following:
+
+© Serving as the primary Point of Contact (POC) to the Mission Partner for identifying, tracking, managing and resolving project issues within
+
+Operational Environments (OEs) and applications
+
+Strong in-depth knowledge and understanding of DISA computing service offerings
+
+Providing fictional and technical requirement analysis of all new DISA Mission Partner project initiatives through Service Request Fons
+
+(SRFs)
+
+Create workload utilization documentation of customer environments
+
+Schedule and facilitate Mission Partner stakehokler meetings to ensure all project risk has been identified and mitigated
+
+Develop and manage the overall project work plan for each Mission Partner project to be certain all workload has beenA identified and
+
+compkted on time
+
+* Coordinate with DISA Information Assurance (IA) personnel to ensure that Mission Partner IT systems have the required DoD Information
+Assurance Certificates and Accreditation Process (DIACAP) package compkted, making certain the customer is in compliance before
+bin yonenniteedlecimneiectcoe (3)
+
+* Effectively manage project scope to ensure baseline time frames and tasks are delivered, unless changes were approved through the
+Baseline Change Request (BCR) process.
+
+© Proactively manage the development of customer business proposals which are derived from approved Bill of Materials (BOM) and
+
+Solution Designs (SD)
+
+Monitor the timely acceptance ofall project basis of estimate and receipt of Mission Partner finding
+
+Analyze and coordinate with customer to review upcoming Fiscal Year (FY) cost projection
+
+Ensure that the processing of Authorization Increases (Al) have been accepted
+
+Monitor the judicious execution ofall preparation activities for Initial Operating Environment (IOE) ofall Mission Partner IT systems,
+
+including arrival of hardware infrastructure and software delivery
+
+* Completing the IOE checklist while staying in direct communication with the Customer Account Representative (CAR) assigned to the
+
+application(s) to assist in initiating Mission Partner billing to the appropriate Billing Account Number (BAN), for both implementation and
+
+eae cy
+
+Coordinate with customer and CAR to review support agreement for application(s)
+
+Ensure that the timely execution ofall Initial Operating Capability (OC) preparation activities have been completed - including application
+
+build and testing have been concluded, Security Technical Implementation Guides (STIGs) have been applied, proper ports and protocols
+
+have been identified, Enclave Connection Authority (ECA) has been approved by the proper Designating Approval Authority (DAA) and
+
+Go-Live has been coordinated
+
+© Transitioning projects to operational sustaimment ofall closeout activities resulting in Full Operational Capability FOC)
+
+IDO NB vr um CNN mon nue Canec PURO TEC OM Cals
+
+© Multiple hardware OE chip-sets including x-86, Itanium, SPARC and PA-RISC
+
+¢ Multiple software Operating Systems (OS) including Windows Server 2008 R2, Windows Server 2012 R2, Red Hat Enterprise Linux
+(RHEL), Hewlett Packard UNIX (HPUX), Solaris and SUSE
+
+* Relational Database Management Systems (RDBMS) such as Oracle and Microsoft SQL
+
+¢ ?Converged IT systems including Hewlett Packard (HP) HANA appliance and System Analyses Program (SAP) Business Warehouse
+Accelerator (BWA)
+

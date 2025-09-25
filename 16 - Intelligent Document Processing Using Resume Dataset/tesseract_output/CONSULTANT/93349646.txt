@@ -1,0 +1,78 @@
+CONSULTANT
+Core Qualifications
+© Ganesh Seetharaman is a senior IT infrastructure specialist and Ganesh has just finished an international project for a client and is looking
+for a rok specializing in the Solutions management. He has a Masters in Computer Applications (MCA) and is a seasoned technical
+specialist providing business infrastructure solutions, services and support, according to defined processes.
+His expertise includes,
+Project Management
+Impknentation Specialist *WebLogic Server Administration
+Incident Management
+Database administration *Oracle Cloud operations
+People Managerent
+WIE e con Elorale
+Ole Bonaa ooo
+Operations Management
+Change Management *AWS
+Process capability
+Technical support for 24X7 systems
+Database Administration: Exadata X5-2, X4-2, X3-2, Oracle Database 10g/1 1g
+Middkware Administration: Oracle WebLogic Server 10.3.6, 10.3.5, Oracle Application server, Oracle Management Server, Primavera
+Operating Systent Linux, HP-Unix, Solaris, Windows
+Database Tools: EM, RAC, RMAN, Data Guard, AWR/VADDM, TKPROF, SQLDeveloper
+Other tools: Excel, MS Project, Visio, F5 Bigip, Global Traffic Manager
+Testing tools: Win runner, Quick test pro
+
+Professional Experience
+07/2016
+Company Name Consultant
+
+¢ Colkborate with Clients, customers to ensure successfil implementations which includes.
+
+© Impkment OEM 12c setup, Apply BP, Plugins, performance monitoring, notification set up.
+© Install/upgrade/patch Oracle Database, performance tuning.
+
+© Install/upgrade/patch Oracle WebLogic servers, deploy applications.
+
+12/2014 - 062016
+Company Name i City Project Manager
+
+© Led tearrs across broad teclmical, financial and business disciplines.
+
+Focused teams on business objectives and tracked progress to ensure project milestones were compkted on time, on budget and with the
+oles cee B pee
+
+Mitigated risk factors through care fill analysis of financial and statistical data.
+
+Anticipated and managed change eflectively in rapidly evolving global business environments.
+
+Paineshruecowint hue meeci ewer manera bee aum
+
+Moved between agile and waterfall approaches depending on project specifics and client goals, creating detailed project road maps, plans,
+schedules and work breakdown structures.
+
+Executed and implemented and managed muttiple projects including, Upgrade database from 10g to 11203/11204 Upgrade database/Grid
+from 11204 to 12c Migrate database ftom Oracle Virtual Machines to Oracle Exadata Machines Move database from normal filesystem to
+ASM disk groups Apply database PSU patches, and one off patches to the environment for multiple customers.
+
+Buikding OEM from scratch to go live Upgrade Oracle WebLogic from 10.3.5 to 10.3.6 Upgrade Oracle Web Tier ftom 11.1.1.3 to
+11.1.1.6 Apart from managing projects other daily tasks include Managed a team for Enterprise manager cloud contro(Cloudem!2c) for
+Oracle Public Cloud that supports and facilitates end to end monitoring solutions for Oracle cloud services.
+
+Manage a global team for Cloudem administration (OEM 11,12c) Deploy/implement OEM 12c sites from end to end Deploy agents
+1000's of agents thru mass deploy Deploy/configure management plugins Troubleshoot Oracle Managerrent server issues Troubleshoot
+Agent issues and make sure they are healthy and uploading all the time Create IP reports to monitor the health of targets
+Notification/Alerting setup for target availability issues Upgrade OMS and Agents for every new release Follow up with development on
+bugs and apply fixes as appropriate Maintain a test bed for testing all fixes Adrrinistration of access for users thru roks, privileges Automate
+EW Emecicibe me moonisnebinem aren Oy COMMS else om ene UR cen cerca tem) cago snB OMe Ties Lam aly ese
+aS recronanencreeecom bay
+
+Recruit, work with new team members to bring them on board in quick time Writing technical documents to help team members in executing
+new projects Provide technical guidance throughout the project life cycle Process development in a continual manner and provide trouble
+Reus CCOH eae
+
+02/2005 - 112014
+Principal systerrs Consultant
+
+* Part of Oracle Public Cloud's Monitoring Solution team- CloudEM Operation's team.
+¢ Monitoring included 20000 Database + double the number of Fusion Middkeware targets + ZFS targets and making Enterprise Manager
+

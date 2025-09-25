@@ -1,0 +1,105 @@
+IT CONSULTANT
+Summary
+
+© Over Seven years of Software Application Development, Application Support, Testing and Implementation experience with Web based
+and N-tier Architectures involving all stages of Software Development Life Cycle (SDLC).
+
+* Experience in developing Web applications in. SDLC) including requirements, logical and physical architecture modeling, design,
+
+Clas sir eHa re Serene mere mst else cm
+
+Ability to work ina fast paced, collaborative environment and handke multiple concurrent projects.
+
+Collaborate with partners to understand high-level conceptual flow and develop prototypes to review with business partners.
+
+Functional Dommin experience involves HealthCare, Life Sciences and Transportation.
+
+Moved to Application Support team and leading an offshore team in Triaging production related issues since six months
+
+Experience in using Fiddler in Post Production Release Validation for monitoring Web Traffic
+
+Hands on experience in decompiling the code from the DLL's by using dot peck tool
+
+Achieved "Masters degree in Computer Sciences" from University of IL, Springfield
+
+Highlights
+© NET framework ASP.NET, C# .NET, XML, HTML, HTTP, MS SQL Server, Web Services, ADO.NET, Entity Framework and
+
+LINQ
+
+Expertise skills in CSS, Java Script, Themes & Skins, User controls, Custom Controls and intrinsic state management fimctionality in
+
+ASP.Net.
+
+© Experience in Object Oriented Analysis & Design (OOAD) concepts including Inheritance, Polymorphism & Abstraction.
+
+Expert skills in ASP.NET Web Fonts, State Management, Caching features, and Securing ASP.NET Web applications. Technologies
+
+ASP.NET 2.0/3.5/4.0/4.5, Web Services, WCF, MVC 4.0, .NET MVC
+
+Languages C#.NET, XML, HTML, JavaScript, Core Java, T-SQL
+
+Database Access Methods ADO.Net, ODBC
+
+Databases MS SQL Server 2000/2005/2008/2014, Orack 9i/10g/I 1g
+
+Servers IIS 7 & 7.5
+
+Web Programming ASP.NET, Java Script, HTML, CSS, AJAX, JQuery
+
+Version Contro! Tools Team Foundation Server , IBM Rational Team Concert, GitHub
+
+Reporting Tools SSRS, Crystal Reports and Business Objects
+
+IDE Visual Studio 2005, 2008, 2010, 2012, 2013, 2015
+
+Operating Systems Windows 98/2000/XP/Vista/7.0/8.0/8.1, MS DOS
+
+Domain Skills HealthCare, Life Sciences, Transportation
+
+Third Party Tools Telerik, Bootstrap, JQuery, Kendo UI, Postman Interceptor, Fiddler, dot peck, Remote Desktop Manager
+
+schivor anes
+IT CONSULTANT
+July 2014 to May 2016 Company Name it City , State
+
+© Project: Document Generation Services Description: eviCore Healthcare provides evidence-based healthcare solutions in the areas of
+Radiology, Radiation Therapy, Cardiology, Lab Management, Oncology, Pain Management and Sleep Management.
+
+© Document Generation Services is a platform comprised of over 30 products that range ftom UI, Web Services, Windows Services, and
+Database Systems.
+
+PECs oRecharislucriccs om nce sori Reticlich ine aC meninlecccens Ma aCe TDA RCday eM CHU LECe LO
+oT eee nee ye UME ES iaESNUeeN Ug cee bce
+
+© The phtformis currently utilized by 50+ customers and generated over 12 million documents per year Responsibilities: Develops core line of
+
+business application software Works directly with internal consumers to identify requirements for software development Works as a NET
+
+developer to develop updated code for core internal services Works as a SQL developer to update internal business logic Developed grade
+
+level reading enhancements to intemal web portals (using Flesch-Kincaid Algorithm) Developed plugins for core applications using
+WCF/MVC Web API Implemented Client Side scripting using JQuery.
+© Primary developer for internal implementations and enhancements Maintains production stability Monitors production services & servers
+
+Works on high priority Bug fixes in Production Participates in production software rekases Actively involved in projects to migrate business
+
+yu rhe Ge ntclnlco Ore ae kcaen eed am ite scl eB Rect ase mn ete CcUeccRUy ECA t TEE Scion
+© Recently moved to Application Support Team which is responsible in dealing all kinds of Production issues from all applications in the
+
+organization and performing Root cause Analysis & fixing the bugs as per priority Environment: NET3.5, VS.NET2010, LINQ, C#, JSON,
+
+ASP.NET, MVC, TFS, SQL Server 2008/2012, IIS6, Restfil services, JavaScript, Windows 7, Angular JS, Fiddler, dot Peek, Postrmn
+Calta Oey
+
+sO nics
+January 2010 to April2013 Company Narre 1% City , State
+
+Project: COMET Description: Landauer Inc.
+is the world leader in personnel radiation monitoring with a third generation proprietary state-of-the-art technology, optically stimulated
+luminescence (OSL).
+
+* Landauer is the kading provider of analytical services to determine personnel exposure to occupational and envirommental radiation hazards
+
+in the workplace and home.
+
