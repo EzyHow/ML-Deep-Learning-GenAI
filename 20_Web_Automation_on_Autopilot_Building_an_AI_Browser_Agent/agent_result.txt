@@ -1,6 +1,15 @@
 [
-  "about:blank",
-  "about:blank",
-  "about:blank",
-  "about:blank"
+  "https://google.com",
+  "https://www.google.com/",
+  "https://www.google.com/",
+  "https://www.google.com/",
+  "https://www.google.com/",
+  "https://www.google.com/",
+  "https://www.google.com/",
+  "https://www.google.com/search?q=what+is+browser+automation&sclient=gws-wiz",
+  "https://duckduckgo.com/?q=what+is+browser+automation",
+  "https://duckduckgo.com/?q=what+is+browser+automation&ia=web",
+  "https://duckduckgo.com/?q=what+is+browser+automation&ia=web",
+  "https://duckduckgo.com/?q=what+is+browser+automation&ia=web",
+  "https://duckduckgo.com/?q=what+is+browser+automation&ia=web"
 ]
